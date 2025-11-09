@@ -19,30 +19,46 @@ export default function LanguagePage({
   const t = getTranslation(lang);
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <header className="bg-white shadow-sm">
-        <div className="container mx-auto px-4 py-6">
-          <div className="flex items-center justify-between">
-            <h1 className="text-2xl font-bold text-gray-900">{t.title}</h1>
+    <div className="min-h-screen bg-[var(--color-background)]">
+      {/* Header */}
+      <header className="sticky top-0 z-50 bg-white/80 backdrop-blur-xl border-b border-[var(--color-border)]">
+        <div className="max-w-5xl mx-auto px-6 lg:px-8">
+          <div className="flex items-center justify-between h-16">
+            <h1 className="text-2xl font-semibold tracking-tight text-[var(--color-text-primary)]">
+              {t.title}
+            </h1>
             <LanguageSelector currentLang={lang} />
           </div>
         </div>
       </header>
 
-      <main className="container mx-auto px-4 py-12 max-w-4xl">
+      {/* Main Content */}
+      <main className="max-w-5xl mx-auto px-6 lg:px-8 py-16">
         {postsByYear.length === 0 ? (
-          <div className="text-center py-12">
-            <p className="text-xl text-gray-600">
-              No summaries yet. Add markdown files like <code className="bg-gray-200 px-2 py-1 rounded">post-name.{lang}.md</code> to the content/ directory.
+          <div className="text-center py-24">
+            <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-[var(--color-surface)] mb-6">
+              <svg className="w-8 h-8 text-[var(--color-text-tertiary)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+              </svg>
+            </div>
+            <h2 className="text-headline mb-3">No summaries yet</h2>
+            <p className="text-body max-w-md mx-auto">
+              Add markdown files like <code className="bg-[var(--color-surface)] px-2 py-1 rounded text-sm">post-name.{lang}.md</code> to the content/ directory.
             </p>
           </div>
         ) : (
-          <div className="space-y-12">
+          <div className="space-y-20">
             {postsByYear.map(({ year, posts }) => (
-              <section key={year}>
-                <h2 className="text-3xl font-bold text-gray-900 mb-6 pb-2 border-b-2 border-gray-300">
-                  {year}
-                </h2>
+              <section key={year} className="space-y-8">
+                {/* Year Header */}
+                <div className="flex items-center gap-6">
+                  <h2 className="text-5xl font-semibold tracking-tight text-[var(--color-text-primary)]">
+                    {year}
+                  </h2>
+                  <div className="flex-1 h-px bg-gradient-to-r from-[var(--color-border)] to-transparent"></div>
+                </div>
+
+                {/* Posts Grid */}
                 <div className="space-y-6">
                   {posts.map((post) => {
                     const showLanguageLabel = post.language !== lang;
@@ -51,55 +67,78 @@ export default function LanguagePage({
                       : null;
 
                     return (
-                      <article
+                      <Link
                         key={post.slug}
-                        className="bg-white rounded-lg shadow-sm p-6 hover:shadow-md transition-shadow"
+                        href={`/${lang}/${post.slug}`}
+                        className="block group"
                       >
-                        <Link href={`/${lang}/${post.slug}`} className="block group">
-                          <div className="flex items-start justify-between gap-4 mb-2">
-                            <h3 className="text-xl font-semibold text-gray-900 group-hover:text-blue-600 transition-colors flex-1">
-                              {post.title}
+                        <article className="card p-8 hover:shadow-xl transition-all duration-300">
+                          <div className="flex flex-col gap-4">
+                            {/* Title and Language Badge */}
+                            <div className="flex items-start gap-3">
+                              <h3 className="text-title flex-1 text-[var(--color-text-primary)] group-hover:text-[var(--color-accent)] transition-colors">
+                                {post.title}
+                              </h3>
                               {showLanguageLabel && languageLabel && (
-                                <span className="ml-2 text-sm font-normal text-gray-500 border border-gray-300 rounded px-2 py-0.5">
-                                  [{languageLabel.code.toUpperCase()}]
+                                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-[var(--color-surface)] text-[var(--color-text-secondary)] border border-[var(--color-border)]">
+                                  {languageLabel.flag} {languageLabel.code.toUpperCase()}
                                 </span>
                               )}
-                            </h3>
+                            </div>
+
+                            {/* Description */}
+                            {post.description && (
+                              <p className="text-body line-clamp-2">
+                                {post.description}
+                              </p>
+                            )}
+
+                            {/* Metadata */}
+                            <div className="flex items-center gap-6 text-caption">
+                              {post.date && (
+                                <time
+                                  dateTime={post.date}
+                                  className="flex items-center gap-2"
+                                >
+                                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                                  </svg>
+                                  {new Date(post.date).toLocaleDateString(lang, {
+                                    month: 'short',
+                                    day: 'numeric',
+                                    year: 'numeric',
+                                  })}
+                                </time>
+                              )}
+                              {post.videoUrl && (
+                                <span className="flex items-center gap-2">
+                                  <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
+                                    <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" />
+                                  </svg>
+                                  Video
+                                </span>
+                              )}
+                              {post.availableLanguages.length > 1 && (
+                                <span className="flex items-center gap-1.5">
+                                  {post.availableLanguages.map((l) => (
+                                    <span key={l}>{getLanguageByCode(l)?.flag}</span>
+                                  ))}
+                                </span>
+                              )}
+                            </div>
                           </div>
 
-                          {post.description && (
-                            <p className="text-gray-600 text-sm leading-relaxed mb-3">
-                              {post.description}
-                            </p>
-                          )}
-
-                          <div className="flex items-center gap-4 text-sm text-gray-500">
-                            {post.date && (
-                              <time dateTime={post.date}>
-                                {new Date(post.date).toLocaleDateString(lang, {
-                                  year: 'numeric',
-                                  month: 'long',
-                                  day: 'numeric',
-                                })}
-                              </time>
-                            )}
-                            {post.videoUrl && (
-                              <span className="flex items-center gap-1">
-                                <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
-                                  <path d="M10 12a2 2 0 100-4 2 2 0 000 4z" />
-                                  <path fillRule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clipRule="evenodd" />
-                                </svg>
-                                Video
-                              </span>
-                            )}
-                            {post.availableLanguages.length > 1 && (
-                              <span className="text-xs">
-                                {post.availableLanguages.map(l => getLanguageByCode(l)?.flag).join(' ')}
-                              </span>
-                            )}
+                          {/* Hover indicator */}
+                          <div className="mt-4 pt-4 border-t border-transparent group-hover:border-[var(--color-border)] transition-colors">
+                            <span className="inline-flex items-center gap-2 text-sm font-medium text-[var(--color-accent)] opacity-0 group-hover:opacity-100 transition-opacity">
+                              Read summary
+                              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                              </svg>
+                            </span>
                           </div>
-                        </Link>
-                      </article>
+                        </article>
+                      </Link>
                     );
                   })}
                 </div>
@@ -108,6 +147,15 @@ export default function LanguagePage({
           </div>
         )}
       </main>
+
+      {/* Footer */}
+      <footer className="border-t border-[var(--color-border)] mt-24">
+        <div className="max-w-5xl mx-auto px-6 lg:px-8 py-12">
+          <p className="text-caption text-center">
+            YouTube Video Summaries
+          </p>
+        </div>
+      </footer>
     </div>
   );
 }
