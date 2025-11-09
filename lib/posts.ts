@@ -6,6 +6,7 @@ import { getLanguageCodes } from '@/config/languages';
 export interface Post {
   slug: string;
   title: string;
+  description?: string;
   date: string;
   videoUrl: string;
   language: string;
@@ -60,7 +61,8 @@ export function getAvailableLanguages(slug: string): string[] {
 }
 
 /**
- * Get all posts for a specific language
+ * Get all posts for display, preferring requested language but showing all posts
+ * This returns one post per slug, using the requested language if available
  */
 export function getAllPosts(language: string): Post[] {
   const slugs = getAllPostSlugs();
@@ -78,7 +80,7 @@ export function getAllPosts(language: string): Post[] {
 
 /**
  * Get a specific post by slug and language
- * Falls back to default language if translation not available
+ * Falls back to first available language if translation not available
  */
 export function getPostBySlug(language: string, slug: string): Post | null {
   const availableLanguages = getAvailableLanguages(slug);
@@ -97,9 +99,13 @@ export function getPostBySlug(language: string, slug: string): Post | null {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const { data, content } = matter(fileContents);
 
+    // Extract first paragraph as description if not provided
+    const description = data.description || extractFirstParagraph(content);
+
     return {
       slug,
       title: data.title || slug,
+      description,
       date: data.date || '',
       videoUrl: data.videoUrl || '',
       language: langToUse,
@@ -109,6 +115,61 @@ export function getPostBySlug(language: string, slug: string): Post | null {
   } catch {
     return null;
   }
+}
+
+/**
+ * Extract first paragraph from markdown content for description
+ */
+function extractFirstParagraph(content: string): string {
+  // Remove frontmatter if present
+  const lines = content.split('\n');
+
+  // Find first non-empty, non-heading line
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (trimmed && !trimmed.startsWith('#') && !trimmed.startsWith('---')) {
+      // Remove markdown formatting
+      return trimmed
+        .replace(/\*\*(.*?)\*\*/g, '$1') // bold
+        .replace(/\*(.*?)\*/g, '$1')     // italic
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // links
+        .substring(0, 200); // limit length
+    }
+  }
+
+  return '';
+}
+
+/**
+ * Group posts by year
+ */
+export interface PostsByYear {
+  year: string;
+  posts: Post[];
+}
+
+export function getPostsGroupedByYear(language: string): PostsByYear[] {
+  const posts = getAllPosts(language);
+  const groupedMap = new Map<string, Post[]>();
+
+  posts.forEach(post => {
+    if (!post.date) return;
+
+    const year = new Date(post.date).getFullYear().toString();
+
+    if (!groupedMap.has(year)) {
+      groupedMap.set(year, []);
+    }
+
+    groupedMap.get(year)!.push(post);
+  });
+
+  // Convert to array and sort by year descending
+  const grouped = Array.from(groupedMap.entries())
+    .map(([year, posts]) => ({ year, posts }))
+    .sort((a, b) => parseInt(b.year) - parseInt(a.year));
+
+  return grouped;
 }
 
 /**
