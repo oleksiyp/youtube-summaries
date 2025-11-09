@@ -5,9 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Uncomment these lines if deploying to GitHub Pages with a repository name
-  // basePath: '/your-repo-name',
-  // assetPrefix: '/your-repo-name',
+  basePath: '/youtube-summaries',
+  assetPrefix: '/youtube-summaries',
 };
 
 export default nextConfig;
