@@ -1,10 +1,26 @@
 ---
-title: "Nobel Prize in Chemistry 2024: AlphaFold's Revolution in Protein Structure Prediction and Its Surprising Limitations"
-date: "2024-10-09"
-videoUrl: "https://www.youtube.com/watch?v=6tDWm97KvJY"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "On October 9th, the Nobel Committee awarded the Chemistry Prize to David Baker, Demis Hassabis, and John Jumper for revolutionizing protein structure prediction and design through AI and computational methods. This stream explores how AlphaFold achieved 90% accuracy in predicting protein structures—a breakthrough that seemed impossible just years ago—and why DeepMind made 200 million protein structures freely available to researchers worldwide. We'll discuss how neural networks finally solved the protein folding problem, examine AlphaFold's critical limitations (including its inability to predict mutation effects and ligand binding), and explore why current protein design capabilities remain at "shovel level" compared to nature's "synchrotron level" complexity. The discussion also addresses why some experts were skeptical of this nomination and what these breakthroughs reveal about the vast gap between human design capabilities and evolutionary sophistication."
+title: >-
+  Nobel Prize in Chemistry 2024: AlphaFold's Revolution in Protein Structure
+  Prediction and Its Surprising Limitations
+date: '2024-10-09'
+videoUrl: https://www.youtube.com/watch?v=6tDWm97KvJY
+channelName: Ирина Якутенко
+channelUrl: https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w
+shortDescription: >-
+  On October 9th, the Nobel Committee awarded the Chemistry Prize to David
+  Baker, Demis Hassabis, and John Jumper for revolutionizing protein structure
+  prediction and design through AI and computational methods. This stream
+  explores how AlphaFold achieved 90% accuracy in predicting protein
+  structures—a breakthrough that seemed impossible just years ago—and why
+  DeepMind made 200 million protein structures freely available to researchers
+  worldwide. We'll discuss how neural networks finally solved the protein
+  folding problem, examine AlphaFold's critical limitations (including its
+  inability to predict mutation effects and ligand binding), and explore why
+  current protein design capabilities remain at "shovel level" compared to
+  nature's "synchrotron level" complexity. The discussion also addresses why
+  some experts were skeptical of this nomination and what these breakthroughs
+  reveal about the vast gap between human design capabilities and evolutionary
+  sophistication.
 ---
 
 # Nobel Prize in Chemistry 2024: AlphaFold, Protein Design, and the Revolution in Structural Biology

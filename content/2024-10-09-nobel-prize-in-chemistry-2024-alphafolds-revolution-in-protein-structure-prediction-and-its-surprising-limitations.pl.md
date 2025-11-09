@@ -1,10 +1,22 @@
 ---
-title: "Nagroda Nobla z Chemii 2024: AlphaFold, AI i Rewolucja w Przewidywaniu Struktury Białek"
-date: "2024-10-09"
-videoUrl: "https://www.youtube.com/watch?v=6tDWm97KvJY"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "9 października ogłoszono laureatów Nagrody Nobla z chemii 2024 – David Baker, Demis Hassabis i John Jumper zostali nagrodzeni za przełomowe osiągnięcia w przewidywaniu struktury białek przy użyciu sztucznej inteligencji. AlphaFold 2 rozwiązał problem, który przez dziesięciolecia wydawał się niemożliwy, osiągając 90% dokładności i określając struktury 200 milionów białek. W tym materiale omawiam, jak działają AlphaFold i Rosetta, dlaczego to przełom dla nauki i medycyny, jakie są ograniczenia tych technologii oraz dlaczego niektórzy naukowcy sceptycznie podchodzą do tej nominacji. Bonus: wyjaśnienie, dlaczego nagroda pokazuje, że nie mogliśmy sztucznie stworzyć koronawirusa SARS-CoV-2."
+title: >-
+  Nagroda Nobla z Chemii 2024: AlphaFold, AI i Rewolucja w Przewidywaniu
+  Struktury Białek
+date: '2024-10-09'
+videoUrl: https://www.youtube.com/watch?v=6tDWm97KvJY
+channelName: Ирина Якутенко
+channelUrl: https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w
+shortDescription: >-
+  9 października ogłoszono laureatów Nagrody Nobla z chemii 2024 – David Baker,
+  Demis Hassabis i John Jumper zostali nagrodzeni za przełomowe osiągnięcia w
+  przewidywaniu struktury białek przy użyciu sztucznej inteligencji. AlphaFold 2
+  rozwiązał problem, który przez dziesięciolecia wydawał się niemożliwy,
+  osiągając 90% dokładności i określając struktury 200 milionów białek. W tym
+  materiale omawiam, jak działają AlphaFold i Rosetta, dlaczego to przełom dla
+  nauki i medycyny, jakie są ograniczenia tych technologii oraz dlaczego
+  niektórzy naukowcy sceptycznie podchodzą do tej nominacji. Bonus: wyjaśnienie,
+  dlaczego nagroda pokazuje, że nie mogliśmy sztucznie stworzyć koronawirusa
+  SARS-CoV-2.
 ---
 
 # Nagroda Nobla z Chemii 2024: AlphaFold i Rewolucja w Biologii Strukturalnej
