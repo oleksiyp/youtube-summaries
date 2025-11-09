@@ -1,9 +1,10 @@
 import Link from 'next/link';
 import { use } from 'react';
-import { getAllPostSlugs, getPostBySlug, getAvailableLanguages } from '@/lib/posts';
-import { getTranslation, languages, getLanguageByCode, getLanguageName } from '@/lib/i18n';
+import { getAllPostSlugs, getPostBySlug } from '@/lib/posts';
+import { getTranslation, getLanguageByCode, getLanguageName } from '@/lib/i18n';
 import { getLanguageCodes } from '@/config/languages';
 import { notFound } from 'next/navigation';
+import { LanguageSelector } from '@/components/language-selector';
 
 export function generateStaticParams() {
   const params: { lang: string; slug: string }[] = [];
@@ -42,31 +43,12 @@ export default function PostPage({
           <div className="flex items-center justify-between">
             <Link
               href={`/${lang}`}
-              className="text-blue-600 hover:text-blue-800 inline-flex items-centers"
+              className="text-blue-600 hover:text-blue-800 inline-flex items-center"
             >
               ← {t.back}
             </Link>
 
-            {post.availableLanguages.length > 1 && (
-              <div className="flex gap-2">
-                {post.availableLanguages.map((langCode) => {
-                  const language = getLanguageByCode(langCode);
-                  return (
-                    <Link
-                      key={langCode}
-                      href={`/${langCode}/${slug}`}
-                      className={`px-3 py-1 rounded text-sm ${
-                        langCode === post.language
-                          ? 'bg-blue-600 text-white'
-                          : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-                      }`}
-                    >
-                      {language?.flag} {language?.name}
-                    </Link>
-                  );
-                })}
-              </div>
-            )}
+            <LanguageSelector currentLang={lang} />
           </div>
         </div>
       </header>
@@ -77,6 +59,25 @@ export default function PostPage({
             <div className="mb-6 p-4 bg-yellow-50 border border-yellow-200 rounded">
               <p className="text-sm text-yellow-800">
                 {t.notAvailableInLanguage} <strong>{getLanguageName(post.language)}</strong>
+              </p>
+            </div>
+          )}
+
+          {post.availableLanguages.length > 1 && (
+            <div className="mb-6 p-3 bg-blue-50 border border-blue-200 rounded">
+              <p className="text-sm text-blue-800">
+                {t.availableIn}: {post.availableLanguages.map(l => {
+                  const lang = getLanguageByCode(l);
+                  return (
+                    <Link
+                      key={l}
+                      href={`/${l}/${slug}`}
+                      className="inline-flex items-center ml-2 hover:underline"
+                    >
+                      {lang?.flag} {lang?.name}
+                    </Link>
+                  );
+                })}
               </p>
             </div>
           )}

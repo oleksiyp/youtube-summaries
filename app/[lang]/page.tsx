@@ -1,8 +1,9 @@
 import Link from 'next/link';
 import { use } from 'react';
 import { getAllPosts } from '@/lib/posts';
-import { getTranslation, languages, getLanguageByCode, getLanguageName } from '@/lib/i18n';
+import { getTranslation, getLanguageByCode } from '@/lib/i18n';
 import { getLanguageCodes } from '@/config/languages';
+import { LanguageSelector } from '@/components/language-selector';
 
 export function generateStaticParams() {
   return getLanguageCodes().map((lang) => ({ lang }));
@@ -23,30 +24,14 @@ export default function LanguagePage({
       <header className="bg-white shadow-sm">
         <div className="container mx-auto px-4 py-6">
           <div className="flex items-center justify-between">
-            <Link href="/" className="text-blue-600 hover:text-blue-800">
-              ← {currentLang?.name || lang}
-            </Link>
-            <div className="flex gap-4">
-              {languages.map((language) => (
-                <Link
-                  key={language.code}
-                  href={`/${language.code}`}
-                  className={`px-3 py-1 rounded ${
-                    language.code === lang
-                      ? 'bg-blue-600 text-white'
-                      : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-                  }`}
-                >
-                  {language.flag} {language.name}
-                </Link>
-              ))}
-            </div>
+            <h1 className="text-2xl font-bold text-gray-900">{t.title}</h1>
+            <LanguageSelector currentLang={lang} />
           </div>
         </div>
       </header>
 
       <main className="container mx-auto px-4 py-12">
-        <h1 className="text-4xl font-bold text-gray-900 mb-8">{t.allPosts}</h1>
+        <h2 className="text-3xl font-bold text-gray-900 mb-8">{t.allPosts}</h2>
 
         {posts.length === 0 ? (
           <div className="text-center py-12">
@@ -62,9 +47,9 @@ export default function LanguagePage({
                 className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow"
               >
                 <Link href={`/${lang}/${post.slug}`}>
-                  <h2 className="text-2xl font-semibold text-gray-900 mb-2 hover:text-blue-600">
+                  <h3 className="text-2xl font-semibold text-gray-900 mb-2 hover:text-blue-600">
                     {post.title}
-                  </h2>
+                  </h3>
                 </Link>
                 {post.date && (
                   <p className="text-sm text-gray-500 mb-3">
