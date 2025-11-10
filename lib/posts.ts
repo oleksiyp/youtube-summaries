@@ -7,8 +7,11 @@ export interface Post {
   slug: string;
   title: string;
   description?: string;
+  shortDescription?: string;
   date: string;
   videoUrl: string;
+  channelName?: string;
+  channelUrl?: string;
   language: string;
   content: string;
   availableLanguages: string[];
@@ -106,8 +109,11 @@ export function getPostBySlug(language: string, slug: string): Post | null {
       slug,
       title: data.title || slug,
       description,
+      shortDescription: data.shortDescription,
       date: data.date || '',
       videoUrl: data.videoUrl || '',
+      channelName: data.channelName,
+      channelUrl: data.channelUrl,
       language: langToUse,
       content,
       availableLanguages,
