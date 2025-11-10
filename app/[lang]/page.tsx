@@ -88,7 +88,7 @@ export default function LanguagePage({
 
                             {/* Description */}
                             {(post.shortDescription || post.description) && (
-                              <p className="text-body line-clamp-2">
+                              <p className="text-body line-clamp-5">
                                 {post.shortDescription || post.description}
                               </p>
                             )}
