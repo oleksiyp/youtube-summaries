@@ -188,23 +188,63 @@ export default function PostPage({
 }
 
 function formatMarkdown(content: string): string {
-  let html = content;
+  const lines = content.split('\n');
+  const result: string[] = [];
+  let i = 0;
 
-  html = html.replace(/^### (.*$)/gim, '<h3>$1</h3>');
-  html = html.replace(/^## (.*$)/gim, '<h2>$1</h2>');
-  html = html.replace(/^# (.*$)/gim, '<h1>$1</h1>');
-  html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-  html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
-  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
-  html = html.replace(/^\* (.*$)/gim, '<li>$1</li>');
-  html = html.replace(/(<li>[\s\S]*<\/li>)/g, '<ul>$1</ul>');
+  while (i < lines.length) {
+    const line = lines[i];
+    const trimmed = line.trim();
 
-  html = html.split('\n\n').map(para => {
-    if (para.startsWith('<h') || para.startsWith('<ul') || para.startsWith('<li')) {
-      return para;
+    // Skip empty lines
+    if (!trimmed) {
+      i++;
+      continue;
     }
-    return `<p>${para.replace(/\n/g, '<br>')}</p>`;
-  }).join('\n');
 
-  return html;
+    // Process headings
+    if (trimmed.startsWith('### ')) {
+      result.push(`<h3>${formatInline(trimmed.substring(4))}</h3>`);
+      i++;
+    } else if (trimmed.startsWith('## ')) {
+      result.push(`<h2>${formatInline(trimmed.substring(3))}</h2>`);
+      i++;
+    } else if (trimmed.startsWith('# ')) {
+      result.push(`<h1>${formatInline(trimmed.substring(2))}</h1>`);
+      i++;
+    }
+    // Process unordered lists
+    else if (trimmed.match(/^[-*]\s/)) {
+      const listItems: string[] = [];
+      while (i < lines.length && lines[i].trim().match(/^[-*]\s/)) {
+        const itemText = lines[i].trim().substring(2);
+        listItems.push(`<li>${formatInline(itemText)}</li>`);
+        i++;
+      }
+      result.push(`<ul>${listItems.join('')}</ul>`);
+    }
+    // Process paragraphs
+    else {
+      const paraLines: string[] = [];
+      while (i < lines.length && lines[i].trim() && !lines[i].trim().match(/^(#{1,3}\s|[-*]\s)/)) {
+        paraLines.push(lines[i].trim());
+        i++;
+      }
+      if (paraLines.length > 0) {
+        result.push(`<p>${formatInline(paraLines.join(' '))}</p>`);
+      }
+    }
+  }
+
+  return result.join('\n');
+}
+
+function formatInline(text: string): string {
+  return text
+    // Links
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
+    // Bold
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    // Italic (but not part of bold)
+    .replace(/\*(.+?)\*/g, '<em>$1</em>');
 }
