@@ -22,12 +22,19 @@ shortDescription: >-
   reveal about the vast gap between human design capabilities and evolutionary
   sophistication.
 tags:
-  - alphafold
   - protein folding
+  - alphafold ai
   - nobel prize chemistry
-  - structural biology
-  - ai in science
   - protein design
+  - structural biology
+  - drug development
+tagKeys:
+  - protein-folding
+  - alphafold-ai
+  - nobel-prize-chemistry
+  - protein-design
+  - structural-biology
+  - drug-development
 ---
 
 # Nobel Prize in Chemistry 2024: AlphaFold, Protein Design, and the Revolution in Structural Biology

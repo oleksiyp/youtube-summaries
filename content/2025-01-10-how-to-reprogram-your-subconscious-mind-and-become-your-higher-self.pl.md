@@ -12,12 +12,17 @@ shortDescription: >-
   sabotuje Twoje cele. Praktyczne strategie, które pozwolą Ci osiągnąć
   dyscyplinę, produktywność i wolność – bez ciągłej walki z samym sobą.
 tags:
-  - rozwój osobisty
-  - prokrastynacja
+  - autosabotaż
   - podświadomość
-  - tożsamość
-  - samosabotaż
-  - motywacja
+  - zmiana tożsamości
+  - praktyka wizualizacji
+  - pokonywanie oporu
+tagKeys:
+  - self-sabotage
+  - subconscious-mind
+  - identity-change
+  - visualization-practice
+  - overcoming-resistance
 ---
 
 # Jak Odzyskać Kontrolę nad Swoim Życiem i Osiągnąć Pełny Potencjał

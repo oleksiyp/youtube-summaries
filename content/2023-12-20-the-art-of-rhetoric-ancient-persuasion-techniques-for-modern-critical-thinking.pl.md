@@ -19,11 +19,18 @@ shortDescription: >-
   propagandy.
 tags:
   - retoryka
+  - myślenie krytyczne
+  - techniki perswazji
+  - trivium klasyczne
+  - manipulacja medialna
   - figury retoryczne
-  - perswazja
-  - trivium
-  - krytyczne myślenie
-  - manipulacja
+tagKeys:
+  - rhetoric
+  - critical-thinking
+  - persuasion-techniques
+  - classical-trivium
+  - media-manipulation
+  - rhetorical-devices
 ---
 
 # Retoryka: Sztuka Przekonującego Mówienia - Kompletne Podsumowanie

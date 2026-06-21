@@ -16,12 +16,19 @@ shortDescription: >-
   switching funds for marginally lower fees, highlighting the tax consequences
   that can easily outweigh years of savings.
 tags:
-  - etf investing
-  - european investors
-  - expense ratios
-  - index funds
-  - portfolio strategy
-  - solactive
+  - etf fees
+  - index licensing
+  - european investing
+  - fund selection
+  - expense ratio
+  - tax efficiency
+tagKeys:
+  - etf-fees
+  - index-licensing
+  - european-investing
+  - fund-selection
+  - expense-ratio
+  - tax-efficiency
 ---
 
 # How European Investors Can Stop Overpaying on ETF Fees

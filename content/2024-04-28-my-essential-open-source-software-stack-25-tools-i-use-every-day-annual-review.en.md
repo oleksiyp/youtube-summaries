@@ -18,12 +18,19 @@ shortDescription: >-
   me as I share why these tools have earned their place in my workflow and how
   you can implement them in yours.
 tags:
-  - open source software
-  - self-hosted tools
-  - home lab
+  - open source tools
   - server management
-  - linux
+  - home automation
+  - remote access
+  - self-hosted apps
   - content creation
+tagKeys:
+  - open-source-tools
+  - server-management
+  - home-automation
+  - remote-access
+  - self-hosted-apps
+  - content-creation
 ---
 
 # Annual Review of Open Source Software

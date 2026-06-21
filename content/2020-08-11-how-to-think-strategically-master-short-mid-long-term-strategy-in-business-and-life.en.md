@@ -17,11 +17,18 @@ shortDescription: >-
   advantage that comes from thinking several moves ahead in business and life.
 tags:
   - strategic thinking
-  - leadership
+  - short vs long term
   - decision making
-  - business strategy
+  - team alignment
   - competitive advantage
-  - long-term planning
+  - leadership development
+tagKeys:
+  - strategic-thinking
+  - short-vs-long-term
+  - decision-making
+  - team-alignment
+  - competitive-advantage
+  - leadership-development
 ---
 
 # Strategic Thinking: Mastering Short, Mid, and Long-Term Strategy

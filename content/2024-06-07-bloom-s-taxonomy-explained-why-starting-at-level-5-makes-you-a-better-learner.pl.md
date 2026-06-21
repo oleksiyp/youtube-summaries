@@ -19,11 +19,19 @@ shortDescription: >-
   takimi jak AI do generowania pytań na odpowiednim poziomie taksonomii –
   pozwala znacząco skrócić czas nauki i osiągać lepsze wyniki akademickie.
 tags:
-  - taksonomia blooma
-  - techniki uczenia się
-  - skuteczna nauka
-  - myślenie krytyczne
-  - strategie akademickie
+  - taksonomia Blooma
+  - myślenie wyższego rzędu
+  - strategie uczenia się
+  - zapamiętywanie
+  - ocena krytyczna
+  - wyniki akademickie
+tagKeys:
+  - bloom-s-taxonomy
+  - higher-order-thinking
+  - study-strategies
+  - memory-retention
+  - critical-evaluation
+  - academic-performance
 ---
 
 # Sześć poziomów myślenia, które decydują o wynikach w nauce

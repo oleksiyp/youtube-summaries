@@ -15,11 +15,16 @@ shortDescription: >-
   making permanent transformation through strategic identity work.
 tags:
   - self-sabotage
-  - personal development
-  - identity transformation
   - subconscious mind
-  - habits
-  - motivation
+  - identity change
+  - visualization practice
+  - overcoming resistance
+tagKeys:
+  - self-sabotage
+  - subconscious-mind
+  - identity-change
+  - visualization-practice
+  - overcoming-resistance
 ---
 
 # Overcoming Self-Sabotage and Building Your Higher Self

@@ -3,12 +3,19 @@ title: 'Вы — ваш главный актив: как рассчитать �
 date: '2024-10-18'
 videoUrl: 'https://www.youtube.com/watch?v=F3zPPs04kSo'
 tags:
-  - инвестиции в себя
-  - личностный рост
-  - финансовое мышление
-  - саморазвитие
   - человеческий капитал
-  - карьера
+  - инвестиции в себя
+  - рост доходов
+  - здоровье как актив
+  - географическое влияние
+  - развитие навыков
+tagKeys:
+  - human-capital
+  - self-investment
+  - income-growth
+  - health-as-asset
+  - geographic-impact
+  - skill-development
 ---
 
 # Человек как главный актив: инвестиции в себя

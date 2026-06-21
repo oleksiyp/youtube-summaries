@@ -15,11 +15,16 @@ shortDescription: >-
   twoja droga ma głębokie znaczenie i wartość.
 tags:
   - sens życia
-  - filozofia egzystencjalna
-  - rozwój osobisty
-  - samopoznanie
-  - duchowość
-  - cel życia
+  - odkrywanie siebie
+  - cel życiowy
+  - rozwój duszy
+  - poszukiwanie egzystencjalne
+tagKeys:
+  - life-meaning
+  - self-discovery
+  - personal-purpose
+  - soul-growth
+  - existential-search
 ---
 
 # Jaki jest sens życia? - Kompleksowe podsumowanie

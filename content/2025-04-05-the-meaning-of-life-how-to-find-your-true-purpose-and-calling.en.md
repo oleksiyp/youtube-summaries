@@ -14,12 +14,17 @@ shortDescription: >-
   connecting mushroom, or a cosmic observer, discover your unique path to
   growing your soul and living with authentic purpose.
 tags:
-  - meaning of life
-  - life purpose
+  - life meaning
+  - self discovery
+  - personal purpose
+  - soul growth
+  - existential search
+tagKeys:
+  - life-meaning
   - self-discovery
-  - existential questions
-  - personal growth
-  - spiritual development
+  - personal-purpose
+  - soul-growth
+  - existential-search
 ---
 
 # The Meaning and Purpose of Life: A Comprehensive Exploration

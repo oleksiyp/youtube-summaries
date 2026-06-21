@@ -5,11 +5,19 @@ title: >-
 date: '2024-10-18'
 videoUrl: 'https://www.youtube.com/watch?v=F3zPPs04kSo'
 tags:
-  - rozwój osobisty
-  - wartość człowieka
-  - inwestowanie w siebie
-  - kariera zawodowa
-  - finanse osobiste
+  - kapitał ludzki
+  - inwestycja w siebie
+  - wzrost dochodów
+  - zdrowie jako aktywa
+  - wpływ lokalizacji
+  - rozwój umiejętności
+tagKeys:
+  - human-capital
+  - self-investment
+  - income-growth
+  - health-as-asset
+  - geographic-impact
+  - skill-development
 ---
 
 # Podsumowanie: Ty Jesteś Swoim Głównym Aktywem

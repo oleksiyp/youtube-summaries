@@ -18,12 +18,19 @@ shortDescription: >-
   dlaczego nagroda pokazuje, że nie mogliśmy sztucznie stworzyć koronawirusa
   SARS-CoV-2.
 tags:
-  - nagroda nobla
-  - białka
-  - alphafold
-  - sztuczna inteligencja
-  - biologia obliczeniowa
+  - składanie białek
+  - sztuczna inteligencja alphafold
+  - nagroda nobla chemia
   - projektowanie białek
+  - biologia strukturalna
+  - opracowanie leków
+tagKeys:
+  - protein-folding
+  - alphafold-ai
+  - nobel-prize-chemistry
+  - protein-design
+  - structural-biology
+  - drug-development
 ---
 
 # Nagroda Nobla z Chemii 2024: AlphaFold i Rewolucja w Biologii Strukturalnej

@@ -15,12 +15,19 @@ shortDescription: >-
   błonkówek - obejrzyj poprzednie odcinki, aby poznać pełną historię tej
   niezwykłej grupy!
 tags:
-  - błonkówki żądłowe
-  - ewolucja owadów
-  - entomologia
-  - osy i pszczoły
-  - systematyka owadów
-  - zachowania społeczne owadów
+  - ewolucja błonkówek
+  - owady społeczne
+  - osy żądłówki
+  - zachowanie pasożytnicze
+  - pochodzenie pszczół
+  - różnorodność mrówek
+tagKeys:
+  - hymenoptera-evolution
+  - social-insects
+  - stinging-wasps
+  - parasitic-behavior
+  - bee-origins
+  - ant-diversity
 ---
 
 # Ewolucja i systematyka błonkówek żądłowych

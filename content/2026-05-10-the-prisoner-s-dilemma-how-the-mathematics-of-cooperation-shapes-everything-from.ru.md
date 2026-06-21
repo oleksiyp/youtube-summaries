@@ -22,10 +22,17 @@ shortDescription: >-
 tags:
   - теория игр
   - дилемма заключённого
-  - эволюция сотрудничества
-  - парадокс ферми
-  - шкала кардашова
-  - кооперация
+  - ядерная гонка вооружений
+  - эволюция кооперации
+  - парадокс Ферми
+  - выживание цивилизации
+tagKeys:
+  - game-theory
+  - prisoner-s-dilemma
+  - nuclear-arms-race
+  - evolution-of-cooperation
+  - fermi-paradox
+  - civilizational-survival
 ---
 
 # Дилемма заключённого: от теории игр до выживания цивилизации

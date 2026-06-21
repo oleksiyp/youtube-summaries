@@ -15,10 +15,16 @@ shortDescription: >-
   успіху в бізнесі.
 tags:
   - стратегічне мислення
-  - бізнес-стратегія
-  - лідерство
-  - конкурентна перевага
+  - довгострокове бачення
   - прийняття рішень
+  - ділова конкуренція
+  - лідерське мислення
+tagKeys:
+  - strategic-thinking
+  - long-term-vision
+  - decision-making
+  - business-competition
+  - leadership-mindset
 ---
 
 # Майстерність стратегічного мislення в бізнесі

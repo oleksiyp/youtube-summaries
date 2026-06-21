@@ -18,11 +18,16 @@ shortDescription: >-
   kolejnych, coraz odważniejszych kroków.
 tags:
   - wiele źródeł dochodu
-  - pasywny dochód
   - dźwignia finansowa
+  - dochód pasywny
+  - porady przedsiębiorcze
   - budowanie bogactwa
-  - przedsiębiorczość
-  - inwestowanie
+tagKeys:
+  - multiple-income-streams
+  - financial-leverage
+  - passive-income
+  - entrepreneurship-tips
+  - wealth-building
 ---
 
 # 9 Strumieni Dochodów, Które Zbudowałem Przy Zachowaniu Etatu

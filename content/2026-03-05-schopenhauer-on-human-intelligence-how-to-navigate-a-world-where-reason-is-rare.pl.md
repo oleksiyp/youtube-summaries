@@ -20,12 +20,19 @@ shortDescription: >-
   jest, co stanowi fundament spokoju i skutecznego działania, a nie cynizmu czy
   rezygnacji.
 tags:
-  - filozofia
-  - schopenhauer
-  - inteligencja
-  - myślenie krytyczne
-  - psychologia
-  - mądrość życiowa
+  - granice intelektu
+  - poznanie człowieka
+  - konformizm społeczny
+  - filozofia schopenhauera
+  - izolacja intelektualna
+  - rozumowanie emocjonalne
+tagKeys:
+  - intellectual-limits
+  - human-cognition
+  - social-conformity
+  - schopenhauer-philosophy
+  - intellectual-isolation
+  - emotional-reasoning
 ---
 
 # Filozofia Schopenhauera o inteligencji i ograniczeniach ludzkich — jak działać w świecie pozbawionym krytycznego myślenia

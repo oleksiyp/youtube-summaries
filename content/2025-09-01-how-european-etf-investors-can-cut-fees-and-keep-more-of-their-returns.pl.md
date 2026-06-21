@@ -16,12 +16,19 @@ shortDescription: >-
   jednostek na rzecz tańszych może przez wiele lat kosztować więcej niż
   przyniesie oszczędności na opłatach.
 tags:
-  - etf
-  - inwestowanie
-  - opłaty funduszy
-  - rynki kapitałowe
-  - indeksy giełdowe
-  - oszczędzanie
+  - opłaty etf
+  - licencjonowanie indeksów
+  - inwestowanie w europie
+  - wybór funduszu
+  - wskaźnik kosztów
+  - efektywność podatkowa
+tagKeys:
+  - etf-fees
+  - index-licensing
+  - european-investing
+  - fund-selection
+  - expense-ratio
+  - tax-efficiency
 ---
 
 # Najtańsze ETF-y w Europie – jak ukryte koszty zjadają Twój majątek

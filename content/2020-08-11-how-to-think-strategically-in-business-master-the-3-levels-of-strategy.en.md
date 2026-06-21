@@ -17,11 +17,16 @@ shortDescription: >-
   to succeed at the highest levels.
 tags:
   - strategic thinking
-  - business strategy
-  - leadership
+  - long-term vision
+  - decision making
+  - business competition
+  - leadership mindset
+tagKeys:
+  - strategic-thinking
+  - long-term-vision
   - decision-making
-  - long-term planning
-  - competitive advantage
+  - business-competition
+  - leadership-mindset
 ---
 
 # Strategic Thinking: From Short-Term Problem Solving to Long-Term Vision

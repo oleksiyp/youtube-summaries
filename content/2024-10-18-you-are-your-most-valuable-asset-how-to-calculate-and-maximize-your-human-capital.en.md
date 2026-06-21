@@ -6,11 +6,18 @@ date: '2024-10-18'
 videoUrl: 'https://www.youtube.com/watch?v=F3zPPs04kSo'
 tags:
   - human capital
-  - personal finance
-  - self-investment
-  - wealth building
-  - career development
+  - self investment
   - income growth
+  - health as asset
+  - geographic impact
+  - skill development
+tagKeys:
+  - human-capital
+  - self-investment
+  - income-growth
+  - health-as-asset
+  - geographic-impact
+  - skill-development
 ---
 
 # You Are Your Most Valuable Asset

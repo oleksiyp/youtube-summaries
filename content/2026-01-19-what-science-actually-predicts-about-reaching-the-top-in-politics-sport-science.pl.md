@@ -20,12 +20,17 @@ shortDescription: >-
   realnych ścieżek awansu dla utalentowanych osób z mniej uprzywilejowanych
   środowisk – zamiast pozornego wyrównywania szans przez obniżanie wymagań.
 tags:
-  - predyktory sukcesu
-  - efekt mateusza
-  - nierówności społeczne
-  - kariera zawodowa
-  - socjoekonomia
-  - merytokracja
+  - elitarne pochodzenie społeczne
+  - efekt Mateusza
+  - efekt względnego wieku
+  - prestiż instytucjonalny
+  - zmarnowany talent
+tagKeys:
+  - elite-socioeconomic-advantage
+  - matthew-effect
+  - relative-age-effect
+  - institutional-prestige
+  - missing-talent
 ---
 
 # Predyktory sukcesu – nauka, sport, polityka i twórczość

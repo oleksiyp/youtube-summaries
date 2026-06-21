@@ -19,11 +19,18 @@ shortDescription: >-
   for navigating contemporary communication.
 tags:
   - rhetoric
-  - persuasion
   - critical thinking
+  - persuasion techniques
+  - classical trivium
+  - media manipulation
   - rhetorical devices
-  - classical education
-  - media literacy
+tagKeys:
+  - rhetoric
+  - critical-thinking
+  - persuasion-techniques
+  - classical-trivium
+  - media-manipulation
+  - rhetorical-devices
 ---
 
 # A Practical Exploration of Rhetoric: The Art of Persuasion and Critical Thinking

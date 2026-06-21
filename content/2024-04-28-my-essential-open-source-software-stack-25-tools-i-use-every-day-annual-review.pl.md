@@ -14,12 +14,19 @@ shortDescription: >-
   poszukujących alternatyw dla komercyjnego oprogramowania, z naciskiem na
   prywatność, bezpieczeństwo i pełną kontrolę nad własnymi danymi.
 tags:
-  - open source
   - narzędzia open source
-  - zarządzanie serwerami
-  - automatyzacja
-  - self-hosted
-  - linux
+  - zarządzanie serwerem
+  - automatyka domowa
+  - zdalny dostęp
+  - aplikacje self-hosted
+  - tworzenie treści
+tagKeys:
+  - open-source-tools
+  - server-management
+  - home-automation
+  - remote-access
+  - self-hosted-apps
+  - content-creation
 ---
 
 # Przegląd Najlepszego Oprogramowania Open Source

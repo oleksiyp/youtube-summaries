@@ -17,12 +17,19 @@ shortDescription: >-
   prawdziwych, fizycznych więzi międzyludzkich w erze doskonałych, ale
   pozbawionych duszy technologii.
 tags:
-  - psychoanaliza
   - sztuczna inteligencja
-  - zygmunt freud
-  - kryzys społeczny
-  - relacje międzyludzkie
-  - technologia
+  - teoria freudowska
+  - więź ludzka
+  - popęd śmierci
+  - izolacja społeczna
+  - kryzys światopoglądowy
+tagKeys:
+  - artificial-intelligence
+  - freudian-theory
+  - human-connection
+  - death-drive
+  - social-isolation
+  - worldview-crisis
 ---
 
 # Zygmunt Freud i kryzys współczesnego świata - kompleksowe podsumowanie

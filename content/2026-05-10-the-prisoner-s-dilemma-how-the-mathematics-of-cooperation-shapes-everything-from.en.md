@@ -21,10 +21,17 @@ shortDescription: >-
 tags:
   - game theory
   - prisoner's dilemma
+  - nuclear arms race
   - evolution of cooperation
   - fermi paradox
-  - nuclear arms race
-  - kardashev scale
+  - civilizational survival
+tagKeys:
+  - game-theory
+  - prisoner-s-dilemma
+  - nuclear-arms-race
+  - evolution-of-cooperation
+  - fermi-paradox
+  - civilizational-survival
 ---
 
 # The Prisoner's Dilemma: From Nuclear War to the Evolution of Cooperation and Cosmic Destiny

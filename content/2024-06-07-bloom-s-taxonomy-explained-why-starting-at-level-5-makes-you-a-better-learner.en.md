@@ -17,11 +17,18 @@ shortDescription: >-
   the gap between average and top-tier academic performance.
 tags:
   - bloom's taxonomy
+  - higher order thinking
   - study strategies
-  - higher-order thinking
+  - memory retention
+  - critical evaluation
   - academic performance
-  - learning levels
-  - critical thinking
+tagKeys:
+  - bloom-s-taxonomy
+  - higher-order-thinking
+  - study-strategies
+  - memory-retention
+  - critical-evaluation
+  - academic-performance
 ---
 
 # The Six Levels of Thinking Every Learner Needs to Master

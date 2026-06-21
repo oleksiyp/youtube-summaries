@@ -19,12 +19,17 @@ shortDescription: >-
   psychicznej. Bez odbudowania prawdziwej, stopniowej samodzielności dzieci samo
   odebranie im telefonów zastąpi jeden problem innym.
 tags:
-  - wychowanie dzieci
   - samodzielność dzieci
-  - media społecznościowe
-  - zabawa na świeżym powietrzu
-  - bezpieczeństwo dzieci
-  - rozwój dziecka
+  - zanik swobodnej zabawy
+  - nadopiekuńczość rodziców
+  - szkodliwość mediów społecznościowych
+  - ryzyko w dzieciństwie
+tagKeys:
+  - children-s-autonomy
+  - free-play-decline
+  - parental-overprotection
+  - social-media-harm
+  - childhood-risk
 ---
 
 # Zakaz mediów społecznościowych dla dzieci a kryzys samodzielnego dzieciństwa

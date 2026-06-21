@@ -18,10 +18,17 @@ shortDescription: >-
 tags:
   - hymenoptera evolution
   - social insects
-  - wasps and bees
-  - ant biology
-  - insect behavior
-  - parasitoid insects
+  - stinging wasps
+  - parasitic behavior
+  - bee origins
+  - ant diversity
+tagKeys:
+  - hymenoptera-evolution
+  - social-insects
+  - stinging-wasps
+  - parasitic-behavior
+  - bee-origins
+  - ant-diversity
 ---
 
 # Evolution of Hymenoptera: Advanced Groups and Social Insects

@@ -21,12 +21,19 @@ shortDescription: >-
   around you, and embrace the beautiful struggle of authentic human
   relationships before it's too late.
 tags:
-  - freud
-  - psychoanalysis
   - artificial intelligence
+  - freudian theory
   - human connection
   - death drive
   - social isolation
+  - worldview crisis
+tagKeys:
+  - artificial-intelligence
+  - freudian-theory
+  - human-connection
+  - death-drive
+  - social-isolation
+  - worldview-crisis
 ---
 
 # Freud, Psychoanalysis, and the Crisis of Human Connection in the AI Era

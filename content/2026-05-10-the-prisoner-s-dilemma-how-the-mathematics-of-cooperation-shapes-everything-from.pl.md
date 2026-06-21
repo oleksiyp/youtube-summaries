@@ -16,12 +16,19 @@ shortDescription: >-
   właśnie ta bariera może wyjaśniać kosmiczną ciszę opisaną przez paradoks
   Fermiego.
 tags:
-  - dylemat więźnia
   - teoria gier
+  - dylemat więźnia
+  - wyścig zbrojeń nuklearnych
   - ewolucja współpracy
-  - paradoks fermiego
-  - skala kardaszowa
-  - wielki filtr
+  - paradoks Fermiego
+  - przetrwanie cywilizacji
+tagKeys:
+  - game-theory
+  - prisoner-s-dilemma
+  - nuclear-arms-race
+  - evolution-of-cooperation
+  - fermi-paradox
+  - civilizational-survival
 ---
 
 # Dylemat Więźnia: Ewolucja Współpracy — od Bakterii do Cywilizacji

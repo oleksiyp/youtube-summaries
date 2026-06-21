@@ -15,10 +15,16 @@ shortDescription: >-
   strategiczne.
 tags:
   - myślenie strategiczne
-  - przywództwo
-  - biznes
+  - wizja długoterminowa
   - podejmowanie decyzji
-  - rozwój osobisty
+  - konkurencja biznesowa
+  - mentalność lidera
+tagKeys:
+  - strategic-thinking
+  - long-term-vision
+  - decision-making
+  - business-competition
+  - leadership-mindset
 ---
 
 # Sztuka Myślenia Strategicznego w Biznesie

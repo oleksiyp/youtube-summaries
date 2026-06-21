@@ -16,11 +16,19 @@ shortDescription: >-
   stosowaniu. Dowiesz się, jak uczyć się języka jak dziecko (zaadaptowane dla
   dorosłych) i dlaczego tradycyjne podejście do gramatyki może być przeszkodą.
 tags:
-  - nauka języków obcych
-  - metody językowe
   - immersja językowa
+  - płynność rodzima
   - słownictwo w kontekście
-  - nauka samodzielna
+  - odkrywanie gramatyki
+  - metody samodzielnej nauki
+  - technika zapamiętywania
+tagKeys:
+  - language-immersion
+  - native-fluency
+  - vocabulary-in-context
+  - grammar-discovery
+  - self-study-methods
+  - memorization-technique
 ---
 
 # Jak skutecznie nauczyć się języka obcego - metoda norweskiej uczenniczki

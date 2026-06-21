@@ -16,11 +16,16 @@ shortDescription: >-
   current income as the engine that funds and builds everything else.
 tags:
   - multiple income streams
+  - financial leverage
   - passive income
-  - financial independence
-  - side hustles
+  - entrepreneurship tips
   - wealth building
-  - investing
+tagKeys:
+  - multiple-income-streams
+  - financial-leverage
+  - passive-income
+  - entrepreneurship-tips
+  - wealth-building
 ---
 
 # Nine Income Streams Built While Working a Full-Time Job

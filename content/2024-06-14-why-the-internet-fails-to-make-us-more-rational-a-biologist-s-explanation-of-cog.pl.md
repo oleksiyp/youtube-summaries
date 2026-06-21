@@ -18,12 +18,19 @@ shortDescription: >-
   ludzkim myśleniem, skuteczna i etyczna komunikacja musi to uwzględniać,
   zamiast polegać wyłącznie na sile argumentów.
 tags:
-  - psychologia poznawcza
-  - ewolucja człowieka
-  - propaganda i manipulacja
   - błędy poznawcze
-  - edukacja krytyczna
-  - dezinformacja w internecie
+  - ewolucja mózgu
+  - manipulacja medialna
+  - kompetencje informacyjne
+  - myślenie krytyczne
+  - techniki propagandy
+tagKeys:
+  - cognitive-biases
+  - brain-evolution
+  - media-manipulation
+  - information-literacy
+  - critical-thinking
+  - propaganda-techniques
 ---
 
 # Dlaczego internet nie pomaga nam poznać prawdy – biologiczne mechanizmy budowania obrazu świata

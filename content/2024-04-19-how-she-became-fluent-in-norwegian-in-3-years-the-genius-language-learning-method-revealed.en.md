@@ -18,12 +18,19 @@ shortDescription: >-
   about magic, but about consistent application of proven methods that
   prioritize authentic engagement over traditional rule-based study.
 tags:
-  - language learning
-  - immersion techniques
+  - language immersion
   - native fluency
-  - vocabulary acquisition
+  - vocabulary in context
+  - grammar discovery
   - self-study methods
-  - grammar through context
+  - memorization technique
+tagKeys:
+  - language-immersion
+  - native-fluency
+  - vocabulary-in-context
+  - grammar-discovery
+  - self-study-methods
+  - memorization-technique
 ---
 
 # How to Learn Any Language Like a Native Speaker
