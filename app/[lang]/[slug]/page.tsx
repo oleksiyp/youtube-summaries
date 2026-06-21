@@ -1,8 +1,9 @@
 import Link from 'next/link';
 import { use } from 'react';
+import type { Metadata } from 'next';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { getAllPostSlugs, getPostBySlug } from '@/lib/posts';
+import { getAllPostSlugs, getPostBySlug, tagSlug } from '@/lib/posts';
 import { getTranslation, getLanguageByCode, getLanguageName } from '@/lib/i18n';
 import { getLanguageCodes } from '@/config/languages';
 import { notFound } from 'next/navigation';
@@ -22,6 +23,53 @@ export function generateStaticParams() {
   });
 
   return params;
+}
+
+/** Best-effort YouTube thumbnail URL from a watch URL, for social share cards. */
+function thumbnailUrl(videoUrl: string): string | null {
+  const id = videoUrl.match(
+    /(?:v=|youtu\.be\/|shorts\/|embed\/)([a-zA-Z0-9_-]{11})/,
+  )?.[1];
+  return id ? `https://i.ytimg.com/vi/${id}/hqdefault.jpg` : null;
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ lang: string; slug: string }>;
+}): Promise<Metadata> {
+  const { lang, slug } = await params;
+  const post = getPostBySlug(lang, slug);
+  if (!post) return {};
+
+  const description = post.shortDescription || post.description || '';
+  const thumb = thumbnailUrl(post.videoUrl);
+  // Absolute URLs so social crawlers resolve them under the GitHub Pages basePath.
+  const SITE = 'https://oleksiyp.github.io/youtube-summaries';
+  const url = `${SITE}/${lang}/${slug}`;
+
+  return {
+    title: post.title,
+    description,
+    keywords: post.tags,
+    alternates: { canonical: url },
+    openGraph: {
+      type: 'article',
+      title: post.title,
+      description,
+      url,
+      siteName: 'YouTube Summaries',
+      locale: post.language,
+      images: thumb ? [{ url: thumb, width: 480, height: 360 }] : undefined,
+      tags: post.tags,
+    },
+    twitter: {
+      card: thumb ? 'summary_large_image' : 'summary',
+      title: post.title,
+      description,
+      images: thumb ? [thumb] : undefined,
+    },
+  };
 }
 
 export default function PostPage({
@@ -163,6 +211,17 @@ export default function PostPage({
                 </svg>
                 {t.videoLink}
               </VideoButton>
+            )}
+
+            {/* Tags */}
+            {post.tags.length > 0 && (
+              <div className="flex flex-wrap gap-2 mt-6">
+                {post.tags.map((tag) => (
+                  <Link key={tag} href={`/${lang}/tag/${tagSlug(tag)}`} className="tag-chip">
+                    #{tag}
+                  </Link>
+                ))}
+              </div>
             )}
           </header>
 

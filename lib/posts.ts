@@ -15,6 +15,37 @@ export interface Post {
   language: string;
   content: string;
   availableLanguages: string[];
+  tags: string[];
+}
+
+/**
+ * URL-safe slug for a tag. Transliterates Cyrillic so Russian/Ukrainian tags
+ * produce readable ASCII routes, and strips anything else non-alphanumeric.
+ */
+const TRANSLIT: Record<string, string> = {
+  а: 'a', б: 'b', в: 'v', г: 'h', ґ: 'g', д: 'd', е: 'e', ё: 'e', є: 'ie',
+  ж: 'zh', з: 'z', и: 'y', і: 'i', ї: 'i', й: 'i', к: 'k', л: 'l', м: 'm',
+  н: 'n', о: 'o', п: 'p', р: 'r', с: 's', т: 't', у: 'u', ф: 'f', х: 'kh',
+  ц: 'ts', ч: 'ch', ш: 'sh', щ: 'shch', ъ: '', ы: 'y', ь: '', э: 'e',
+  ю: 'iu', я: 'ia',
+};
+
+export function tagSlug(tag: string): string {
+  let out = '';
+  for (const ch of tag.toLowerCase().trim()) out += TRANSLIT[ch] ?? ch;
+  return out
+    .normalize('NFKD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+function normalizeTags(raw: unknown): string[] {
+  if (!Array.isArray(raw)) return [];
+  return raw
+    .filter((t): t is string => typeof t === 'string')
+    .map((t) => t.trim())
+    .filter(Boolean);
 }
 
 const contentDirectory = path.join(process.cwd(), 'content');
@@ -117,6 +148,7 @@ export function getPostBySlug(language: string, slug: string): Post | null {
       language: langToUse,
       content,
       availableLanguages,
+      tags: normalizeTags(data.tags),
     };
   } catch {
     return null;
@@ -181,6 +213,38 @@ export function getPostsGroupedByYear(language: string): PostsByYear[] {
 /**
  * Get all posts with their available translations
  */
+/**
+ * All distinct tags for a language, with their slug, display label and count.
+ */
+export interface TagInfo {
+  slug: string;
+  label: string;
+  count: number;
+}
+
+export function getAllTags(language: string): TagInfo[] {
+  const bySlug = new Map<string, TagInfo>();
+  for (const post of getAllPosts(language)) {
+    for (const tag of post.tags) {
+      const slug = tagSlug(tag);
+      if (!slug) continue;
+      const existing = bySlug.get(slug);
+      if (existing) existing.count++;
+      else bySlug.set(slug, { slug, label: tag, count: 1 });
+    }
+  }
+  return Array.from(bySlug.values()).sort((a, b) =>
+    b.count - a.count || a.label.localeCompare(b.label),
+  );
+}
+
+/** Posts for a language that carry the given tag (matched by slug). */
+export function getPostsByTag(language: string, slug: string): Post[] {
+  return getAllPosts(language).filter((post) =>
+    post.tags.some((t) => tagSlug(t) === slug),
+  );
+}
+
 export function getAllPostsWithTranslations(): Map<string, string[]> {
   const slugs = getAllPostSlugs();
   const postsMap = new Map<string, string[]>();
