@@ -247,6 +247,44 @@ body {
   border-color: var(--color-accent);
 }
 
+/* Tag cloud (collapsible topic navigation) */
+.tag-cloud {
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+  padding: 1rem 1.25rem;
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+.tag-cloud-summary {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  list-style: none;
+  user-select: none;
+}
+
+.tag-cloud-summary::-webkit-details-marker {
+  display: none;
+}
+
+.tag-cloud-count {
+  margin-left: auto;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+}
+
+.tag-cloud-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  line-height: 1.4;
+}
+
 /* Focus visible styling */
 *:focus-visible {
   outline: none;

@@ -3,7 +3,7 @@ import { use } from 'react';
 import type { Metadata } from 'next';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { getAllPostSlugs, getPostBySlug, tagSlug } from '@/lib/posts';
+import { getAllPostSlugs, getPostBySlug } from '@/lib/posts';
 import { getTranslation, getLanguageByCode, getLanguageName } from '@/lib/i18n';
 import { getLanguageCodes } from '@/config/languages';
 import { notFound } from 'next/navigation';
@@ -47,11 +47,12 @@ export async function generateMetadata({
   // Absolute URLs so social crawlers resolve them under the GitHub Pages basePath.
   const SITE = 'https://oleksiyp.github.io/youtube-summaries';
   const url = `${SITE}/${lang}/${slug}`;
+  const tagLabels = post.tags.map((t) => t.label);
 
   return {
     title: post.title,
     description,
-    keywords: post.tags,
+    keywords: tagLabels,
     alternates: { canonical: url },
     openGraph: {
       type: 'article',
@@ -61,7 +62,7 @@ export async function generateMetadata({
       siteName: 'YouTube Summaries',
       locale: post.language,
       images: thumb ? [{ url: thumb, width: 480, height: 360 }] : undefined,
-      tags: post.tags,
+      tags: tagLabels,
     },
     twitter: {
       card: thumb ? 'summary_large_image' : 'summary',
@@ -217,8 +218,8 @@ export default function PostPage({
             {post.tags.length > 0 && (
               <div className="flex flex-wrap gap-2 mt-6">
                 {post.tags.map((tag) => (
-                  <Link key={tag} href={`/${lang}/tag/${tagSlug(tag)}`} className="tag-chip">
-                    #{tag}
+                  <Link key={tag.key} href={`/${lang}/tag/${tag.key}`} className="tag-chip">
+                    #{tag.label}
                   </Link>
                 ))}
               </div>

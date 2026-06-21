@@ -4,6 +4,7 @@ import { getPostsGroupedByYear } from '@/lib/posts';
 import { getTranslation, getLanguageByCode } from '@/lib/i18n';
 import { getLanguageCodes } from '@/config/languages';
 import { LanguageSelector } from '@/components/language-selector';
+import { TagCloud } from '@/components/tag-cloud';
 
 export function generateStaticParams() {
   return getLanguageCodes().map((lang) => ({ lang }));
@@ -34,6 +35,7 @@ export default function LanguagePage({
 
       {/* Main Content */}
       <main className="max-w-5xl mx-auto px-6 lg:px-8 py-16">
+        <TagCloud lang={lang} label={t.topics} />
         {postsByYear.length === 0 ? (
           <div className="text-center py-24">
             <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-[var(--color-surface)] mb-6">
@@ -72,7 +74,7 @@ export default function LanguagePage({
                         href={`/${lang}/${post.slug}`}
                         className="block group"
                       >
-                        <article className="card p-8 hover:shadow-xl transition-all duration-300">
+                        <article className="card p-6 sm:p-8 hover:shadow-xl transition-all duration-300">
                           <div className="flex flex-col gap-4">
                             {/* Title and Language Badge */}
                             <div className="flex items-start gap-3">
@@ -94,11 +96,11 @@ export default function LanguagePage({
                             )}
 
                             {/* Metadata */}
-                            <div className="flex items-center gap-6 text-caption">
+                            <div className="flex flex-wrap items-center gap-x-4 gap-y-1.5 text-caption">
                               {post.date && (
                                 <time
                                   dateTime={post.date}
-                                  className="flex items-center gap-2"
+                                  className="flex items-center gap-2 whitespace-nowrap"
                                 >
                                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
@@ -111,15 +113,15 @@ export default function LanguagePage({
                                 </time>
                               )}
                               {post.channelName && (
-                                <span className="flex items-center gap-2">
-                                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <span className="flex items-center gap-2 whitespace-nowrap">
+                                  <svg className="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                                   </svg>
                                   {post.channelName}
                                 </span>
                               )}
                               {post.videoUrl && (
-                                <span className="flex items-center gap-2">
+                                <span className="flex items-center gap-2 whitespace-nowrap">
                                   <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">
                                     <path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" />
                                   </svg>

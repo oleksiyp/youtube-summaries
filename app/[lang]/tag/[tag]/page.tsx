@@ -11,7 +11,7 @@ export function generateStaticParams() {
   const params: { lang: string; tag: string }[] = [];
   for (const lang of getLanguageCodes()) {
     for (const tag of getAllTags(lang)) {
-      params.push({ lang, tag: tag.slug });
+      params.push({ lang, tag: tag.key });
     }
   }
   // `output: export` needs at least one path. Before tags are backfilled there
@@ -22,8 +22,8 @@ export function generateStaticParams() {
   return params;
 }
 
-function label(lang: string, slug: string): string {
-  return getAllTags(lang).find((t) => t.slug === slug)?.label ?? slug;
+function label(lang: string, key: string): string {
+  return getAllTags(lang).find((t) => t.key === key)?.label ?? key;
 }
 
 export async function generateMetadata({

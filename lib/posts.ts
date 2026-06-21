@@ -15,7 +15,8 @@ export interface Post {
   language: string;
   content: string;
   availableLanguages: string[];
-  tags: string[];
+  /** Display tags in the post's language, each with a cross-language key. */
+  tags: { label: string; key: string }[];
 }
 
 /**
@@ -40,12 +41,26 @@ export function tagSlug(tag: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-function normalizeTags(raw: unknown): string[] {
+function strArray(raw: unknown): string[] {
   if (!Array.isArray(raw)) return [];
   return raw
     .filter((t): t is string => typeof t === 'string')
     .map((t) => t.trim())
     .filter(Boolean);
+}
+
+/**
+ * Build display tags with cross-language keys. `tagKeys` (canonical English,
+ * parallel to `tags`) is preferred; otherwise the key falls back to a slug of
+ * the localized label so older, un-keyed content still works.
+ */
+function buildTags(rawTags: unknown, rawKeys: unknown): { label: string; key: string }[] {
+  const labels = strArray(rawTags);
+  const keys = strArray(rawKeys);
+  return labels.map((label, i) => ({
+    label,
+    key: tagSlug(keys[i] || label),
+  }));
 }
 
 const contentDirectory = path.join(process.cwd(), 'content');
@@ -148,7 +163,7 @@ export function getPostBySlug(language: string, slug: string): Post | null {
       language: langToUse,
       content,
       availableLanguages,
-      tags: normalizeTags(data.tags),
+      tags: buildTags(data.tags, data.tagKeys),
     };
   } catch {
     return null;
@@ -217,31 +232,32 @@ export function getPostsGroupedByYear(language: string): PostsByYear[] {
  * All distinct tags for a language, with their slug, display label and count.
  */
 export interface TagInfo {
-  slug: string;
+  /** Cross-language canonical key (route param). */
+  key: string;
+  /** Display label in the requested language. */
   label: string;
   count: number;
 }
 
 export function getAllTags(language: string): TagInfo[] {
-  const bySlug = new Map<string, TagInfo>();
+  const byKey = new Map<string, TagInfo>();
   for (const post of getAllPosts(language)) {
     for (const tag of post.tags) {
-      const slug = tagSlug(tag);
-      if (!slug) continue;
-      const existing = bySlug.get(slug);
+      if (!tag.key) continue;
+      const existing = byKey.get(tag.key);
       if (existing) existing.count++;
-      else bySlug.set(slug, { slug, label: tag, count: 1 });
+      else byKey.set(tag.key, { key: tag.key, label: tag.label, count: 1 });
     }
   }
-  return Array.from(bySlug.values()).sort((a, b) =>
-    b.count - a.count || a.label.localeCompare(b.label),
+  return Array.from(byKey.values()).sort(
+    (a, b) => b.count - a.count || a.label.localeCompare(b.label),
   );
 }
 
-/** Posts for a language that carry the given tag (matched by slug). */
-export function getPostsByTag(language: string, slug: string): Post[] {
+/** Posts for a language that carry the given tag (matched by cross-language key). */
+export function getPostsByTag(language: string, key: string): Post[] {
   return getAllPosts(language).filter((post) =>
-    post.tags.some((t) => tagSlug(t) === slug),
+    post.tags.some((t) => t.key === key),
   );
 }
 

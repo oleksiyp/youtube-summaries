@@ -17,6 +17,7 @@ const translations: Translations = {
     back: 'Back to all summaries',
     availableIn: 'Available in',
     notAvailableInLanguage: 'This summary is not available in your language. Showing',
+    topics: 'Browse by topic',
   },
   ru: {
     title: 'Конспекты видео с YouTube',
@@ -26,6 +27,7 @@ const translations: Translations = {
     back: 'Вернуться ко всем конспектам',
     availableIn: 'Доступно на',
     notAvailableInLanguage: 'Этот конспект недоступен на вашем языке. Показан',
+    topics: 'Темы',
   },
   pl: {
     title: 'Streszczenia filmów z YouTube',
@@ -35,6 +37,17 @@ const translations: Translations = {
     back: 'Powrót do wszystkich streszczeń',
     availableIn: 'Dostępne w',
     notAvailableInLanguage: 'To streszczenie nie jest dostępne w Twoim języku. Pokazano',
+    topics: 'Tematy',
+  },
+  uk: {
+    title: 'Конспекти відео з YouTube',
+    allPosts: 'Усі конспекти',
+    videoLink: 'Дивитися відео',
+    published: 'Опубліковано',
+    back: 'Повернутися до всіх конспектів',
+    availableIn: 'Доступно',
+    notAvailableInLanguage: 'Цей конспект недоступний вашою мовою. Показано',
+    topics: 'Теми',
   },
 };
 
