@@ -1,10 +1,27 @@
 ---
-title: "Bloom's Taxonomy Explained: Why Starting at Level 5 Makes You a Better Learner"
-date: "2024-06-07"
-videoUrl: "https://www.youtube.com/watch?v=1xqerXscTsE"
-channelName: "Justin Sung"
-channelUrl: "https://www.youtube.com/channel/UC2Zs9v2hL2qZZ7vsAENsg4w"
-shortDescription: "Most students underperform not because of lack of intelligence, but because they default to low-level thinking strategies like memorization and passive reading. This post breaks down Bloom's Revised Taxonomy — six distinct levels of thinking from basic recall to creative synthesis — and explains what results each level produces. The key insight is counterintuitive: starting your studying at Level 5 (evaluation) rather than Level 1 (memorization) leads to stronger retention and deeper understanding, because higher-order thinking automatically fulfills the lower levels as a side effect. By deliberately targeting analysis and evaluation from the very beginning, learners can close the gap between average and top-tier academic performance."
+title: 'Bloom''s Taxonomy Explained: Why Starting at Level 5 Makes You a Better Learner'
+date: '2024-06-07'
+videoUrl: 'https://www.youtube.com/watch?v=1xqerXscTsE'
+channelName: Justin Sung
+channelUrl: 'https://www.youtube.com/channel/UC2Zs9v2hL2qZZ7vsAENsg4w'
+shortDescription: >-
+  Most students underperform not because of lack of intelligence, but because
+  they default to low-level thinking strategies like memorization and passive
+  reading. This post breaks down Bloom's Revised Taxonomy — six distinct levels
+  of thinking from basic recall to creative synthesis — and explains what
+  results each level produces. The key insight is counterintuitive: starting
+  your studying at Level 5 (evaluation) rather than Level 1 (memorization) leads
+  to stronger retention and deeper understanding, because higher-order thinking
+  automatically fulfills the lower levels as a side effect. By deliberately
+  targeting analysis and evaluation from the very beginning, learners can close
+  the gap between average and top-tier academic performance.
+tags:
+  - bloom's taxonomy
+  - study strategies
+  - higher-order thinking
+  - academic performance
+  - learning levels
+  - critical thinking
 ---
 
 # The Six Levels of Thinking Every Learner Needs to Master

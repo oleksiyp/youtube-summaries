@@ -1,10 +1,29 @@
 ---
-title: "Sześć poziomów myślenia według taksonomii Blooma – klucz do lepszych wyników w nauce"
-date: "2024-06-07"
-videoUrl: "https://www.youtube.com/watch?v=1xqerXscTsE"
-channelName: "Justin Sung"
-channelUrl: "https://www.youtube.com/channel/UC2Zs9v2hL2qZZ7vsAENsg4w"
-shortDescription: "Taksonomia Blooma to jeden z najbardziej niedocenianych modeli w edukacji, który dzieli myślenie na sześć poziomów: od zapamiętywania i rozumienia, przez zastosowanie i analizę, aż po ocenianie i tworzenie. Większość uczniów utknęła na niskich poziomach, podczas gdy egzaminy i życie zawodowe wymagają myślenia wyższego rzędu – porównywania, wartościowania i uzasadniania wniosków. Kluczowym odkryciem jest strategia nauki „od góry do dołu\": zamiast żmudnie wspinać się od zapamiętywania ku wyższym poziomom, warto od razu ćwiczyć ocenianie i analizę, co automatycznie wymusza zrozumienie i trwałe zapamiętanie materiału. Świadome stosowanie tej wiedzy – wsparte narzędziami takimi jak AI do generowania pytań na odpowiednim poziomie taksonomii – pozwala znacząco skrócić czas nauki i osiągać lepsze wyniki akademickie."
+title: >-
+  Sześć poziomów myślenia według taksonomii Blooma – klucz do lepszych wyników w
+  nauce
+date: '2024-06-07'
+videoUrl: 'https://www.youtube.com/watch?v=1xqerXscTsE'
+channelName: Justin Sung
+channelUrl: 'https://www.youtube.com/channel/UC2Zs9v2hL2qZZ7vsAENsg4w'
+shortDescription: >-
+  Taksonomia Blooma to jeden z najbardziej niedocenianych modeli w edukacji,
+  który dzieli myślenie na sześć poziomów: od zapamiętywania i rozumienia, przez
+  zastosowanie i analizę, aż po ocenianie i tworzenie. Większość uczniów utknęła
+  na niskich poziomach, podczas gdy egzaminy i życie zawodowe wymagają myślenia
+  wyższego rzędu – porównywania, wartościowania i uzasadniania wniosków.
+  Kluczowym odkryciem jest strategia nauki „od góry do dołu": zamiast żmudnie
+  wspinać się od zapamiętywania ku wyższym poziomom, warto od razu ćwiczyć
+  ocenianie i analizę, co automatycznie wymusza zrozumienie i trwałe
+  zapamiętanie materiału. Świadome stosowanie tej wiedzy – wsparte narzędziami
+  takimi jak AI do generowania pytań na odpowiednim poziomie taksonomii –
+  pozwala znacząco skrócić czas nauki i osiągać lepsze wyniki akademickie.
+tags:
+  - taksonomia blooma
+  - techniki uczenia się
+  - skuteczna nauka
+  - myślenie krytyczne
+  - strategie akademickie
 ---
 
 # Sześć poziomów myślenia, które decydują o wynikach w nauce

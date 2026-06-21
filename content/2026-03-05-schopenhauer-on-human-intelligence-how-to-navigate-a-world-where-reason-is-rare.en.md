@@ -1,10 +1,30 @@
 ---
-title: "Schopenhauer on Human Intelligence: How to Navigate a World Where Reason Is Rare"
-date: "2026-03-05"
-videoUrl: "https://www.youtube.com/watch?v=5y_FqS9Rvac"
-channelName: "Глубинный Смысл"
-channelUrl: "https://www.youtube.com/channel/UCT1RG_crnV2B2XLyEDVjKZg"
-shortDescription: "Drawing on Schopenhauer's philosophy, this video explores his provocative claim that genuine intellectual capacity is statistically rare, and that most people form beliefs through tribal identity and emotion rather than logical analysis. The discussion covers key insights including the Dunning-Kruger effect, why logic fails to change emotionally-held opinions, and why intellectual isolation is an inevitable consequence of superior reasoning ability. Rather than offering a path to fix these limitations, Schopenhauer's framework teaches strategic acceptance — learning to work with human nature as it actually is, preserve your intellectual energy for those capable of receiving it, and find freedom by abandoning the futile effort to reason with those who fundamentally cannot."
+title: >-
+  Schopenhauer on Human Intelligence: How to Navigate a World Where Reason Is
+  Rare
+date: '2026-03-05'
+videoUrl: 'https://www.youtube.com/watch?v=5y_FqS9Rvac'
+channelName: Глубинный Смысл
+channelUrl: 'https://www.youtube.com/channel/UCT1RG_crnV2B2XLyEDVjKZg'
+shortDescription: >-
+  Drawing on Schopenhauer's philosophy, this video explores his provocative
+  claim that genuine intellectual capacity is statistically rare, and that most
+  people form beliefs through tribal identity and emotion rather than logical
+  analysis. The discussion covers key insights including the Dunning-Kruger
+  effect, why logic fails to change emotionally-held opinions, and why
+  intellectual isolation is an inevitable consequence of superior reasoning
+  ability. Rather than offering a path to fix these limitations, Schopenhauer's
+  framework teaches strategic acceptance — learning to work with human nature as
+  it actually is, preserve your intellectual energy for those capable of
+  receiving it, and find freedom by abandoning the futile effort to reason with
+  those who fundamentally cannot.
+tags:
+  - schopenhauer
+  - philosophy
+  - intelligence
+  - human nature
+  - critical thinking
+  - stoicism
 ---
 
 # Шопенгауэр о человеческом интеллекте: как действовать в мире, где разум — редкость

@@ -3,9 +3,9 @@ title: >-
   How to Think Strategically: Master Short, Mid & Long-Term Strategy in Business
   and Life
 date: '2020-08-11'
-videoUrl: https://www.youtube.com/watch?v=x9dgZQsjR6s
+videoUrl: 'https://www.youtube.com/watch?v=x9dgZQsjR6s'
 channelName: Valuetainment
-channelUrl: https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ
+channelUrl: 'https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ'
 shortDescription: >-
   Patrick Bet-David breaks down the essential framework for strategic thinking
   that separates top performers from everyone else. Learn the three levels of
@@ -15,6 +15,13 @@ shortDescription: >-
   everything from anticipating problems through intelligence gathering to making
   tough decisions without seeking consensus, helping you develop the competitive
   advantage that comes from thinking several moves ahead in business and life.
+tags:
+  - strategic thinking
+  - leadership
+  - decision making
+  - business strategy
+  - competitive advantage
+  - long-term planning
 ---
 
 # Strategic Thinking: Mastering Short, Mid, and Long-Term Strategy

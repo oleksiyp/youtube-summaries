@@ -1,10 +1,29 @@
 ---
-title: "Why Banning Social Media for Kids Is Not Enough: The 50-Year Erosion of Childhood Independence"
-date: "2026-06-17"
-videoUrl: "https://www.youtube.com/watch?v=47Jo98uc0I4"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "While banning social media for children under 16 is a step worth supporting, it addresses only part of a much deeper problem that has been unfolding for five decades. Research shows that children's independent mobility, free play, and spontaneous social interaction have declined dramatically across Western countries — losses that created the very vacuum social media rushed to fill. The real drivers are not the children themselves but transformed parenting behaviors rooted in fear of traffic and crime, neither of which objectively justifies today's levels of restriction. Without restoring physical freedom, real-world risk, and unstructured time, removing social media will simply leave children reaching for the next available source of instant stimulation."
+title: >-
+  Why Banning Social Media for Kids Is Not Enough: The 50-Year Erosion of
+  Childhood Independence
+date: '2026-06-17'
+videoUrl: 'https://www.youtube.com/watch?v=47Jo98uc0I4'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  While banning social media for children under 16 is a step worth supporting,
+  it addresses only part of a much deeper problem that has been unfolding for
+  five decades. Research shows that children's independent mobility, free play,
+  and spontaneous social interaction have declined dramatically across Western
+  countries — losses that created the very vacuum social media rushed to fill.
+  The real drivers are not the children themselves but transformed parenting
+  behaviors rooted in fear of traffic and crime, neither of which objectively
+  justifies today's levels of restriction. Without restoring physical freedom,
+  real-world risk, and unstructured time, removing social media will simply
+  leave children reaching for the next available source of instant stimulation.
+tags:
+  - children's independence
+  - free play
+  - parenting
+  - screen time
+  - child development
+  - social media ban
 ---
 
 # Детская самостоятельность и социальные сети: почему одного запрета недостаточно

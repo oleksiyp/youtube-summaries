@@ -3,9 +3,9 @@ title: >-
   How She Became Fluent in Norwegian in 3 Years: The Genius Language Learning
   Method Revealed
 date: '2024-04-19'
-videoUrl: https://www.youtube.com/watch?v=7jr9NQF3xSo
+videoUrl: 'https://www.youtube.com/watch?v=7jr9NQF3xSo'
 channelName: Evgeny Eroshev
-channelUrl: https://www.youtube.com/channel/UCMqznL5T-LZXCFtPjfVJyiw
+channelUrl: 'https://www.youtube.com/channel/UCMqznL5T-LZXCFtPjfVJyiw'
 shortDescription: >-
   This video breaks down the remarkable language learning journey of Elis, who
   achieved near-native fluency in Norwegian through self-study in just three
@@ -17,6 +17,13 @@ shortDescription: >-
   practical techniques you can implement immediately. The key insight: it's not
   about magic, but about consistent application of proven methods that
   prioritize authentic engagement over traditional rule-based study.
+tags:
+  - language learning
+  - immersion techniques
+  - native fluency
+  - vocabulary acquisition
+  - self-study methods
+  - grammar through context
 ---
 
 # How to Learn Any Language Like a Native Speaker

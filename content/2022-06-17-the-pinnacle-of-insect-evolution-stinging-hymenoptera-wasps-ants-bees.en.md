@@ -1,9 +1,9 @@
 ---
 title: 'The Pinnacle of Insect Evolution: Stinging Hymenoptera - Wasps, Ants & Bees'
 date: '2022-06-17'
-videoUrl: https://www.youtube.com/watch?v=LlSUugBXOI4
+videoUrl: 'https://www.youtube.com/watch?v=LlSUugBXOI4'
 channelName: Dacatria
-channelUrl: https://www.youtube.com/channel/UC9KTx4ajZIwzGjm1sMO1mSA
+channelUrl: 'https://www.youtube.com/channel/UC9KTx4ajZIwzGjm1sMO1mSA'
 shortDescription: >-
   This video concludes our evolutionary journey through Hymenoptera by exploring
   the most advanced group: stinging insects. Discover how the stinger evolved
@@ -15,6 +15,13 @@ shortDescription: >-
   cooperation and refined parasitism. Learn about their fascinating behaviors,
   from wasps that hunt spiders thousands of times their size to bees that
   invented honey, wax construction, and complex communication systems.
+tags:
+  - hymenoptera evolution
+  - social insects
+  - wasps and bees
+  - ant biology
+  - insect behavior
+  - parasitoid insects
 ---
 
 # Evolution of Hymenoptera: Advanced Groups and Social Insects

@@ -3,9 +3,9 @@ title: >-
   Jak Norweżka nauczyła się języka jak native speaker w 3 lata - 8 genialnych
   metod
 date: '2024-04-19'
-videoUrl: https://www.youtube.com/watch?v=7jr9NQF3xSo
+videoUrl: 'https://www.youtube.com/watch?v=7jr9NQF3xSo'
 channelName: Evgeny Eroshev
-channelUrl: https://www.youtube.com/channel/UCMqznL5T-LZXCFtPjfVJyiw
+channelUrl: 'https://www.youtube.com/channel/UCMqznL5T-LZXCFtPjfVJyiw'
 shortDescription: >-
   Analiza niezwykłej historii Elis, która samodzielnie opanowała norweski do
   poziomu niemal natywnego w ciągu trzech lat. W materiale przedstawiono 8
@@ -15,6 +15,12 @@ shortDescription: >-
   sukcesu nie jest talent językowy, ale odpowiednie metody i konsekwencja w ich
   stosowaniu. Dowiesz się, jak uczyć się języka jak dziecko (zaadaptowane dla
   dorosłych) i dlaczego tradycyjne podejście do gramatyki może być przeszkodą.
+tags:
+  - nauka języków obcych
+  - metody językowe
+  - immersja językowa
+  - słownictwo w kontekście
+  - nauka samodzielna
 ---
 
 # Jak skutecznie nauczyć się języka obcego - metoda norweskiej uczenniczki

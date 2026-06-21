@@ -3,9 +3,9 @@ title: >-
   Как девушка выучила норвежский до уровня носителя за 3 года: 8 гениальных
   методов
 date: '2024-04-19'
-videoUrl: https://www.youtube.com/watch?v=7jr9NQF3xSo
+videoUrl: 'https://www.youtube.com/watch?v=7jr9NQF3xSo'
 channelName: Evgeny Eroshev
-channelUrl: https://www.youtube.com/channel/UCMqznL5T-LZXCFtPjfVJyiw
+channelUrl: 'https://www.youtube.com/channel/UCMqznL5T-LZXCFtPjfVJyiw'
 shortDescription: >-
   Разбор уникального опыта Илис, которая самостоятельно освоила норвежский язык
   до уровня, близкого к носителю. В видео подробно рассматриваются 8
@@ -15,6 +15,13 @@ shortDescription: >-
   взрослых, и принципу изучения грамматики через живой язык, а не через
   абстрактные правила. Все методы универсальны и применимы к изучению любого
   иностранного языка.
+tags:
+  - изучение языков
+  - методы обучения
+  - языковое погружение
+  - самостоятельное обучение
+  - норвежский язык
+  - лингвистика
 ---
 
 # Как выучить иностранный язык: Разбор опыта изучения норвежского

@@ -1,9 +1,9 @@
 ---
 title: How to Reprogram Your Subconscious Mind and Become Your Higher Self
 date: '2025-01-10'
-videoUrl: https://www.youtube.com/watch?v=svr2O0Ul1s0
+videoUrl: 'https://www.youtube.com/watch?v=svr2O0Ul1s0'
 channelName: Kenny Bender
-channelUrl: https://www.youtube.com/channel/UC78Q-s1Va9OJIEdk-IHv73A
+channelUrl: 'https://www.youtube.com/channel/UC78Q-s1Va9OJIEdk-IHv73A'
 shortDescription: >-
   Discover why willpower and motivation fail, and learn the science-backed
   method to create lasting change through identity shifting. This video reveals
@@ -13,6 +13,13 @@ shortDescription: >-
   build the discipline needed to achieve your goals by changing who you believe
   you are at the deepest level. Stop relying on temporary motivation and start
   making permanent transformation through strategic identity work.
+tags:
+  - self-sabotage
+  - personal development
+  - identity transformation
+  - subconscious mind
+  - habits
+  - motivation
 ---
 
 # Overcoming Self-Sabotage and Building Your Higher Self

@@ -1,7 +1,15 @@
 ---
-title: "Ty Jesteś Swoim Najcenniejszym Aktywem – Jak Obliczyć i Zwiększyć Swoją Wartość?"
-date: "2024-10-18"
-videoUrl: "https://www.youtube.com/watch?v=F3zPPs04kSo"
+title: >-
+  Ty Jesteś Swoim Najcenniejszym Aktywem – Jak Obliczyć i Zwiększyć Swoją
+  Wartość?
+date: '2024-10-18'
+videoUrl: 'https://www.youtube.com/watch?v=F3zPPs04kSo'
+tags:
+  - rozwój osobisty
+  - wartość człowieka
+  - inwestowanie w siebie
+  - kariera zawodowa
+  - finanse osobiste
 ---
 
 # Podsumowanie: Ty Jesteś Swoim Głównym Aktywem

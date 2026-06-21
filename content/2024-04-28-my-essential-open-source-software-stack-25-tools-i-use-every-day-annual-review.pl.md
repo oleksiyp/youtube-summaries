@@ -1,9 +1,9 @@
 ---
 title: Najlepsze Oprogramowanie Open Source 2024 - Kompletny Przegląd 25+ Narzędzi
 date: '2024-04-28'
-videoUrl: https://www.youtube.com/watch?v=6t5BQRQJIVY
+videoUrl: 'https://www.youtube.com/watch?v=6t5BQRQJIVY'
 channelName: Awesome Open Source
-channelUrl: https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g
+channelUrl: 'https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g'
 shortDescription: >-
   Coroczny przegląd najlepszych narzędzi open source do zarządzania serwerami,
   automatyzacji i codziennej pracy. Film przedstawia ponad 25 rozwiązań, w tym
@@ -13,6 +13,13 @@ shortDescription: >-
   Idealne zarówno dla początkujących, jak i zaawansowanych użytkowników
   poszukujących alternatyw dla komercyjnego oprogramowania, z naciskiem na
   prywatność, bezpieczeństwo i pełną kontrolę nad własnymi danymi.
+tags:
+  - open source
+  - narzędzia open source
+  - zarządzanie serwerami
+  - automatyzacja
+  - self-hosted
+  - linux
 ---
 
 # Przegląd Najlepszego Oprogramowania Open Source

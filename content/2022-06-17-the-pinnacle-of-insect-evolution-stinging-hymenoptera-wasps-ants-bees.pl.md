@@ -1,9 +1,9 @@
 ---
-title: Żądłowe błonkówki - szczyt ewolucji owadów | Osy, mrówki i pszczoły
+title: 'Żądłowe błonkówki - szczyt ewolucji owadów | Osy, mrówki i pszczoły'
 date: '2022-06-17'
-videoUrl: https://www.youtube.com/watch?v=LlSUugBXOI4
+videoUrl: 'https://www.youtube.com/watch?v=LlSUugBXOI4'
 channelName: Dacatria
-channelUrl: https://www.youtube.com/channel/UC9KTx4ajZIwzGjm1sMO1mSA
+channelUrl: 'https://www.youtube.com/channel/UC9KTx4ajZIwzGjm1sMO1mSA'
 shortDescription: >-
   W tym odcinku odkrywamy najbardziej zaawansowaną grupę błonkówek - gatunki
   żądłowe, które reprezentują szczyt ewolucji owadów. Poznajemy fascynujące
@@ -14,6 +14,13 @@ shortDescription: >-
   zdolność budowania papierowych gniazd. To trzecia część serii o ewolucji
   błonkówek - obejrzyj poprzednie odcinki, aby poznać pełną historię tej
   niezwykłej grupy!
+tags:
+  - błonkówki żądłowe
+  - ewolucja owadów
+  - entomologia
+  - osy i pszczoły
+  - systematyka owadów
+  - zachowania społeczne owadów
 ---
 
 # Ewolucja i systematyka błonkówek żądłowych

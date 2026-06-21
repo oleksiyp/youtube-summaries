@@ -1,10 +1,32 @@
 ---
-title: "Why the Internet Fails to Make Us More Rational: A Biologist's Explanation of Cognitive Bias and Information Processing"
-date: "2024-06-14"
-videoUrl: "https://www.youtube.com/watch?v=nEkU797M5pw"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "Despite unprecedented access to information, humans remain deeply susceptible to misinformation, propaganda, and motivated reasoning—and the reason is fundamentally biological. This post explores how hundreds of millions of years of evolution shaped a brain that prioritizes emotional pattern-matching, social consensus, and world-model protection over objective accuracy. Drawing on neuroscience, evolutionary biology, and historical examples, it examines why cognitive biases like confirmation bias, familiarity effects, and disconfirmation bias are hardwired survival mechanisms that modern propagandists expertly exploit. Rather than offering false optimism, the discussion concludes that meaningful progress requires emotionally intelligent communication, reformed education in critical thinking, and honest acceptance that incremental improvements in collective reasoning—not wholesale transformation—are the realistic goal."
+title: >-
+  Why the Internet Fails to Make Us More Rational: A Biologist's Explanation of
+  Cognitive Bias and Information Processing
+date: '2024-06-14'
+videoUrl: 'https://www.youtube.com/watch?v=nEkU797M5pw'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  Despite unprecedented access to information, humans remain deeply susceptible
+  to misinformation, propaganda, and motivated reasoning—and the reason is
+  fundamentally biological. This post explores how hundreds of millions of years
+  of evolution shaped a brain that prioritizes emotional pattern-matching,
+  social consensus, and world-model protection over objective accuracy. Drawing
+  on neuroscience, evolutionary biology, and historical examples, it examines
+  why cognitive biases like confirmation bias, familiarity effects, and
+  disconfirmation bias are hardwired survival mechanisms that modern
+  propagandists expertly exploit. Rather than offering false optimism, the
+  discussion concludes that meaningful progress requires emotionally intelligent
+  communication, reformed education in critical thinking, and honest acceptance
+  that incremental improvements in collective reasoning—not wholesale
+  transformation—are the realistic goal.
+tags:
+  - cognitive biases
+  - information literacy
+  - propaganda
+  - evolutionary psychology
+  - media consumption
+  - critical thinking
 ---
 
 # Why the Internet Doesn't Make Us More Rational: A Biological Perspective

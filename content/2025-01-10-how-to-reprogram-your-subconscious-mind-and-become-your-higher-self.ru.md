@@ -3,9 +3,9 @@ title: >-
   Как перепрограммировать подсознание и стать лучшей версией себя | Забудьте о
   силе воли
 date: '2025-01-10'
-videoUrl: https://www.youtube.com/watch?v=svr2O0Ul1s0
+videoUrl: 'https://www.youtube.com/watch?v=svr2O0Ul1s0'
 channelName: Kenny Bender
-channelUrl: https://www.youtube.com/channel/UC78Q-s1Va9OJIEdk-IHv73A
+channelUrl: 'https://www.youtube.com/channel/UC78Q-s1Va9OJIEdk-IHv73A'
 shortDescription: >-
   Забудьте о силе воли и мотивации — вот как на самом деле изменить свою жизнь.
   В этом видео раскрывается мощная система трансформации через
@@ -16,6 +16,13 @@ shortDescription: >-
   свободы без постоянной борьбы с собой. Реальные результаты: работа по 12 часов
   в день, подъём в 5 утра и регулярные тренировки — и это даже не кажется
   трудным.
+tags:
+  - саморазвитие
+  - психология
+  - мотивация
+  - привычки
+  - подсознание
+  - идентичность
 ---
 
 # Как взять свою жизнь под контроль и достичь истинного потенциала

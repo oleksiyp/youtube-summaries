@@ -1,10 +1,31 @@
 ---
-title: "Predyktory sukcesu – co naprawdę decyduje o osiągnięciach w nauce, sporcie, polityce i sztuce"
-date: "2026-01-19"
-videoUrl: "https://www.youtube.com/watch?v=F7mn-z6JrDY"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "Biolog i dziennikarka naukowa Irina Yakutenko analizuje, co badania mówią o wspólnych cechach ludzi osiągających sukces w czterech dziedzinach: polityce, sporcie, nauce i zawodach twórczych. Wbrew powszechnym przekonaniom o decydującej roli talentu i ciężkiej pracy, najsilniejszym predyktorem sukcesu okazuje się status socjoekonomiczny rodziny – zamożność i poziom wykształcenia rodziców. Przez całą dyskusję przewija się efekt Mateusza: istniejące przewagi są systematycznie wzmacniane przez hierarchiczne struktury instytucjonalne, selekcję wewnątrzpartyjną, dynastyczność, efekt względnego wieku w sporcie czy prestiż uczelni w środowisku akademickim. Prowadząca wskazuje, że talent jest koniecznym minimum, lecz nie czynnikiem decydującym, i apeluje o tworzenie realnych ścieżek awansu dla utalentowanych osób z mniej uprzywilejowanych środowisk – zamiast pozornego wyrównywania szans przez obniżanie wymagań."
+title: >-
+  Predyktory sukcesu – co naprawdę decyduje o osiągnięciach w nauce, sporcie,
+  polityce i sztuce
+date: '2026-01-19'
+videoUrl: 'https://www.youtube.com/watch?v=F7mn-z6JrDY'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  Biolog i dziennikarka naukowa Irina Yakutenko analizuje, co badania mówią o
+  wspólnych cechach ludzi osiągających sukces w czterech dziedzinach: polityce,
+  sporcie, nauce i zawodach twórczych. Wbrew powszechnym przekonaniom o
+  decydującej roli talentu i ciężkiej pracy, najsilniejszym predyktorem sukcesu
+  okazuje się status socjoekonomiczny rodziny – zamożność i poziom wykształcenia
+  rodziców. Przez całą dyskusję przewija się efekt Mateusza: istniejące przewagi
+  są systematycznie wzmacniane przez hierarchiczne struktury instytucjonalne,
+  selekcję wewnątrzpartyjną, dynastyczność, efekt względnego wieku w sporcie czy
+  prestiż uczelni w środowisku akademickim. Prowadząca wskazuje, że talent jest
+  koniecznym minimum, lecz nie czynnikiem decydującym, i apeluje o tworzenie
+  realnych ścieżek awansu dla utalentowanych osób z mniej uprzywilejowanych
+  środowisk – zamiast pozornego wyrównywania szans przez obniżanie wymagań.
+tags:
+  - predyktory sukcesu
+  - efekt mateusza
+  - nierówności społeczne
+  - kariera zawodowa
+  - socjoekonomia
+  - merytokracja
 ---
 
 # Predyktory sukcesu – nauka, sport, polityka i twórczość

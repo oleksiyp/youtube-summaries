@@ -1,9 +1,9 @@
 ---
 title: Жалящие перепончатокрылые - Вершина эволюции насекомых | Часть 3
 date: '2022-06-17'
-videoUrl: https://www.youtube.com/watch?v=LlSUugBXOI4
+videoUrl: 'https://www.youtube.com/watch?v=LlSUugBXOI4'
 channelName: Dacatria
-channelUrl: https://www.youtube.com/channel/UC9KTx4ajZIwzGjm1sMO1mSA
+channelUrl: 'https://www.youtube.com/channel/UC9KTx4ajZIwzGjm1sMO1mSA'
 shortDescription: >-
   В заключительной части серии об эволюции перепончатокрылых рассказываем о
   самой продвинутой группе - жалящих насекомых. От примитивных ос-блестянок с
@@ -13,6 +13,13 @@ shortDescription: >-
   среди насекомых, и как пчелы изобрели мед, воск и даже язык жестов. Это
   история о том, как от паразитизма к социальности насекомые достигли вершины
   эволюционного развития.
+tags:
+  - перепончатокрылые
+  - эволюция насекомых
+  - жалящие осы
+  - муравьи
+  - пчелы
+  - социальные насекомые
 ---
 
 # Эволюция жалящих перепончатокрылых

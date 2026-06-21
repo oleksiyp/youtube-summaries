@@ -1,10 +1,27 @@
 ---
-title: "How European ETF Investors Can Cut Fees and Keep More of Their Returns"
-date: "2025-09-01"
-videoUrl: "https://www.youtube.com/watch?v=WuLwARQywF8"
-channelName: "Angelo Colombo"
-channelUrl: "https://www.youtube.com/channel/UCV_VWoWQo_4NHAE4jZkpERg"
-shortDescription: "European ETF investors often overpay in fees without realizing how dramatically that compounds over time — a 0.15% annual difference can cost over €115,000 on a €100,000 investment across 40 years. This guide breaks down why certain ETFs like those using Solactive's flat-fee licensing model can offer structurally lower costs, and how that advantage grows as fund assets increase. Covering global, developed market, emerging market, US, and European ETF categories, it identifies the lowest-cost qualifying options in each segment along with key selection criteria. It also warns against reflexively switching funds for marginally lower fees, highlighting the tax consequences that can easily outweigh years of savings."
+title: How European ETF Investors Can Cut Fees and Keep More of Their Returns
+date: '2025-09-01'
+videoUrl: 'https://www.youtube.com/watch?v=WuLwARQywF8'
+channelName: Angelo Colombo
+channelUrl: 'https://www.youtube.com/channel/UCV_VWoWQo_4NHAE4jZkpERg'
+shortDescription: >-
+  European ETF investors often overpay in fees without realizing how
+  dramatically that compounds over time — a 0.15% annual difference can cost
+  over €115,000 on a €100,000 investment across 40 years. This guide breaks down
+  why certain ETFs like those using Solactive's flat-fee licensing model can
+  offer structurally lower costs, and how that advantage grows as fund assets
+  increase. Covering global, developed market, emerging market, US, and European
+  ETF categories, it identifies the lowest-cost qualifying options in each
+  segment along with key selection criteria. It also warns against reflexively
+  switching funds for marginally lower fees, highlighting the tax consequences
+  that can easily outweigh years of savings.
+tags:
+  - etf investing
+  - european investors
+  - expense ratios
+  - index funds
+  - portfolio strategy
+  - solactive
 ---
 
 # How European Investors Can Stop Overpaying on ETF Fees

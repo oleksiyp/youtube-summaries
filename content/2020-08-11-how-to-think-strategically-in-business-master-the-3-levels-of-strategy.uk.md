@@ -1,9 +1,9 @@
 ---
 title: 'Як мислити стратегічно: 7 принципів успіху в бізнесі та житті'
 date: '2020-08-11'
-videoUrl: https://www.youtube.com/watch?v=x9dgZQsjR6s
+videoUrl: 'https://www.youtube.com/watch?v=x9dgZQsjR6s'
 channelName: Valuetainment
-channelUrl: https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ
+channelUrl: 'https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ'
 shortDescription: >-
   Патрік Бет-Девід розкриває секрети стратегічного мислення, яким володіє лише 1
   з 20 людей. Ви дізнаєтесь про три рівні стратегічного мислення (від
@@ -13,6 +13,12 @@ shortDescription: >-
   рішень та побудови сильної команди. Завантажте безкоштовний PDF-посібник та
   дізнайтеся, як розвинути стратегічне мислення для досягнення довгострокового
   успіху в бізнесі.
+tags:
+  - стратегічне мислення
+  - бізнес-стратегія
+  - лідерство
+  - конкурентна перевага
+  - прийняття рішень
 ---
 
 # Майстерність стратегічного мislення в бізнесі

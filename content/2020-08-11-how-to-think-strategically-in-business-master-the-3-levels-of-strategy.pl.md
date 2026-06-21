@@ -1,9 +1,9 @@
 ---
 title: 'Jak Myśleć Strategicznie w Biznesie: 7 Zasad Skutecznych Liderów'
 date: '2020-08-11'
-videoUrl: https://www.youtube.com/watch?v=x9dgZQsjR6s
+videoUrl: 'https://www.youtube.com/watch?v=x9dgZQsjR6s'
 channelName: Valuetainment
-channelUrl: https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ
+channelUrl: 'https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ'
 shortDescription: >-
   Patrick Bet-David przedstawia kompleksowy przewodnik po myśleniu strategicznym
   w biznesie i życiu. Dowiesz się o trzech typach strategii (krótko-, średnio- i
@@ -13,6 +13,12 @@ shortDescription: >-
   zespołu i ciągłego doskonalenia przywództwa. Idealne dla przedsiębiorców i
   liderów, którzy chcą przewyższyć konkurencję poprzez lepsze myślenie
   strategiczne.
+tags:
+  - myślenie strategiczne
+  - przywództwo
+  - biznes
+  - podejmowanie decyzji
+  - rozwój osobisty
 ---
 
 # Sztuka Myślenia Strategicznego w Biznesie

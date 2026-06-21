@@ -1,10 +1,29 @@
 ---
-title: "Dlaczego internet nie pomaga nam poznać prawdy – biologiczne mechanizmy budowania obrazu świata"
-date: "2024-06-14"
-videoUrl: "https://www.youtube.com/watch?v=nEkU797M5pw"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "Prowadząca, z wykształcenia biolożka, wyjaśnia, dlaczego powszechny dostęp do informacji nie sprawia, że ludzie myślą bardziej obiektywnie – wręcz przeciwnie, internet wzmacnia istniejące przekonania i błędy poznawcze. Przez pryzmat neurobiologii i ewolucji omawia mechanizmy takie jak uprzedzenie potwierdzające, dysonans poznawczy, błąd optymizmu czy podatność na manipulację propagandową. Analizuje również kryzys systemu edukacji oraz biologiczne podstawy ciekawości i zamknięcia na nową wiedzę w różnych etapach życia. Praktyczny wniosek jest jeden: skoro emocje, a nie fakty, rządzą ludzkim myśleniem, skuteczna i etyczna komunikacja musi to uwzględniać, zamiast polegać wyłącznie na sile argumentów."
+title: >-
+  Dlaczego internet nie pomaga nam poznać prawdy – biologiczne mechanizmy
+  budowania obrazu świata
+date: '2024-06-14'
+videoUrl: 'https://www.youtube.com/watch?v=nEkU797M5pw'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  Prowadząca, z wykształcenia biolożka, wyjaśnia, dlaczego powszechny dostęp do
+  informacji nie sprawia, że ludzie myślą bardziej obiektywnie – wręcz
+  przeciwnie, internet wzmacnia istniejące przekonania i błędy poznawcze. Przez
+  pryzmat neurobiologii i ewolucji omawia mechanizmy takie jak uprzedzenie
+  potwierdzające, dysonans poznawczy, błąd optymizmu czy podatność na
+  manipulację propagandową. Analizuje również kryzys systemu edukacji oraz
+  biologiczne podstawy ciekawości i zamknięcia na nową wiedzę w różnych etapach
+  życia. Praktyczny wniosek jest jeden: skoro emocje, a nie fakty, rządzą
+  ludzkim myśleniem, skuteczna i etyczna komunikacja musi to uwzględniać,
+  zamiast polegać wyłącznie na sile argumentów.
+tags:
+  - psychologia poznawcza
+  - ewolucja człowieka
+  - propaganda i manipulacja
+  - błędy poznawcze
+  - edukacja krytyczna
+  - dezinformacja w internecie
 ---
 
 # Dlaczego internet nie pomaga nam poznać prawdy – biologiczne mechanizmy budowania obrazu świata

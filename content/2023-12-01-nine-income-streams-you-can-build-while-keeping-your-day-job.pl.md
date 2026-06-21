@@ -1,10 +1,28 @@
 ---
-title: "9 strumieni dochodów zbudowanych przy zachowaniu etatu – od konsultingu po nieruchomości"
-date: "2023-12-01"
-videoUrl: "https://www.youtube.com/watch?v=uU05slDehkA"
-channelName: "Codie Sanchez"
-channelUrl: "https://www.youtube.com/channel/UC5fI3kxC-ewZ6ZXEYgznM7g"
-shortDescription: "Autor opisuje, jak stopniowo budował dziewięć źródeł przychodu, nie rezygnując z pracy na etacie, wykorzystując cztery rodzaje dźwigni finansowych: czas, wiedzę i ekspertyzę, markę oraz kapitał. Każdy strumień – od biznesu usługowego, przez płatne wystąpienia i newslettery, aż po wynajem krótkoterminowy i pralnie samoobsługowe – omówiony jest wraz z realnymi liczbami, ścieżką rozwoju i typowymi pułapkami. Kluczowym przesłaniem jest strategia stopniowego dokładania warstw dochodowych zamiast nagłego porzucania etatu, co pozwala budować pewność finansową potrzebną do podejmowania kolejnych, coraz odważniejszych kroków."
+title: >-
+  9 strumieni dochodów zbudowanych przy zachowaniu etatu – od konsultingu po
+  nieruchomości
+date: '2023-12-01'
+videoUrl: 'https://www.youtube.com/watch?v=uU05slDehkA'
+channelName: Codie Sanchez
+channelUrl: 'https://www.youtube.com/channel/UC5fI3kxC-ewZ6ZXEYgznM7g'
+shortDescription: >-
+  Autor opisuje, jak stopniowo budował dziewięć źródeł przychodu, nie rezygnując
+  z pracy na etacie, wykorzystując cztery rodzaje dźwigni finansowych: czas,
+  wiedzę i ekspertyzę, markę oraz kapitał. Każdy strumień – od biznesu
+  usługowego, przez płatne wystąpienia i newslettery, aż po wynajem
+  krótkoterminowy i pralnie samoobsługowe – omówiony jest wraz z realnymi
+  liczbami, ścieżką rozwoju i typowymi pułapkami. Kluczowym przesłaniem jest
+  strategia stopniowego dokładania warstw dochodowych zamiast nagłego porzucania
+  etatu, co pozwala budować pewność finansową potrzebną do podejmowania
+  kolejnych, coraz odważniejszych kroków.
+tags:
+  - wiele źródeł dochodu
+  - pasywny dochód
+  - dźwignia finansowa
+  - budowanie bogactwa
+  - przedsiębiorczość
+  - inwestowanie
 ---
 
 # 9 Strumieni Dochodów, Które Zbudowałem Przy Zachowaniu Etatu

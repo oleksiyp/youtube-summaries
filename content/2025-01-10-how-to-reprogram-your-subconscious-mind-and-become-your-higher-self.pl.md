@@ -1,9 +1,9 @@
 ---
 title: Jak Przeprogramować Podświadomość i Stać Się Najlepszą Wersją Siebie
 date: '2025-01-10'
-videoUrl: https://www.youtube.com/watch?v=svr2O0Ul1s0
+videoUrl: 'https://www.youtube.com/watch?v=svr2O0Ul1s0'
 channelName: Kenny Bender
-channelUrl: https://www.youtube.com/channel/UC78Q-s1Va9OJIEdk-IHv73A
+channelUrl: 'https://www.youtube.com/channel/UC78Q-s1Va9OJIEdk-IHv73A'
 shortDescription: >-
   Porzuć "silę woli" i "motywację" – poznaj prawdziwy sposób na trwałą zmianę.
   Ten film wyjaśnia, dlaczego 95% Twoich działań kontroluje podświadomość i jak
@@ -11,6 +11,13 @@ shortDescription: >-
   prawdziwe "dlaczego", stworzyć wizję swojego wyższego ja i pokonać opór, który
   sabotuje Twoje cele. Praktyczne strategie, które pozwolą Ci osiągnąć
   dyscyplinę, produktywność i wolność – bez ciągłej walki z samym sobą.
+tags:
+  - rozwój osobisty
+  - prokrastynacja
+  - podświadomość
+  - tożsamość
+  - samosabotaż
+  - motywacja
 ---
 
 # Jak Odzyskać Kontrolę nad Swoim Życiem i Osiągnąć Pełny Potencjał

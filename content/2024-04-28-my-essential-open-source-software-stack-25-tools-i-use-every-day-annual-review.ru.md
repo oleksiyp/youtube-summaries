@@ -3,9 +3,9 @@ title: >-
   ** Лучшее Open Source ПО 2024: 25+ Инструментов для Самостоятельного Хостинга
   и Управления Серверами
 date: '2024-04-28'
-videoUrl: https://www.youtube.com/watch?v=6t5BQRQJIVY
+videoUrl: 'https://www.youtube.com/watch?v=6t5BQRQJIVY'
 channelName: Awesome Open Source
-channelUrl: https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g
+channelUrl: 'https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g'
 shortDescription: >-
   ** Подробный ежегодный обзор более 25 open source инструментов, которые автор
   активно использует для управления серверами, удаленного доступа, безопасности
@@ -18,6 +18,13 @@ shortDescription: >-
   для системных администраторов, энтузиастов самостоятельного хостинга и тех,
   кто хочет получить полный контроль над своей цифровой инфраструктурой без
   зависимости от проприетарных решений.
+tags:
+  - open source
+  - самохостинг
+  - администрирование серверов
+  - инструменты devops
+  - домашняя автоматизация
+  - обзор программ
 ---
 
 # Обзор Open Source программного обеспечения

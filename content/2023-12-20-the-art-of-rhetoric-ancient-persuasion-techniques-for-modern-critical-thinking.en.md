@@ -3,9 +3,9 @@ title: >-
   The Art of Rhetoric: Ancient Persuasion Techniques for Modern Critical
   Thinking
 date: '2023-12-20'
-videoUrl: https://www.youtube.com/watch?v=iR59Veb-JFo
+videoUrl: 'https://www.youtube.com/watch?v=iR59Veb-JFo'
 channelName: The Modern Hermeticist
-channelUrl: https://www.youtube.com/channel/UCcluftdk1tuDU71ZdGNpHTA
+channelUrl: 'https://www.youtube.com/channel/UCcluftdk1tuDU71ZdGNpHTA'
 shortDescription: >-
   This comprehensive lecture explores the classical art of rhetoric—the third
   pillar of the Trivium alongside grammar and logic—and its vital relevance in
@@ -17,6 +17,13 @@ shortDescription: >-
   polished deception in our complex information age. This updated presentation
   empowers viewers with healthy skepticism and practical analytical frameworks
   for navigating contemporary communication.
+tags:
+  - rhetoric
+  - persuasion
+  - critical thinking
+  - rhetorical devices
+  - classical education
+  - media literacy
 ---
 
 # A Practical Exploration of Rhetoric: The Art of Persuasion and Critical Thinking

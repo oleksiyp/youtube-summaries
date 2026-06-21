@@ -1,10 +1,30 @@
 ---
-title: "Zakaz mediów społecznościowych dla dzieci nie wystarczy — jak przez 50 lat odebraliśmy dzieciom samodzielne dzieciństwo"
-date: "2026-06-17"
-videoUrl: "https://www.youtube.com/watch?v=47Jo98uc0I4"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "Odcinek analizuje, dlaczego planowany w Anglii zakaz mediów społecznościowych dla dzieci poniżej 16. roku życia jest krokiem w dobrym kierunku, ale nie rozwiąże głębszego problemu. Przez ostatnie pięćdziesiąt lat drastycznie ograniczyliśmy samodzielność dzieci — swobodna zabawa, samodzielne poruszanie się po okolicy i spontaniczne kontakty towarzyskie praktycznie zanikły, a media społecznościowe jedynie wypełniły powstałą lukę. Dane z kilkunastu krajów zachodnich pokazują, że rosnący lęk rodziców nie ma pokrycia w statystykach przestępczości ani wypadków, za to prowadzi do pokolenia nastolatków pozbawionych podstawowych kompetencji życiowych i odporności psychicznej. Bez odbudowania prawdziwej, stopniowej samodzielności dzieci samo odebranie im telefonów zastąpi jeden problem innym."
+title: >-
+  Zakaz mediów społecznościowych dla dzieci nie wystarczy — jak przez 50 lat
+  odebraliśmy dzieciom samodzielne dzieciństwo
+date: '2026-06-17'
+videoUrl: 'https://www.youtube.com/watch?v=47Jo98uc0I4'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  Odcinek analizuje, dlaczego planowany w Anglii zakaz mediów społecznościowych
+  dla dzieci poniżej 16. roku życia jest krokiem w dobrym kierunku, ale nie
+  rozwiąże głębszego problemu. Przez ostatnie pięćdziesiąt lat drastycznie
+  ograniczyliśmy samodzielność dzieci — swobodna zabawa, samodzielne poruszanie
+  się po okolicy i spontaniczne kontakty towarzyskie praktycznie zanikły, a
+  media społecznościowe jedynie wypełniły powstałą lukę. Dane z kilkunastu
+  krajów zachodnich pokazują, że rosnący lęk rodziców nie ma pokrycia w
+  statystykach przestępczości ani wypadków, za to prowadzi do pokolenia
+  nastolatków pozbawionych podstawowych kompetencji życiowych i odporności
+  psychicznej. Bez odbudowania prawdziwej, stopniowej samodzielności dzieci samo
+  odebranie im telefonów zastąpi jeden problem innym.
+tags:
+  - wychowanie dzieci
+  - samodzielność dzieci
+  - media społecznościowe
+  - zabawa na świeżym powietrzu
+  - bezpieczeństwo dzieci
+  - rozwój dziecka
 ---
 
 # Zakaz mediów społecznościowych dla dzieci a kryzys samodzielnego dzieciństwa

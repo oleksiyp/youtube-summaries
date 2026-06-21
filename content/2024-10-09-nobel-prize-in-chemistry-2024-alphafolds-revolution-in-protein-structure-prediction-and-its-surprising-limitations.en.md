@@ -3,9 +3,9 @@ title: >-
   Nobel Prize in Chemistry 2024: AlphaFold's Revolution in Protein Structure
   Prediction and Its Surprising Limitations
 date: '2024-10-09'
-videoUrl: https://www.youtube.com/watch?v=6tDWm97KvJY
+videoUrl: 'https://www.youtube.com/watch?v=6tDWm97KvJY'
 channelName: Ирина Якутенко
-channelUrl: https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
 shortDescription: >-
   On October 9th, the Nobel Committee awarded the Chemistry Prize to David
   Baker, Demis Hassabis, and John Jumper for revolutionizing protein structure
@@ -21,6 +21,13 @@ shortDescription: >-
   some experts were skeptical of this nomination and what these breakthroughs
   reveal about the vast gap between human design capabilities and evolutionary
   sophistication.
+tags:
+  - alphafold
+  - protein folding
+  - nobel prize chemistry
+  - structural biology
+  - ai in science
+  - protein design
 ---
 
 # Nobel Prize in Chemistry 2024: AlphaFold, Protein Design, and the Revolution in Structural Biology

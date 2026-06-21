@@ -1,9 +1,9 @@
 ---
 title: Jaki jest sens życia? Jak odkryć swoje prawdziwe powołanie i przeznaczenie
 date: '2025-04-05'
-videoUrl: https://www.youtube.com/watch?v=S52cXZXVeRs
+videoUrl: 'https://www.youtube.com/watch?v=S52cXZXVeRs'
 channelName: Александр Некрасов
-channelUrl: https://www.youtube.com/channel/UCeM6x_2jSPuP1XSOgUNYT6Q
+channelUrl: 'https://www.youtube.com/channel/UCeM6x_2jSPuP1XSOgUNYT6Q'
 shortDescription: >-
   To wideo zgłębia jedno z najważniejszych pytań egzystencjalnych - czym jest
   sens życia i jak go odnaleźć. Dowiesz się o kluczowej różnicy między sensem a
@@ -13,6 +13,13 @@ shortDescription: >-
   wizualizację śmierci, które pomogą ci usłyszeć głos twojego serca i zrozumieć,
   czemu naprawdę jesteś oddany. Niezależnie od tego, jaką ścieżką podążasz -
   twoja droga ma głębokie znaczenie i wartość.
+tags:
+  - sens życia
+  - filozofia egzystencjalna
+  - rozwój osobisty
+  - samopoznanie
+  - duchowość
+  - cel życia
 ---
 
 # Jaki jest sens życia? - Kompleksowe podsumowanie

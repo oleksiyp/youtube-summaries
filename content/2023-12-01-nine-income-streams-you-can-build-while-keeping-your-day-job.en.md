@@ -1,10 +1,26 @@
 ---
-title: "Nine Income Streams You Can Build While Keeping Your Day Job"
-date: "2023-12-01"
-videoUrl: "https://www.youtube.com/watch?v=uU05slDehkA"
-channelName: "Codie Sanchez"
-channelUrl: "https://www.youtube.com/channel/UC5fI3kxC-ewZ6ZXEYgznM7g"
-shortDescription: "This post breaks down nine real income streams built progressively while maintaining full-time employment, organized around four core financial levers: time, expertise, brand, and capital. From service businesses and consulting to newsletters, short-term rentals, and laundromats, each stream is examined honestly — including the hidden costs and complications most people never mention. The central philosophy is that diversifying income gradually reduces financial risk and removes the need for an all-or-nothing entrepreneurial leap. Whether you earn $37,000 or seven figures, the key insight is using your current income as the engine that funds and builds everything else."
+title: Nine Income Streams You Can Build While Keeping Your Day Job
+date: '2023-12-01'
+videoUrl: 'https://www.youtube.com/watch?v=uU05slDehkA'
+channelName: Codie Sanchez
+channelUrl: 'https://www.youtube.com/channel/UC5fI3kxC-ewZ6ZXEYgznM7g'
+shortDescription: >-
+  This post breaks down nine real income streams built progressively while
+  maintaining full-time employment, organized around four core financial levers:
+  time, expertise, brand, and capital. From service businesses and consulting to
+  newsletters, short-term rentals, and laundromats, each stream is examined
+  honestly — including the hidden costs and complications most people never
+  mention. The central philosophy is that diversifying income gradually reduces
+  financial risk and removes the need for an all-or-nothing entrepreneurial
+  leap. Whether you earn $37,000 or seven figures, the key insight is using your
+  current income as the engine that funds and builds everything else.
+tags:
+  - multiple income streams
+  - passive income
+  - financial independence
+  - side hustles
+  - wealth building
+  - investing
 ---
 
 # Nine Income Streams Built While Working a Full-Time Job

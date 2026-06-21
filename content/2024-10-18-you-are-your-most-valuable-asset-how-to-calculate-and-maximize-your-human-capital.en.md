@@ -1,7 +1,16 @@
 ---
-title: "You Are Your Most Valuable Asset: How to Calculate and Maximize Your Human Capital"
-date: "2024-10-18"
-videoUrl: "https://www.youtube.com/watch?v=F3zPPs04kSo"
+title: >-
+  You Are Your Most Valuable Asset: How to Calculate and Maximize Your Human
+  Capital
+date: '2024-10-18'
+videoUrl: 'https://www.youtube.com/watch?v=F3zPPs04kSo'
+tags:
+  - human capital
+  - personal finance
+  - self-investment
+  - wealth building
+  - career development
+  - income growth
 ---
 
 # You Are Your Most Valuable Asset

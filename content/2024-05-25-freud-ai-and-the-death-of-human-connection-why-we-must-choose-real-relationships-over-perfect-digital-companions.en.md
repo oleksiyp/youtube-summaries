@@ -3,9 +3,9 @@ title: >-
   Freud, AI, and the Death of Human Connection: Why We Must Choose Real
   Relationships Over Perfect Digital Companions
 date: '2024-05-25'
-videoUrl: https://www.youtube.com/watch?v=dVxDskUiVzs
+videoUrl: 'https://www.youtube.com/watch?v=dVxDskUiVzs'
 channelName: Андрей Курпатов
-channelUrl: https://www.youtube.com/channel/UCX_isCsPV3HOg95qodqIdLQ
+channelUrl: 'https://www.youtube.com/channel/UCX_isCsPV3HOg95qodqIdLQ'
 shortDescription: >-
   Renowned psychotherapist Andrey Kurpatov explores how artificial intelligence
   threatens the very foundation of our humanity by offering perfect,
@@ -20,6 +20,13 @@ shortDescription: >-
   profound: put down your devices, physically connect with the real people
   around you, and embrace the beautiful struggle of authentic human
   relationships before it's too late.
+tags:
+  - freud
+  - psychoanalysis
+  - artificial intelligence
+  - human connection
+  - death drive
+  - social isolation
 ---
 
 # Freud, Psychoanalysis, and the Crisis of Human Connection in the AI Era

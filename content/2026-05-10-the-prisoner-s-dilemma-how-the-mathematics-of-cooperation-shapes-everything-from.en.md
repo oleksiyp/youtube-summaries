@@ -1,10 +1,30 @@
 ---
-title: "The Prisoner's Dilemma: How the Mathematics of Cooperation Shapes Everything from Nuclear War to Cosmic Destiny"
-date: "2026-05-10"
-videoUrl: "https://www.youtube.com/watch?v=IOfxvsdBpDQ"
-channelName: "Homo Deus"
-channelUrl: "https://www.youtube.com/channel/UCDSU7aYPOHxstWvHurbH9VA"
-shortDescription: "The Prisoner's Dilemma — game theory's most influential problem — reveals why rational individuals repeatedly choose outcomes that harm everyone, from nuclear arms races to antibiotic resistance to climate change. Through Robert Axelrod's landmark computer tournaments, the biology of vampire bats and cleaner fish, and the evolutionary history of life itself, this exploration shows how cooperation emerges, why it succeeds, and what destroys it. Ultimately, the mathematics of reciprocity and the \"shadow of the future\" may determine not just humanity's survival, but whether intelligent life can scale from tribal cooperation to a Type III Kardashev civilization — and why the Great Filter separating silent galaxies from thriving ones may be, at its core, a cooperation filter."
+title: >-
+  The Prisoner's Dilemma: How the Mathematics of Cooperation Shapes Everything
+  from Nuclear War to Cosmic Destiny
+date: '2026-05-10'
+videoUrl: 'https://www.youtube.com/watch?v=IOfxvsdBpDQ'
+channelName: Homo Deus
+channelUrl: 'https://www.youtube.com/channel/UCDSU7aYPOHxstWvHurbH9VA'
+shortDescription: >-
+  The Prisoner's Dilemma — game theory's most influential problem — reveals why
+  rational individuals repeatedly choose outcomes that harm everyone, from
+  nuclear arms races to antibiotic resistance to climate change. Through Robert
+  Axelrod's landmark computer tournaments, the biology of vampire bats and
+  cleaner fish, and the evolutionary history of life itself, this exploration
+  shows how cooperation emerges, why it succeeds, and what destroys it.
+  Ultimately, the mathematics of reciprocity and the "shadow of the future" may
+  determine not just humanity's survival, but whether intelligent life can scale
+  from tribal cooperation to a Type III Kardashev civilization — and why the
+  Great Filter separating silent galaxies from thriving ones may be, at its
+  core, a cooperation filter.
+tags:
+  - game theory
+  - prisoner's dilemma
+  - evolution of cooperation
+  - fermi paradox
+  - nuclear arms race
+  - kardashev scale
 ---
 
 # The Prisoner's Dilemma: From Nuclear War to the Evolution of Cooperation and Cosmic Destiny

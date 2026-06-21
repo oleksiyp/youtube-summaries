@@ -1,10 +1,27 @@
 ---
-title: "Najtańsze ETF-y w Europie – które fundusze wybrać i dlaczego ukryte koszty niszczą Twój majątek"
-date: "2025-09-01"
-videoUrl: "https://www.youtube.com/watch?v=WuLwARQywF8"
-channelName: "Angelo Colombo"
-channelUrl: "https://www.youtube.com/channel/UCV_VWoWQo_4NHAE4jZkpERg"
-shortDescription: "Pozornie niewielka różnica w rocznych opłatach za ETF-y może przez 40 lat pochłonąć kwotę przewyższającą całą pierwotną inwestycję. Artykuł wyjaśnia, dlaczego model płaskich opłat licencyjnych firmy Solactive zrewolucjonizował rynek tanich ETF-ów w Europie oraz które konkretne fundusze – od globalnych po europejskie i amerykańskie – oferują aktualnie najniższe koszty. Poznasz również kluczowe pułapki, których należy unikać: przedwczesna sprzedaż drogich jednostek na rzecz tańszych może przez wiele lat kosztować więcej niż przyniesie oszczędności na opłatach."
+title: >-
+  Najtańsze ETF-y w Europie – które fundusze wybrać i dlaczego ukryte koszty
+  niszczą Twój majątek
+date: '2025-09-01'
+videoUrl: 'https://www.youtube.com/watch?v=WuLwARQywF8'
+channelName: Angelo Colombo
+channelUrl: 'https://www.youtube.com/channel/UCV_VWoWQo_4NHAE4jZkpERg'
+shortDescription: >-
+  Pozornie niewielka różnica w rocznych opłatach za ETF-y może przez 40 lat
+  pochłonąć kwotę przewyższającą całą pierwotną inwestycję. Artykuł wyjaśnia,
+  dlaczego model płaskich opłat licencyjnych firmy Solactive zrewolucjonizował
+  rynek tanich ETF-ów w Europie oraz które konkretne fundusze – od globalnych po
+  europejskie i amerykańskie – oferują aktualnie najniższe koszty. Poznasz
+  również kluczowe pułapki, których należy unikać: przedwczesna sprzedaż drogich
+  jednostek na rzecz tańszych może przez wiele lat kosztować więcej niż
+  przyniesie oszczędności na opłatach.
+tags:
+  - etf
+  - inwestowanie
+  - opłaty funduszy
+  - rynki kapitałowe
+  - indeksy giełdowe
+  - oszczędzanie
 ---
 
 # Najtańsze ETF-y w Europie – jak ukryte koszty zjadają Twój majątek

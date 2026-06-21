@@ -1,9 +1,9 @@
 ---
 title: 'The Meaning of Life: How to Find Your True Purpose and Calling'
 date: '2025-04-05'
-videoUrl: https://www.youtube.com/watch?v=S52cXZXVeRs
+videoUrl: 'https://www.youtube.com/watch?v=S52cXZXVeRs'
 channelName: Александр Некрасов
-channelUrl: https://www.youtube.com/channel/UCeM6x_2jSPuP1XSOgUNYT6Q
+channelUrl: 'https://www.youtube.com/channel/UCeM6x_2jSPuP1XSOgUNYT6Q'
 shortDescription: >-
   What is the meaning of life, and how do we discover our true purpose? This
   video explores the crucial difference between personal meaning (what we
@@ -13,6 +13,13 @@ shortDescription: >-
   exercise. Whether you're a seed waiting to sprout, a resilient weed, a
   connecting mushroom, or a cosmic observer, discover your unique path to
   growing your soul and living with authentic purpose.
+tags:
+  - meaning of life
+  - life purpose
+  - self-discovery
+  - existential questions
+  - personal growth
+  - spiritual development
 ---
 
 # The Meaning and Purpose of Life: A Comprehensive Exploration

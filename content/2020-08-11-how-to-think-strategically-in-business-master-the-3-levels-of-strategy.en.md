@@ -1,9 +1,9 @@
 ---
 title: 'How to Think Strategically in Business: Master the 3 Levels of Strategy'
 date: '2020-08-11'
-videoUrl: https://www.youtube.com/watch?v=x9dgZQsjR6s
+videoUrl: 'https://www.youtube.com/watch?v=x9dgZQsjR6s'
 channelName: Valuetainment
-channelUrl: https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ
+channelUrl: 'https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ'
 shortDescription: >-
   Patrick Bet-David breaks down the essential principles of strategic thinking
   that separate top performers from everyone else. Learn the three critical
@@ -15,6 +15,13 @@ shortDescription: >-
   you're an entrepreneur, executive, or aspiring leader, mastering these
   strategic thinking frameworks will give you the competitive advantage needed
   to succeed at the highest levels.
+tags:
+  - strategic thinking
+  - business strategy
+  - leadership
+  - decision-making
+  - long-term planning
+  - competitive advantage
 ---
 
 # Strategic Thinking: From Short-Term Problem Solving to Long-Term Vision

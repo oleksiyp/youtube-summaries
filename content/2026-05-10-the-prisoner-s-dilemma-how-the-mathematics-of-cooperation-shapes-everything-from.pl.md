@@ -1,10 +1,27 @@
 ---
-title: "Dylemat Więźnia: Ewolucja Współpracy — od Bakterii do Cywilizacji i Gwiazd"
-date: "2026-05-10"
-videoUrl: "https://www.youtube.com/watch?v=IOfxvsdBpDQ"
-channelName: "Homo Deus"
-channelUrl: "https://www.youtube.com/channel/UCDSU7aYPOHxstWvHurbH9VA"
-shortDescription: "Film eksploruje dylemat więźnia jako fundamentalne prawo rządzące całym życiem — od bakterii wydzielających syderoforowe sygnały chemiczne po supermocarstwa ścigające się w wyścigu zbrojeń nuklearnych. Na podstawie turniejów Axelroda, badań nad wampirami, rybami-czyścicielami i żołnierzami w okopach I wojny światowej autor dowodzi, że kooperacja nie jest wyborem moralnym, lecz matematyczną koniecznością wynikającą z praw fizyki. Kluczowy wniosek: cywilizacja, która nie nauczy się świadomie wydłużać horyzontu przyszłości i budować globalnej kooperacji, nie przekroczy progu skali Kardaszowa — i właśnie ta bariera może wyjaśniać kosmiczną ciszę opisaną przez paradoks Fermiego."
+title: 'Dylemat Więźnia: Ewolucja Współpracy — od Bakterii do Cywilizacji i Gwiazd'
+date: '2026-05-10'
+videoUrl: 'https://www.youtube.com/watch?v=IOfxvsdBpDQ'
+channelName: Homo Deus
+channelUrl: 'https://www.youtube.com/channel/UCDSU7aYPOHxstWvHurbH9VA'
+shortDescription: >-
+  Film eksploruje dylemat więźnia jako fundamentalne prawo rządzące całym życiem
+  — od bakterii wydzielających syderoforowe sygnały chemiczne po supermocarstwa
+  ścigające się w wyścigu zbrojeń nuklearnych. Na podstawie turniejów Axelroda,
+  badań nad wampirami, rybami-czyścicielami i żołnierzami w okopach I wojny
+  światowej autor dowodzi, że kooperacja nie jest wyborem moralnym, lecz
+  matematyczną koniecznością wynikającą z praw fizyki. Kluczowy wniosek:
+  cywilizacja, która nie nauczy się świadomie wydłużać horyzontu przyszłości i
+  budować globalnej kooperacji, nie przekroczy progu skali Kardaszowa — i
+  właśnie ta bariera może wyjaśniać kosmiczną ciszę opisaną przez paradoks
+  Fermiego.
+tags:
+  - dylemat więźnia
+  - teoria gier
+  - ewolucja współpracy
+  - paradoks fermiego
+  - skala kardaszowa
+  - wielki filtr
 ---
 
 # Dylemat Więźnia: Ewolucja Współpracy — od Bakterii do Cywilizacji

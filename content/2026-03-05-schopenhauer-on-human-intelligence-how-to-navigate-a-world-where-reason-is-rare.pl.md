@@ -1,10 +1,31 @@
 ---
-title: "Schopenhauer o ludzkiej głupocie i rzadkości prawdziwej inteligencji — filozofia skutecznego działania w świecie"
-date: "2026-03-05"
-videoUrl: "https://www.youtube.com/watch?v=5y_FqS9Rvac"
-channelName: "Глубинный Смысл"
-channelUrl: "https://www.youtube.com/channel/UCT1RG_crnV2B2XLyEDVjKZg"
-shortDescription: "Arthur Schopenhauer przez dziesięciolecia analizował ograniczenia ludzkiego intelektu i doszedł do wniosków pozbawionych złudzeń: większość ludzi nie myśli, lecz wierzy, a prawdziwa zdolność do abstrakcyjnego rozumowania dotyczy najwyżej kilku procent populacji. Filozofia ta wyjaśnia mechanizmy takie jak efekt Dunninga-Krugera, emocjonalne podstawy przekonań czy zbiorowy regres intelektualny w grupach, dając narzędzia do przewidywania ludzkich zachowań. Zamiast wyczerpywać się w próbach przekonywania nieprzekonwalnych, Schopenhauer proponuje strategię selektywnej głębi — pełną otwartość wobec nielicznych zdolnych do pojęcia złożoności i strategiczną prostotę wobec pozostałych. Kluczowym wnioskiem jest akceptacja ludzkiej natury taką, jaka jest, co stanowi fundament spokoju i skutecznego działania, a nie cynizmu czy rezygnacji."
+title: >-
+  Schopenhauer o ludzkiej głupocie i rzadkości prawdziwej inteligencji —
+  filozofia skutecznego działania w świecie
+date: '2026-03-05'
+videoUrl: 'https://www.youtube.com/watch?v=5y_FqS9Rvac'
+channelName: Глубинный Смысл
+channelUrl: 'https://www.youtube.com/channel/UCT1RG_crnV2B2XLyEDVjKZg'
+shortDescription: >-
+  Arthur Schopenhauer przez dziesięciolecia analizował ograniczenia ludzkiego
+  intelektu i doszedł do wniosków pozbawionych złudzeń: większość ludzi nie
+  myśli, lecz wierzy, a prawdziwa zdolność do abstrakcyjnego rozumowania dotyczy
+  najwyżej kilku procent populacji. Filozofia ta wyjaśnia mechanizmy takie jak
+  efekt Dunninga-Krugera, emocjonalne podstawy przekonań czy zbiorowy regres
+  intelektualny w grupach, dając narzędzia do przewidywania ludzkich zachowań.
+  Zamiast wyczerpywać się w próbach przekonywania nieprzekonwalnych,
+  Schopenhauer proponuje strategię selektywnej głębi — pełną otwartość wobec
+  nielicznych zdolnych do pojęcia złożoności i strategiczną prostotę wobec
+  pozostałych. Kluczowym wnioskiem jest akceptacja ludzkiej natury taką, jaka
+  jest, co stanowi fundament spokoju i skutecznego działania, a nie cynizmu czy
+  rezygnacji.
+tags:
+  - filozofia
+  - schopenhauer
+  - inteligencja
+  - myślenie krytyczne
+  - psychologia
+  - mądrość życiowa
 ---
 
 # Filozofia Schopenhauera o inteligencji i ograniczeniach ludzkich — jak działać w świecie pozbawionym krytycznego myślenia

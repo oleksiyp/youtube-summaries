@@ -1,10 +1,31 @@
 ---
-title: "What Science Actually Predicts About Reaching the Top in Politics, Sport, Science, and Creative Fields"
-date: "2026-01-19"
-videoUrl: "https://www.youtube.com/watch?v=F7mn-z6JrDY"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "A rigorous examination of research across four major domains reveals that family wealth, educational prestige, professional networks, and institutional environment consistently outweigh raw talent in determining who reaches elite levels of success. The Matthew Effect — where early advantages compound into larger advantages over time — operates as the universal underlying mechanism across politics, sport, science, and the creative arts. Despite assumptions of meritocracy, socioeconomic background at birth remains the single strongest predictor of elite achievement, with genuinely talented individuals from poor families representing what researchers call \"missing scientists\" and lost creative voices. Understanding these structural dynamics offers both individuals and societies a more honest framework for career decisions and educational policy."
+title: >-
+  What Science Actually Predicts About Reaching the Top in Politics, Sport,
+  Science, and Creative Fields
+date: '2026-01-19'
+videoUrl: 'https://www.youtube.com/watch?v=F7mn-z6JrDY'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  A rigorous examination of research across four major domains reveals that
+  family wealth, educational prestige, professional networks, and institutional
+  environment consistently outweigh raw talent in determining who reaches elite
+  levels of success. The Matthew Effect — where early advantages compound into
+  larger advantages over time — operates as the universal underlying mechanism
+  across politics, sport, science, and the creative arts. Despite assumptions of
+  meritocracy, socioeconomic background at birth remains the single strongest
+  predictor of elite achievement, with genuinely talented individuals from poor
+  families representing what researchers call "missing scientists" and lost
+  creative voices. Understanding these structural dynamics offers both
+  individuals and societies a more honest framework for career decisions and
+  educational policy.
+tags:
+  - elite success predictors
+  - socioeconomic inequality
+  - matthew effect
+  - career success research
+  - meritocracy
+  - talent and opportunity
 ---
 
 # Predictors of Elite Success: Politics, Sport, Science, and Creative Fields

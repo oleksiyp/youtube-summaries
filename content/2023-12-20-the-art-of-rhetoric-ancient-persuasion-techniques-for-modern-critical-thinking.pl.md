@@ -3,9 +3,9 @@ title: >-
   Figury Retoryczne: Sztuka Perswazji w Literaturze, Polityce i Mediach |
   Kompletny Przewodnik po Trivium
 date: '2023-12-20'
-videoUrl: https://www.youtube.com/watch?v=iR59Veb-JFo
+videoUrl: 'https://www.youtube.com/watch?v=iR59Veb-JFo'
 channelName: The Modern Hermeticist
-channelUrl: https://www.youtube.com/channel/UCcluftdk1tuDU71ZdGNpHTA
+channelUrl: 'https://www.youtube.com/channel/UCcluftdk1tuDU71ZdGNpHTA'
 shortDescription: >-
   Ta zaktualizowana wersja klasycznego wykładu przedstawia figury retoryczne i
   ich zastosowanie w literaturze, współczesnej polityce, marketingu i
@@ -17,6 +17,13 @@ shortDescription: >-
   Wykład pokazuje, jak Trivium (gramatyka, logika, retoryka) służy jako "komora
   dekontaminacyjna" dla krytycznego myślenia i jak rozpoznać substancję w morzu
   propagandy.
+tags:
+  - retoryka
+  - figury retoryczne
+  - perswazja
+  - trivium
+  - krytyczne myślenie
+  - manipulacja
 ---
 
 # Retoryka: Sztuka Przekonującego Mówienia - Kompletne Podsumowanie

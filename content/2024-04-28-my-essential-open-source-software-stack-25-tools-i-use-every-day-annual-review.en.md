@@ -3,9 +3,9 @@ title: >-
   My Essential Open Source Software Stack - 25+ Tools I Use Every Day (Annual
   Review)
 date: '2024-04-28'
-videoUrl: https://www.youtube.com/watch?v=6t5BQRQJIVY
+videoUrl: 'https://www.youtube.com/watch?v=6t5BQRQJIVY'
 channelName: Awesome Open Source
-channelUrl: https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g
+channelUrl: 'https://www.youtube.com/channel/UCwFpzG5MK5Shg_ncAhrgr9g'
 shortDescription: >-
   This comprehensive annual review showcases 25+ open source tools I rely on
   daily for server management, remote access, home automation, content creation,
@@ -17,6 +17,13 @@ shortDescription: >-
   Docker management with Portainer to password security with Vaultwarden. Join
   me as I share why these tools have earned their place in my workflow and how
   you can implement them in yours.
+tags:
+  - open source software
+  - self-hosted tools
+  - home lab
+  - server management
+  - linux
+  - content creation
 ---
 
 # Annual Review of Open Source Software

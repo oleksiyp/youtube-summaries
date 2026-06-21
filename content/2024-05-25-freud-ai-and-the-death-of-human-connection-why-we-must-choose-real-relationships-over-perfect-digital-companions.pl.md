@@ -3,9 +3,9 @@ title: >-
   Freud i sztuczna inteligencja: Dlaczego idealny rozmówca AI zagraża naszemu
   człowieczeństwu
 date: '2024-05-25'
-videoUrl: https://www.youtube.com/watch?v=dVxDskUiVzs
+videoUrl: 'https://www.youtube.com/watch?v=dVxDskUiVzs'
 channelName: Андрей Курпатов
-channelUrl: https://www.youtube.com/channel/UCX_isCsPV3HOg95qodqIdLQ
+channelUrl: 'https://www.youtube.com/channel/UCX_isCsPV3HOg95qodqIdLQ'
 shortDescription: >-
   Andrey Kurpatov łączy rewolucyjne odkrycia Zygmunta Freuda z współczesnymi
   wyzwaniami epoki sztucznej inteligencji. Wykład wyjaśnia, dlaczego AI jest
@@ -16,6 +16,13 @@ shortDescription: >-
   z innymi ludźmi. To mocne ostrzeżenie i praktyczny apel o pielęgnowanie
   prawdziwych, fizycznych więzi międzyludzkich w erze doskonałych, ale
   pozbawionych duszy technologii.
+tags:
+  - psychoanaliza
+  - sztuczna inteligencja
+  - zygmunt freud
+  - kryzys społeczny
+  - relacje międzyludzkie
+  - technologia
 ---
 
 # Zygmunt Freud i kryzys współczesnego świata - kompleksowe podsumowanie
