@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import { use } from 'react';
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { getAllPostSlugs, getPostBySlug } from '@/lib/posts';
 import { getTranslation, getLanguageByCode, getLanguageName } from '@/lib/i18n';
 import { getLanguageCodes } from '@/config/languages';
@@ -165,10 +167,11 @@ export default function PostPage({
           </header>
 
           {/* Article Content */}
-          <div
-            className="prose prose-lg"
-            dangerouslySetInnerHTML={{ __html: formatMarkdown(post.content) }}
-          />
+          <div className="prose prose-lg">
+            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+              {post.content}
+            </ReactMarkdown>
+          </div>
         </article>
       </main>
 
@@ -185,66 +188,4 @@ export default function PostPage({
       </footer>
     </div>
   );
-}
-
-function formatMarkdown(content: string): string {
-  const lines = content.split('\n');
-  const result: string[] = [];
-  let i = 0;
-
-  while (i < lines.length) {
-    const line = lines[i];
-    const trimmed = line.trim();
-
-    // Skip empty lines
-    if (!trimmed) {
-      i++;
-      continue;
-    }
-
-    // Process headings
-    if (trimmed.startsWith('### ')) {
-      result.push(`<h3>${formatInline(trimmed.substring(4))}</h3>`);
-      i++;
-    } else if (trimmed.startsWith('## ')) {
-      result.push(`<h2>${formatInline(trimmed.substring(3))}</h2>`);
-      i++;
-    } else if (trimmed.startsWith('# ')) {
-      result.push(`<h1>${formatInline(trimmed.substring(2))}</h1>`);
-      i++;
-    }
-    // Process unordered lists
-    else if (trimmed.match(/^[-*]\s/)) {
-      const listItems: string[] = [];
-      while (i < lines.length && lines[i].trim().match(/^[-*]\s/)) {
-        const itemText = lines[i].trim().substring(2);
-        listItems.push(`<li>${formatInline(itemText)}</li>`);
-        i++;
-      }
-      result.push(`<ul>${listItems.join('')}</ul>`);
-    }
-    // Process paragraphs
-    else {
-      const paraLines: string[] = [];
-      while (i < lines.length && lines[i].trim() && !lines[i].trim().match(/^(#{1,3}\s|[-*]\s)/)) {
-        paraLines.push(lines[i].trim());
-        i++;
-      }
-      if (paraLines.length > 0) {
-        result.push(`<p>${formatInline(paraLines.join(' '))}</p>`);
-      }
-    }
-  }
-
-  return result.join('\n');
-}
-
-function formatInline(text: string): string {
-  return text
-    // Links
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
-    // Bold
-    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
-    // Italic (but not part of bold)
-    .replace(/\*(.+?)\*/g, '<em>$1</em>');
 }
