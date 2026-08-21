@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "generate:tags": "node scripts/generate-tags-json.mjs",
+    "prebuild": "npm run generate:tags"
   },
   "keywords": [],
   "author": "",
