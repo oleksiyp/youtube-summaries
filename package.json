@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "generate:tags": "node scripts/generate-tags-json.mjs",
-    "prebuild": "npm run generate:tags"
+    "prebuild": "npm run generate:tags && npm run generate:videos",
+    "generate:videos": "node scripts/generate-videos-json.mjs"
   },
   "keywords": [],
   "author": "",
