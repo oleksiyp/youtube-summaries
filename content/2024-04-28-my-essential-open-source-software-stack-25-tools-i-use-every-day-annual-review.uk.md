@@ -20,17 +20,9 @@ shortDescription: >-
   пропрієтарних рішень.
 tags:
   - інструменти з відкритим кодом
-  - керування сервером
-  - домашня автоматизація
-  - віддалений доступ
-  - самостійний хостинг
   - створення контенту
 tagKeys:
   - open-source-tools
-  - server-management
-  - home-automation
-  - remote-access
-  - self-hosted-apps
   - content-creation
 ---
 

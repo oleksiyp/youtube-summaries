@@ -17,17 +17,11 @@ shortDescription: >-
 tags:
   - риторика
   - критическое мышление
-  - техники убеждения
-  - классический тривиум
   - медийная манипуляция
-  - риторические приёмы
 tagKeys:
   - rhetoric
   - critical-thinking
-  - persuasion-techniques
-  - classical-trivium
   - media-manipulation
-  - rhetorical-devices
 ---
 
 # Риторика: Искусство убедительной речи и защита от манипуляции

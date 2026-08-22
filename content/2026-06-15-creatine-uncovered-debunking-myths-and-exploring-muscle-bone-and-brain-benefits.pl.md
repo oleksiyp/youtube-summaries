@@ -1,12 +1,29 @@
 ---
-title: "Kreatyna bez tajemnic: mity, dawkowanie i naukowe fakty od czołowego eksperta"
-date: "2026-06-15"
-videoUrl: "https://www.youtube.com/watch?v=Jk7RAkFN4vk"
-channelName: "The Diary Of A CEO"
-channelUrl: "https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw"
-shortDescription: "Doktor Darren Candow, badacz kreatyny z niemal trzydziestoletnim doświadczeniem, obala najpopularniejsze mity dotyczące tego suplementu – od rzekomego szkodzenia nerkom po wypadanie włosów – i wyjaśnia jego rzeczywisty wpływ na mięśnie, kości oraz mózg. Artykuł szczegółowo omawia optymalne dawkowanie w zależności od celu (budowa mięśni, zdrowie kości, funkcje poznawcze), rolę kreatyny w walce ze stresem metabolicznym, depresją czy chorobą Alzheimera, a także praktyczne wskazówki dotyczące wyboru suplementu i budowania trwałego nawyku suplementacji. To kompleksowy przewodnik pokazujący, dlaczego kreatyna – mimo blisko 200-letniej historii odkrycia – wciąż zaskakuje naukowców nowymi korzyściami zdrowotnymi dla osób w każdym wieku i płci."
-tags: ["kreatyna", "rozrost mięśni", "zdrowie kości", "zdrowie mózgu", "trening siłowy", "starzenie się"]
-tagKeys: ["creatine", "muscle-growth", "bone-health", "brain-health", "weight-training", "aging"]
+title: 'Kreatyna bez tajemnic: mity, dawkowanie i naukowe fakty od czołowego eksperta'
+date: '2026-06-15'
+videoUrl: 'https://www.youtube.com/watch?v=Jk7RAkFN4vk'
+channelName: The Diary Of A CEO
+channelUrl: 'https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw'
+shortDescription: >-
+  Doktor Darren Candow, badacz kreatyny z niemal trzydziestoletnim
+  doświadczeniem, obala najpopularniejsze mity dotyczące tego suplementu – od
+  rzekomego szkodzenia nerkom po wypadanie włosów – i wyjaśnia jego rzeczywisty
+  wpływ na mięśnie, kości oraz mózg. Artykuł szczegółowo omawia optymalne
+  dawkowanie w zależności od celu (budowa mięśni, zdrowie kości, funkcje
+  poznawcze), rolę kreatyny w walce ze stresem metabolicznym, depresją czy
+  chorobą Alzheimera, a także praktyczne wskazówki dotyczące wyboru suplementu i
+  budowania trwałego nawyku suplementacji. To kompleksowy przewodnik pokazujący,
+  dlaczego kreatyna – mimo blisko 200-letniej historii odkrycia – wciąż
+  zaskakuje naukowców nowymi korzyściami zdrowotnymi dla osób w każdym wieku i
+  płci.
+tags:
+  - trening siłowy
+  - neuronauka
+  - medycyna prewencyjna
+tagKeys:
+  - weight-training
+  - neuroscience
+  - preventive-medicine
 ---
 
 # Kreatyna – prawda i mity na temat najbardziej przebadanego suplementu świata

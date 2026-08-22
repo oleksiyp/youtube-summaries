@@ -15,17 +15,9 @@ shortDescription: >-
   prywatność, bezpieczeństwo i pełną kontrolę nad własnymi danymi.
 tags:
   - narzędzia open source
-  - zarządzanie serwerem
-  - automatyka domowa
-  - zdalny dostęp
-  - aplikacje self-hosted
   - tworzenie treści
 tagKeys:
   - open-source-tools
-  - server-management
-  - home-automation
-  - remote-access
-  - self-hosted-apps
   - content-creation
 ---
 

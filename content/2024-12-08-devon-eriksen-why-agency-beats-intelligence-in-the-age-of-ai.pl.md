@@ -1,12 +1,33 @@
 ---
-title: "Devon Eriksen o sprawczości: dlaczego edukacja zabija odwagę, a AI nie zabierze nam człowieczeństwa"
-date: "2024-12-08"
-videoUrl: "https://www.youtube.com/watch?v=18ahFtnuBwI"
-channelName: "Dan Koe"
-channelUrl: "https://www.youtube.com/channel/UCWXYDYv5STLk-zoxMP2I1Lw"
-shortDescription: "Pisarz science fiction Devon Eriksen wyjaśnia, dlaczego prawdziwa edukacja to nie trening do jednego zadania, lecz uczenie się, jak się uczyć, oraz dlaczego sprawczość – a nie sama inteligencja – decyduje o sukcesie w życiu. Rozmowa porusza słabości systemu szkolnego finansowanego przez „trzecią stronę\", niebezpieczeństwo utożsamiania się ze sztywnymi etykietami tożsamościowymi oraz rolę opowieści i fikcji jako „DNA cywilizacji\". Eriksen dzieli się też osobistą drogą od inżyniera oprogramowania do niezależnego autora, tłumacząc, dlaczego tradycyjne wydawnictwa straciły sens istnienia i jak budować publiczność opartą na zaufaniu zamiast liczby obserwujących. Całość zamyka przekonanie, że AI nie zagraża ludziom, którzy rozumieją siebie jako nawigatorów własnego życia, a nie narzędzia jednego przeznaczenia."
-tags: ["sprawczość", "edukacja", "sztuczna inteligencja", "ograniczające przekonania", "opowiadanie historii", "niezależne publikowanie"]
-tagKeys: ["agency", "education", "artificial-intelligence", "self-limiting-beliefs", "storytelling", "independent-publishing"]
+title: >-
+  Devon Eriksen o sprawczości: dlaczego edukacja zabija odwagę, a AI nie
+  zabierze nam człowieczeństwa
+date: '2024-12-08'
+videoUrl: 'https://www.youtube.com/watch?v=18ahFtnuBwI'
+channelName: Dan Koe
+channelUrl: 'https://www.youtube.com/channel/UCWXYDYv5STLk-zoxMP2I1Lw'
+shortDescription: >-
+  Pisarz science fiction Devon Eriksen wyjaśnia, dlaczego prawdziwa edukacja to
+  nie trening do jednego zadania, lecz uczenie się, jak się uczyć, oraz dlaczego
+  sprawczość – a nie sama inteligencja – decyduje o sukcesie w życiu. Rozmowa
+  porusza słabości systemu szkolnego finansowanego przez „trzecią stronę",
+  niebezpieczeństwo utożsamiania się ze sztywnymi etykietami tożsamościowymi
+  oraz rolę opowieści i fikcji jako „DNA cywilizacji". Eriksen dzieli się też
+  osobistą drogą od inżyniera oprogramowania do niezależnego autora, tłumacząc,
+  dlaczego tradycyjne wydawnictwa straciły sens istnienia i jak budować
+  publiczność opartą na zaufaniu zamiast liczby obserwujących. Całość zamyka
+  przekonanie, że AI nie zagraża ludziom, którzy rozumieją siebie jako
+  nawigatorów własnego życia, a nie narzędzia jednego przeznaczenia.
+tags:
+  - rozwój osobisty
+  - edukacja
+  - sztuczna inteligencja
+  - tworzenie treści
+tagKeys:
+  - personal-development
+  - education
+  - artificial-intelligence
+  - content-creation
 ---
 
 # Devon Eriksen: Sprawczość, edukacja i przyszłość człowieka w erze AI

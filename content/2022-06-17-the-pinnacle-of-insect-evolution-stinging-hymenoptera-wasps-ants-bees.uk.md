@@ -1,5 +1,5 @@
 ---
-title: "Жалоносні перетинчастокрилі — вершина еволюції комах | Частина 3"
+title: Жалоносні перетинчастокрилі — вершина еволюції комах | Частина 3
 date: '2022-06-17'
 videoUrl: 'https://www.youtube.com/watch?v=LlSUugBXOI4'
 channelName: Dacatria
@@ -14,19 +14,11 @@ shortDescription: >-
   як від паразитизму до соціальності комахи досягли вершини еволюційного
   розвитку.
 tags:
-  - еволюція перетинчастокрилих
+  - evolutionary biology
   - суспільні комахи
-  - жалоносні оси
-  - паразитична поведінка
-  - походження бджіл
-  - різноманіття мурах
 tagKeys:
-  - hymenoptera-evolution
+  - evolutionary-biology
   - social-insects
-  - stinging-wasps
-  - parasitic-behavior
-  - bee-origins
-  - ant-diversity
 ---
 
 # Еволюція жалоносних перетинчастокрилих

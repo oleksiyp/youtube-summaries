@@ -22,18 +22,14 @@ shortDescription: >-
   transformation—are the realistic goal.
 tags:
   - cognitive biases
-  - brain evolution
+  - evolutionary biology
   - media manipulation
-  - information literacy
   - critical thinking
-  - propaganda techniques
 tagKeys:
   - cognitive-biases
-  - brain-evolution
+  - evolutionary-biology
   - media-manipulation
-  - information-literacy
   - critical-thinking
-  - propaganda-techniques
 ---
 
 # Why the Internet Doesn't Make Us More Rational: A Biological Perspective

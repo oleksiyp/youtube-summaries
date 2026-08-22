@@ -1,12 +1,33 @@
 ---
-title: "From \"I'll Do It Myself\" to Feminine Strength: Rewriting the Role That's Blocking Your Life"
-date: "2024-10-03"
-videoUrl: "https://www.youtube.com/watch?v=YuWc_3X2VXM"
-channelName: "Мадина Шиллерова"
-channelUrl: "https://www.youtube.com/channel/UCzymdbsjX2FIANDp26LPcXw"
-shortDescription: "Many women wear the \"strong and self-sufficient\" label as a badge of honor, yet it quietly sabotages their relationships, health, and rest. Drawing on her own story of being raised with \"a man's character\" — and her father's warning that she would crush any man she met — the author explains how she stopped searching for a stronger partner and instead changed her own role. The post lays out a practical framework for where masculine energy belongs (career, finances, focus) versus feminine energy (family, comfort, creation), along with concrete steps for observing, imitating, and integrating femininity into daily behavior. It closes with a candid revelation about mistaking aggression for persistence, and the reminder that true ease comes from acceptance rather than constantly proving your strength."
-tags: ["femininity", "relationships", "personal development", "self-awareness", "work-life balance"]
-tagKeys: ["femininity", "relationships", "personal-development", "self-awareness", "work-life-balance"]
+title: >-
+  From "I'll Do It Myself" to Feminine Strength: Rewriting the Role That's
+  Blocking Your Life
+date: '2024-10-03'
+videoUrl: 'https://www.youtube.com/watch?v=YuWc_3X2VXM'
+channelName: Мадина Шиллерова
+channelUrl: 'https://www.youtube.com/channel/UCzymdbsjX2FIANDp26LPcXw'
+shortDescription: >-
+  Many women wear the "strong and self-sufficient" label as a badge of honor,
+  yet it quietly sabotages their relationships, health, and rest. Drawing on her
+  own story of being raised with "a man's character" — and her father's warning
+  that she would crush any man she met — the author explains how she stopped
+  searching for a stronger partner and instead changed her own role. The post
+  lays out a practical framework for where masculine energy belongs (career,
+  finances, focus) versus feminine energy (family, comfort, creation), along
+  with concrete steps for observing, imitating, and integrating femininity into
+  daily behavior. It closes with a candid revelation about mistaking aggression
+  for persistence, and the reminder that true ease comes from acceptance rather
+  than constantly proving your strength.
+tags:
+  - relationships
+  - personal development
+  - self-awareness
+  - career development
+tagKeys:
+  - relationships
+  - personal-development
+  - self-awareness
+  - career-development
 ---
 
 # Breaking Free from the "I'll Do Everything Myself" Mindset: A Woman's Path Back to Femininity

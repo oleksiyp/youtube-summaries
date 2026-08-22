@@ -1,12 +1,27 @@
 ---
-title: "Od ruchów Browna do bilionów dolarów — jak fizyka podbiła rynki finansowe"
-date: "2024-04-08"
-videoUrl: "https://www.youtube.com/watch?v=c-yf4nLgq2Q"
-channelName: "Vert Dider"
-channelUrl: "https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A"
-shortDescription: "Opowieść o tym, jak model Blacka–Scholesa–Mertona wyrósł z równania przewodnictwa cieplnego, ruchów Browna i zapomnianej rozprawy doktorskiej Louisa Bacheliera, by stać się fundamentem współczesnych rynków instrumentów pochodnych. Poznasz mechanikę opcji, ideę hedgingu dynamicznego Edwarda Thorpa oraz przyczyny eksplozji rynku wartego setki bilionów dolarów. Historia pokazuje też drugą stronę medalu: dźwignię finansową w przypadku GameStop i rolę derywatów w pogłębianiu kryzysów. Na koniec przyglądamy się Jimowi Simonsowi i funduszowi Medallion, którego wyniki podważają hipotezę rynku efektywnego."
-tags: ["finanse ilościowe", "instrumenty pochodne", "matematyka finansowa", "efektywność rynku", "rachunek prawdopodobieństwa"]
-tagKeys: ["quantitative-finance", "derivatives", "financial-mathematics", "market-efficiency", "probability-theory"]
+title: Od ruchów Browna do bilionów dolarów — jak fizyka podbiła rynki finansowe
+date: '2024-04-08'
+videoUrl: 'https://www.youtube.com/watch?v=c-yf4nLgq2Q'
+channelName: Vert Dider
+channelUrl: 'https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A'
+shortDescription: >-
+  Opowieść o tym, jak model Blacka–Scholesa–Mertona wyrósł z równania
+  przewodnictwa cieplnego, ruchów Browna i zapomnianej rozprawy doktorskiej
+  Louisa Bacheliera, by stać się fundamentem współczesnych rynków instrumentów
+  pochodnych. Poznasz mechanikę opcji, ideę hedgingu dynamicznego Edwarda Thorpa
+  oraz przyczyny eksplozji rynku wartego setki bilionów dolarów. Historia
+  pokazuje też drugą stronę medalu: dźwignię finansową w przypadku GameStop i
+  rolę derywatów w pogłębianiu kryzysów. Na koniec przyglądamy się Jimowi
+  Simonsowi i funduszowi Medallion, którego wyniki podważają hipotezę rynku
+  efektywnego.
+tags:
+  - finanse ilościowe
+  - investing
+  - teoria gier
+tagKeys:
+  - quantitative-finance
+  - investing
+  - game-theory
 ---
 
 # Równanie, które zmieniło rynki finansowe — od fizyki do bilionów dolarów

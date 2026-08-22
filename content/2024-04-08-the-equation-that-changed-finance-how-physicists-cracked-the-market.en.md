@@ -1,12 +1,29 @@
 ---
-title: "The Equation That Changed Finance: How Physicists Cracked the Market"
-date: "2024-04-08"
-videoUrl: "https://www.youtube.com/watch?v=c-yf4nLgq2Q"
-channelName: "Vert Dider"
-channelUrl: "https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A"
-shortDescription: "This post traces the surprising scientific lineage of modern finance, from Louis Bachelier's random walk theory and Einstein's work on Brownian motion to Ed Thorp's card counting and the Black-Scholes-Merton equation that launched the derivatives boom. It explains how options work, why stock prices behave like balls falling through a Galton board, and how dynamic hedging lets traders manufacture near-riskless portfolios. It also examines the trillion-dollar markets that grew from a single formula, their role in both providing liquidity and amplifying crashes, and how Jim Simons' Medallion Fund used hidden Markov models and machine learning to beat the market for decades. The story ends with a paradox: the more patterns we find and trade away, the closer markets come to pure randomness."
-tags: ["quantitative finance", "derivatives", "financial mathematics", "market efficiency", "probability theory"]
-tagKeys: ["quantitative-finance", "derivatives", "financial-mathematics", "market-efficiency", "probability-theory"]
+title: 'The Equation That Changed Finance: How Physicists Cracked the Market'
+date: '2024-04-08'
+videoUrl: 'https://www.youtube.com/watch?v=c-yf4nLgq2Q'
+channelName: Vert Dider
+channelUrl: 'https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A'
+shortDescription: >-
+  This post traces the surprising scientific lineage of modern finance, from
+  Louis Bachelier's random walk theory and Einstein's work on Brownian motion to
+  Ed Thorp's card counting and the Black-Scholes-Merton equation that launched
+  the derivatives boom. It explains how options work, why stock prices behave
+  like balls falling through a Galton board, and how dynamic hedging lets
+  traders manufacture near-riskless portfolios. It also examines the
+  trillion-dollar markets that grew from a single formula, their role in both
+  providing liquidity and amplifying crashes, and how Jim Simons' Medallion Fund
+  used hidden Markov models and machine learning to beat the market for decades.
+  The story ends with a paradox: the more patterns we find and trade away, the
+  closer markets come to pure randomness.
+tags:
+  - quantitative finance
+  - investing
+  - game theory
+tagKeys:
+  - quantitative-finance
+  - investing
+  - game-theory
 ---
 
 # The Equation That Changed Finance: Physics, Randomness, and the Birth of the Derivatives Market

@@ -1,12 +1,27 @@
 ---
-title: "Myślenie strategiczne: trzy horyzonty i sześć nawyków, które budują przewagę"
-date: "2020-08-11"
-videoUrl: "https://www.youtube.com/watch?v=x9dgZQsjR6s"
-channelName: "Valuetainment"
-channelUrl: "https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ"
-shortDescription: "Tylko jedna na dwadzieścia osób naprawdę myśli strategicznie — i to ona wygrywa rynek, nawet jeśli inni pracują równie ciężko. Ten wpis pokazuje trzy horyzonty strategii (krótki, średni i długi termin) na analogiach walki ulicznej, bitwy i wojny oraz sześć filarów prawdziwego stratega: antycypację, bezemocjonalne myślenie krytyczne, odczytywanie motywów, odwagę decyzji, uzgadnianie agend i ciągłe doskonalenie kadry. Znajdziesz tu też różnicę między myśleniem konwencjonalnym a niekonwencjonalnym, koncepcję myślenia czterowymiarowego na przykładzie sporu Sonos z Amazonem oraz trzy elementy trwałej przewagi: spójne filozofie, kapitał i realne wyróżnienie. Całość kończy metafora walki o mistrzostwo — sprawdzian tego, czy strategia została rozegrana dobrze."
-tags: ["myślenie strategiczne", "strategia biznesowa", "przywództwo", "podejmowanie decyzji", "przewaga konkurencyjna"]
-tagKeys: ["strategic-thinking", "business-strategy", "leadership", "decision-making", "competitive-advantage"]
+title: 'Myślenie strategiczne: trzy horyzonty i sześć nawyków, które budują przewagę'
+date: '2020-08-11'
+videoUrl: 'https://www.youtube.com/watch?v=x9dgZQsjR6s'
+channelName: Valuetainment
+channelUrl: 'https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ'
+shortDescription: >-
+  Tylko jedna na dwadzieścia osób naprawdę myśli strategicznie — i to ona
+  wygrywa rynek, nawet jeśli inni pracują równie ciężko. Ten wpis pokazuje trzy
+  horyzonty strategii (krótki, średni i długi termin) na analogiach walki
+  ulicznej, bitwy i wojny oraz sześć filarów prawdziwego stratega: antycypację,
+  bezemocjonalne myślenie krytyczne, odczytywanie motywów, odwagę decyzji,
+  uzgadnianie agend i ciągłe doskonalenie kadry. Znajdziesz tu też różnicę
+  między myśleniem konwencjonalnym a niekonwencjonalnym, koncepcję myślenia
+  czterowymiarowego na przykładzie sporu Sonos z Amazonem oraz trzy elementy
+  trwałej przewagi: spójne filozofie, kapitał i realne wyróżnienie. Całość
+  kończy metafora walki o mistrzostwo — sprawdzian tego, czy strategia została
+  rozegrana dobrze.
+tags:
+  - myślenie strategiczne
+  - podejmowanie decyzji
+tagKeys:
+  - strategic-thinking
+  - decision-making
 ---
 
 # Jak myśleć strategicznie — trzy horyzonty strategii i sześć nawyków prawdziwego stratega

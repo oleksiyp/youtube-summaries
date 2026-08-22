@@ -1,12 +1,27 @@
 ---
-title: "The Six Habits That Separate Strategic Thinkers From Everyone Else"
-date: "2020-08-11"
-videoUrl: "https://www.youtube.com/watch?v=x9dgZQsjR6s"
-channelName: "Valuetainment"
-channelUrl: "https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ"
-shortDescription: "In any room of 20 people, only one is a true strategic thinker — and you can't out-work that person, no matter how hard you try. This post breaks down the three time horizons of strategy (short-term problem solving, mid-term tactics, and long-term planning), the six habits that define a real strategist, and why anticipation, non-emotional critical thinking, and organizational alignment matter more than raw effort. It also covers four-dimensional thinking through a case study of Sonos publicly attacking Amazon, and the three ingredients — proven philosophies, capital, and genuine differentiation — that let a smaller player step into the ring with industry giants. The closing challenge: honestly identify which type of strategist you are, and which one you most need to become."
-tags: ["strategic thinking", "business strategy", "leadership", "decision making", "competitive advantage"]
-tagKeys: ["strategic-thinking", "business-strategy", "leadership", "decision-making", "competitive-advantage"]
+title: The Six Habits That Separate Strategic Thinkers From Everyone Else
+date: '2020-08-11'
+videoUrl: 'https://www.youtube.com/watch?v=x9dgZQsjR6s'
+channelName: Valuetainment
+channelUrl: 'https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ'
+shortDescription: >-
+  In any room of 20 people, only one is a true strategic thinker — and you can't
+  out-work that person, no matter how hard you try. This post breaks down the
+  three time horizons of strategy (short-term problem solving, mid-term tactics,
+  and long-term planning), the six habits that define a real strategist, and why
+  anticipation, non-emotional critical thinking, and organizational alignment
+  matter more than raw effort. It also covers four-dimensional thinking through
+  a case study of Sonos publicly attacking Amazon, and the three ingredients —
+  proven philosophies, capital, and genuine differentiation — that let a smaller
+  player step into the ring with industry giants. The closing challenge:
+  honestly identify which type of strategist you are, and which one you most
+  need to become.
+tags:
+  - strategic thinking
+  - decision making
+tagKeys:
+  - strategic-thinking
+  - decision-making
 ---
 
 # How to Become a Better Strategic Thinker in Business

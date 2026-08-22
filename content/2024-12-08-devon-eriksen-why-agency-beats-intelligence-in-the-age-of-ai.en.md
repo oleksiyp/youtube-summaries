@@ -1,12 +1,29 @@
 ---
-title: "Devon Eriksen: Why Agency Beats Intelligence in the Age of AI"
-date: "2024-12-08"
-videoUrl: "https://www.youtube.com/watch?v=18ahFtnuBwI"
-channelName: "Dan Koe"
-channelUrl: "https://www.youtube.com/channel/UCWXYDYv5STLk-zoxMP2I1Lw"
-shortDescription: "Writer and novelist Devon Eriksen breaks down why modern education fails to teach true learning, why agency—not raw intelligence—separates achievers from everyone else, and how AI's rise reveals \"artificial stupidity\" rather than a threat to human potential. He explores self-limiting identities, the trap of selling time instead of building assets, why fiction and stories shape civilization, and how he built an independent writing career outside traditional publishing. Along the way, he offers practical advice on rebuilding agency, redefining success, and reclaiming personal responsibility for what you learn and pursue."
-tags: ["agency", "education", "artificial intelligence", "self-limiting beliefs", "storytelling", "independent publishing"]
-tagKeys: ["agency", "education", "artificial-intelligence", "self-limiting-beliefs", "storytelling", "independent-publishing"]
+title: 'Devon Eriksen: Why Agency Beats Intelligence in the Age of AI'
+date: '2024-12-08'
+videoUrl: 'https://www.youtube.com/watch?v=18ahFtnuBwI'
+channelName: Dan Koe
+channelUrl: 'https://www.youtube.com/channel/UCWXYDYv5STLk-zoxMP2I1Lw'
+shortDescription: >-
+  Writer and novelist Devon Eriksen breaks down why modern education fails to
+  teach true learning, why agency—not raw intelligence—separates achievers from
+  everyone else, and how AI's rise reveals "artificial stupidity" rather than a
+  threat to human potential. He explores self-limiting identities, the trap of
+  selling time instead of building assets, why fiction and stories shape
+  civilization, and how he built an independent writing career outside
+  traditional publishing. Along the way, he offers practical advice on
+  rebuilding agency, redefining success, and reclaiming personal responsibility
+  for what you learn and pursue.
+tags:
+  - personal development
+  - education
+  - artificial intelligence
+  - content creation
+tagKeys:
+  - personal-development
+  - education
+  - artificial-intelligence
+  - content-creation
 ---
 
 # Devon Eriksen on Education, Agency, and What Makes Us Human

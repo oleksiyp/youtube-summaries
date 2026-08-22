@@ -1,12 +1,35 @@
 ---
-title: "The Complete Field Guide to Cognitive Biases: 30 Thinking Errors That Quietly Shape Your Life"
-date: "2024-08-03"
-videoUrl: "https://www.youtube.com/watch?v=NXKYvP_aTmI"
-channelName: "Лобстер Sapiens"
-channelUrl: "https://www.youtube.com/channel/UCDu1AEu8xn-iQ4m8r-thaKA"
-shortDescription: "This guide catalogs the most common cognitive biases — systematic errors in how we judge others, assess ourselves, process information, and make decisions — with clear definitions and everyday examples for each. You'll learn why we blame character instead of circumstance (fundamental attribution error), why beginners overestimate their skill (Dunning–Kruger), why we cling to failing investments (escalation of commitment), and why the past always seems better than it was. The through-line is that our minds take mental shortcuts that feel intuitively correct but consistently distort reality — inflating our self-image, defending our existing beliefs, and overvaluing whatever is familiar or already paid for. Recognizing the specific pattern at play is the first practical step toward thinking more clearly."
-tags: ["cognitive biases", "psychology", "decision making", "critical thinking", "self-awareness"]
-tagKeys: ["cognitive-biases", "psychology", "decision-making", "critical-thinking", "self-awareness"]
+title: >-
+  The Complete Field Guide to Cognitive Biases: 30 Thinking Errors That Quietly
+  Shape Your Life
+date: '2024-08-03'
+videoUrl: 'https://www.youtube.com/watch?v=NXKYvP_aTmI'
+channelName: Лобстер Sapiens
+channelUrl: 'https://www.youtube.com/channel/UCDu1AEu8xn-iQ4m8r-thaKA'
+shortDescription: >-
+  This guide catalogs the most common cognitive biases — systematic errors in
+  how we judge others, assess ourselves, process information, and make decisions
+  — with clear definitions and everyday examples for each. You'll learn why we
+  blame character instead of circumstance (fundamental attribution error), why
+  beginners overestimate their skill (Dunning–Kruger), why we cling to failing
+  investments (escalation of commitment), and why the past always seems better
+  than it was. The through-line is that our minds take mental shortcuts that
+  feel intuitively correct but consistently distort reality — inflating our
+  self-image, defending our existing beliefs, and overvaluing whatever is
+  familiar or already paid for. Recognizing the specific pattern at play is the
+  first practical step toward thinking more clearly.
+tags:
+  - cognitive biases
+  - psychology
+  - decision making
+  - critical thinking
+  - self-awareness
+tagKeys:
+  - cognitive-biases
+  - psychology
+  - decision-making
+  - critical-thinking
+  - self-awareness
 ---
 
 # A Guide to Common Cognitive Biases and Thinking Errors

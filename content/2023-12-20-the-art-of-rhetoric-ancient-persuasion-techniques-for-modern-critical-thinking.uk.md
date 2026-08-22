@@ -18,17 +18,11 @@ shortDescription: >-
 tags:
   - риторика
   - критичне мислення
-  - техніки переконання
-  - класичний тривіум
   - медійна маніпуляція
-  - риторичні прийоми
 tagKeys:
   - rhetoric
   - critical-thinking
-  - persuasion-techniques
-  - classical-trivium
   - media-manipulation
-  - rhetorical-devices
 ---
 
 # Риторика: мистецтво переконливого мовлення та захист від маніпуляції

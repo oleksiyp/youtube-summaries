@@ -1,12 +1,31 @@
 ---
-title: "Inside Quantitative Development: Systems, Strategy, and Infrastructure at a Quant Firm"
-date: "2026-06-18"
-videoUrl: "https://www.youtube.com/watch?v=tzTftCzmr7k"
-channelName: "The Quant Insider"
-channelUrl: "https://www.youtube.com/channel/UC3qtlc2U7OevxHoDjVGj_cA"
-shortDescription: "A quantitative developer with four years of industry experience breaks down the full architecture of a multi-factor trading model, from raw data ingestion and alpha construction to portfolio optimization and live execution. The video covers the end-to-end research-to-production pipeline, explaining how tools like Apache Spark, Delta Lake, Parquet, and KDB fit together to meet the tight daily deadlines of global equity trading. Key concepts including the Fundamental Law of Active Management, risk factor decomposition, and point-in-time data accuracy are explained in practical terms alongside real infrastructure decisions. The presenter also shares detailed advice on navigating the quant developer interview process, emphasizing that clear communication of reasoning often matters as much as technical correctness."
-tags: ["quantitative finance", "trading systems", "data engineering", "risk modeling", "distributed computing", "alpha generation"]
-tagKeys: ["quantitative-finance", "trading-systems", "data-engineering", "risk-modeling", "distributed-computing", "alpha-generation"]
+title: >-
+  Inside Quantitative Development: Systems, Strategy, and Infrastructure at a
+  Quant Firm
+date: '2026-06-18'
+videoUrl: 'https://www.youtube.com/watch?v=tzTftCzmr7k'
+channelName: The Quant Insider
+channelUrl: 'https://www.youtube.com/channel/UC3qtlc2U7OevxHoDjVGj_cA'
+shortDescription: >-
+  A quantitative developer with four years of industry experience breaks down
+  the full architecture of a multi-factor trading model, from raw data ingestion
+  and alpha construction to portfolio optimization and live execution. The video
+  covers the end-to-end research-to-production pipeline, explaining how tools
+  like Apache Spark, Delta Lake, Parquet, and KDB fit together to meet the tight
+  daily deadlines of global equity trading. Key concepts including the
+  Fundamental Law of Active Management, risk factor decomposition, and
+  point-in-time data accuracy are explained in practical terms alongside real
+  infrastructure decisions. The presenter also shares detailed advice on
+  navigating the quant developer interview process, emphasizing that clear
+  communication of reasoning often matters as much as technical correctness.
+tags:
+  - quantitative finance
+  - distributed computing
+  - decision making
+tagKeys:
+  - quantitative-finance
+  - distributed-computing
+  - decision-making
 ---
 
 # Inside Quantitative Development: Systems, Strategy, and Infrastructure

@@ -1,12 +1,28 @@
 ---
-title: "Howard Marks: jak myśleć o ryzyku, czyli dlaczego sama stopa zwrotu nic nie znaczy"
-date: "2024-09-12"
-videoUrl: "https://www.youtube.com/watch?v=WXQBUSryfdM"
-channelName: "Oaktree"
-channelUrl: "https://www.youtube.com/channel/UCfzbRPUn_YvJCl6npbZKXJA"
-shortDescription: "Howard Marks tłumaczy, dlaczego ryzyko to nie zmienność, lecz prawdopodobieństwo trwałej straty — i dlaczego nie da się go zmierzyć ani przed, ani po fakcie. Wykład pokazuje, że przyszłość jest zakresem możliwych wyników, a nie jednym przewidywalnym scenariuszem, oraz że o bezpieczeństwie inwestycji decyduje nie jakość aktywa, ale cena, którą za nie płacimy. Marks omawia przewrotną naturę ryzyka, ukryte zagrożenia typu „czarny łabędź” oraz model ubezpieczyciela na życie jako wzór inteligentnego podejmowania ryzyka. Kluczowy wniosek: ryzyko trzeba kontrolować, a nie unikać, bo unikanie ryzyka oznacza unikanie zysku, a prawdziwą przewagą najlepszych inwestorów jest asymetria między zyskami a stratami."
-tags: ["risk management", "investing", "investment philosophy", "howard marks", "uncertainty"]
-tagKeys: ["risk-management", "investing", "investment-philosophy", "howard-marks", "uncertainty"]
+title: >-
+  Howard Marks: jak myśleć o ryzyku, czyli dlaczego sama stopa zwrotu nic nie
+  znaczy
+date: '2024-09-12'
+videoUrl: 'https://www.youtube.com/watch?v=WXQBUSryfdM'
+channelName: Oaktree
+channelUrl: 'https://www.youtube.com/channel/UCfzbRPUn_YvJCl6npbZKXJA'
+shortDescription: >-
+  Howard Marks tłumaczy, dlaczego ryzyko to nie zmienność, lecz
+  prawdopodobieństwo trwałej straty — i dlaczego nie da się go zmierzyć ani
+  przed, ani po fakcie. Wykład pokazuje, że przyszłość jest zakresem możliwych
+  wyników, a nie jednym przewidywalnym scenariuszem, oraz że o bezpieczeństwie
+  inwestycji decyduje nie jakość aktywa, ale cena, którą za nie płacimy. Marks
+  omawia przewrotną naturę ryzyka, ukryte zagrożenia typu „czarny łabędź” oraz
+  model ubezpieczyciela na życie jako wzór inteligentnego podejmowania ryzyka.
+  Kluczowy wniosek: ryzyko trzeba kontrolować, a nie unikać, bo unikanie ryzyka
+  oznacza unikanie zysku, a prawdziwą przewagą najlepszych inwestorów jest
+  asymetria między zyskami a stratami.
+tags:
+  - podejmowanie decyzji
+  - investing
+tagKeys:
+  - decision-making
+  - investing
 ---
 
 # Jak myśleć o ryzyku — Howard Marks

@@ -1,12 +1,26 @@
 ---
-title: "Neo-Marxism in New Packaging: Why Elon Musk Spent $44 Billion on Twitter"
-date: "2024-03-24"
-videoUrl: "https://www.youtube.com/watch?v=jBe6yGfNU1Q"
-channelName: "Денис Борисов"
-channelUrl: "https://www.youtube.com/channel/UCVZYwJU89nYX6JLeBSAwOTA"
-shortDescription: "This post examines the argument that Elon Musk's Twitter purchase was an ideological act rather than a business decision — a response to losing his own child to what the speaker calls \"woke\" neo-Marxism. It traces how corporate disasters like Bud Light and Victoria's Secret reveal a coercion mechanism built on BlackRock's shareholdings and ESG scoring, and unpacks the theoretical shift from classical Marxism to postmodern identity politics. The discussion decodes DEI terminology, the four \"deadly sins\" attributed to white heterosexual men, and the historical pattern by which promises of justice serve as instruments for seizing power. It closes with evidence of a consumer-driven backlash and an open question about which side will prevail."
-tags: ["woke ideology", "culture wars", "identity politics", "elon musk", "esg"]
-tagKeys: ["woke-ideology", "culture-wars", "identity-politics", "elon-musk", "esg"]
+title: 'Neo-Marxism in New Packaging: Why Elon Musk Spent $44 Billion on Twitter'
+date: '2024-03-24'
+videoUrl: 'https://www.youtube.com/watch?v=jBe6yGfNU1Q'
+channelName: Денис Борисов
+channelUrl: 'https://www.youtube.com/channel/UCVZYwJU89nYX6JLeBSAwOTA'
+shortDescription: >-
+  This post examines the argument that Elon Musk's Twitter purchase was an
+  ideological act rather than a business decision — a response to losing his own
+  child to what the speaker calls "woke" neo-Marxism. It traces how corporate
+  disasters like Bud Light and Victoria's Secret reveal a coercion mechanism
+  built on BlackRock's shareholdings and ESG scoring, and unpacks the
+  theoretical shift from classical Marxism to postmodern identity politics. The
+  discussion decodes DEI terminology, the four "deadly sins" attributed to white
+  heterosexual men, and the historical pattern by which promises of justice
+  serve as instruments for seizing power. It closes with evidence of a
+  consumer-driven backlash and an open question about which side will prevail.
+tags:
+  - culture wars
+  - social media
+tagKeys:
+  - culture-wars
+  - social-media
 ---
 
 # Why Elon Musk Bought Twitter: A Critique of "Woke" Ideology as Neo-Marxism

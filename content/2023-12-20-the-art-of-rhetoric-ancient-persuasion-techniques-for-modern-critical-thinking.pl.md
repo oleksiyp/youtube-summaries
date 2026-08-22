@@ -20,17 +20,11 @@ shortDescription: >-
 tags:
   - retoryka
   - myślenie krytyczne
-  - techniki perswazji
-  - trivium klasyczne
   - manipulacja medialna
-  - figury retoryczne
 tagKeys:
   - rhetoric
   - critical-thinking
-  - persuasion-techniques
-  - classical-trivium
   - media-manipulation
-  - rhetorical-devices
 ---
 
 # Retoryka: Sztuka Przekonującego Mówienia - Kompletne Podsumowanie

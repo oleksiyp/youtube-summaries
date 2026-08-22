@@ -21,18 +21,10 @@ shortDescription: >-
   собственный организм.
 tags:
   - теория игр
-  - дилемма заключённого
-  - ядерная гонка вооружений
-  - эволюция кооперации
-  - парадокс Ферми
-  - выживание цивилизации
+  - эволюционная биология
 tagKeys:
   - game-theory
-  - prisoner-s-dilemma
-  - nuclear-arms-race
-  - evolution-of-cooperation
-  - fermi-paradox
-  - civilizational-survival
+  - evolutionary-biology
 ---
 
 # Дилемма заключённого: от теории игр до выживания цивилизации

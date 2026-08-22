@@ -1,12 +1,29 @@
 ---
-title: "„Instytucja” – nowa konstytucja dla Ukrainy. Współwładanie, cenzus kompetencyjny i spór o tożsamość narodową"
-date: "2024-09-20"
-videoUrl: "https://www.youtube.com/watch?v=UbnAiESUMp0"
-channelName: "Yuriy Romanenko"
-channelUrl: "https://www.youtube.com/channel/UCY2z9noVRgOx0AZwqMCLuBA"
-shortDescription: "Twórcy programu „Bojowi Miodojady” prezentują „Instytucję” – wieloletnio przygotowywany projekt nowej konstytucji Ukrainy, oparty na idei współwłasności i współzarządzania wspólnym dobrem zamiast tradycyjnego pojęcia obywatelstwa. Omawiają kluczowe innowacje dokumentu: system cenzusów kompetencyjnych zamiast „wulgarnej demokracji”, nową hierarchię wartości (godność ponad życiem), podmiotowość przyrody oraz mechanizmy chroniące przed dyktatem większości. W ostrej dyskusji ścierają się wizje przezałożenia państwa a kontynuacji istniejącego systemu, a także spór o miejsce języka rosyjskiego i nacjonalizmu narodowotwórczego we współczesnej Ukrainie. Całość kończy się refleksją, że dokument to nie gotowy rozkaz, lecz zaproszenie do publicznej debaty o zasadach współbycia po wojnie."
-tags: ["reforma konstytucyjna", "filozofia polityczna", "tożsamość narodowa", "ukraina", "zarządzanie państwem"]
-tagKeys: ["constitutional-reform", "political-philosophy", "national-identity", "ukraine", "governance"]
+title: >-
+  „Instytucja” – nowa konstytucja dla Ukrainy. Współwładanie, cenzus
+  kompetencyjny i spór o tożsamość narodową
+date: '2024-09-20'
+videoUrl: 'https://www.youtube.com/watch?v=UbnAiESUMp0'
+channelName: Yuriy Romanenko
+channelUrl: 'https://www.youtube.com/channel/UCY2z9noVRgOx0AZwqMCLuBA'
+shortDescription: >-
+  Twórcy programu „Bojowi Miodojady” prezentują „Instytucję” – wieloletnio
+  przygotowywany projekt nowej konstytucji Ukrainy, oparty na idei
+  współwłasności i współzarządzania wspólnym dobrem zamiast tradycyjnego pojęcia
+  obywatelstwa. Omawiają kluczowe innowacje dokumentu: system cenzusów
+  kompetencyjnych zamiast „wulgarnej demokracji”, nową hierarchię wartości
+  (godność ponad życiem), podmiotowość przyrody oraz mechanizmy chroniące przed
+  dyktatem większości. W ostrej dyskusji ścierają się wizje przezałożenia
+  państwa a kontynuacji istniejącego systemu, a także spór o miejsce języka
+  rosyjskiego i nacjonalizmu narodowotwórczego we współczesnej Ukrainie. Całość
+  kończy się refleksją, że dokument to nie gotowy rozkaz, lecz zaproszenie do
+  publicznej debaty o zasadach współbycia po wojnie.
+tags:
+  - filozofia polityczna
+  - ukraina
+tagKeys:
+  - political-philosophy
+  - ukraine
 ---
 
 # Bojowi Miodojady: prezentacja "Instytucji" – nowej wizji konstytucji dla Ukrainy

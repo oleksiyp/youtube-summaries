@@ -15,19 +15,13 @@ shortDescription: >-
   матеріал, а й передбачати типи іспитових запитань і свідомо керувати власним
   навчанням.
 tags:
-  - таксономія Блума
-  - мислення вищого порядку
+  - освіта
+  - критичне мислення
   - стратегії навчання
-  - утримання в пам'яті
-  - критична оцінка
-  - академічна успішність
 tagKeys:
-  - bloom-s-taxonomy
-  - higher-order-thinking
+  - education
+  - critical-thinking
   - study-strategies
-  - memory-retention
-  - critical-evaluation
-  - academic-performance
 ---
 
 # Шість рівнів мислення для досягнення найвищих результатів у навчанні

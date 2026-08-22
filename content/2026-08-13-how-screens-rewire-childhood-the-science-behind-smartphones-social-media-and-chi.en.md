@@ -1,12 +1,31 @@
 ---
-title: "How Screens Rewire Childhood: The Science Behind Smartphones, Social Media, and Child Development"
-date: "2026-08-13"
-videoUrl: "https://www.youtube.com/watch?v=ddIwJyl45l4"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "Biologist and science journalist Irina Yakutenko examines the scientific evidence behind smartphone and social media bans for children, unpacking research on lost language development, displaced boredom and free play, dopamine-driven attention deficits, and \"technoference\" between parents and kids. Drawing parallels to the sugar industry's manipulation of nutrition science, she argues that consistently directional findings across imperfect studies still reveal real harm—despite methodological limitations like reverse causality and self-report bias. The discussion covers screen effects on vocabulary acquisition, executive function, shared reading, physical activity, and parental phone habits, closing with a preview of upcoming topics like sleep, eyesight, and practical recommendations for families."
-tags: ["screen time", "child development", "social media", "dopamine", "displacement hypothesis", "executive function"]
-tagKeys: ["screen-time", "child-development", "social-media", "dopamine", "displacement-hypothesis", "executive-function"]
+title: >-
+  How Screens Rewire Childhood: The Science Behind Smartphones, Social Media,
+  and Child Development
+date: '2026-08-13'
+videoUrl: 'https://www.youtube.com/watch?v=ddIwJyl45l4'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  Biologist and science journalist Irina Yakutenko examines the scientific
+  evidence behind smartphone and social media bans for children, unpacking
+  research on lost language development, displaced boredom and free play,
+  dopamine-driven attention deficits, and "technoference" between parents and
+  kids. Drawing parallels to the sugar industry's manipulation of nutrition
+  science, she argues that consistently directional findings across imperfect
+  studies still reveal real harm—despite methodological limitations like reverse
+  causality and self-report bias. The discussion covers screen effects on
+  vocabulary acquisition, executive function, shared reading, physical activity,
+  and parental phone habits, closing with a preview of upcoming topics like
+  sleep, eyesight, and practical recommendations for families.
+tags:
+  - social media
+  - child development
+  - neuroscience
+tagKeys:
+  - social-media
+  - child-development
+  - neuroscience
 ---
 
 # Screens, Social Media, and Child Development: Scientific Evidence

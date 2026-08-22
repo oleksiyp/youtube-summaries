@@ -7,14 +7,16 @@
  *
  * Decision order:
  *   1. Language coverage — a post available in more languages wins outright.
- *   2. Quality — with ANTHROPIC_API_KEY set, the English versions are compared
- *      by the model, which is the only way to judge whether the longer summary
- *      is more complete or merely more padded. Without a key, a structural
- *      score stands in (headings, lists, length).
+ *   2. Quality — judging whether the longer summary is more complete or merely
+ *      more padded needs a reader, not a formula. The structural score below is
+ *      a weak stand-in and has been observed preferring the worse article, so
+ *      prefer having an assistant you already pay for read both versions and
+ *      decide; run with --no-llm and treat its output as a worklist.
  *
- *   node scripts/dedupe-posts.mjs                 # dry run
+ *   node scripts/dedupe-posts.mjs --no-llm        # list the duplicates
  *   node scripts/dedupe-posts.mjs --apply         # delete the losing copies
- *   node scripts/dedupe-posts.mjs --no-llm        # heuristic only
+ *
+ * ANTHROPIC_API_KEY, if set, makes it compare the versions itself.
  */
 import { readFileSync, readdirSync, unlinkSync } from 'node:fs';
 import { join, dirname } from 'node:path';

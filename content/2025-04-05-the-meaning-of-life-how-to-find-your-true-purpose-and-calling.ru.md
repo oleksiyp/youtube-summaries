@@ -17,17 +17,13 @@ shortDescription: >-
   смертном одре. Главное — понять, что смысл исходит из глубины вашего сердца, и
   научиться слушать свой внутренний голос.
 tags:
-  - смысл жизни
-  - самопознание
-  - жизненная цель
-  - рост души
-  - экзистенциальный поиск
+  - философия
+  - самоосознание
+  - личностное развитие
 tagKeys:
-  - life-meaning
-  - self-discovery
-  - personal-purpose
-  - soul-growth
-  - existential-search
+  - philosophy
+  - self-awareness
+  - personal-development
 ---
 
 # Смысл жизни и поиск предназначения

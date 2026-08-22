@@ -16,19 +16,13 @@ shortDescription: >-
   targeting analysis and evaluation from the very beginning, learners can close
   the gap between average and top-tier academic performance.
 tags:
-  - bloom's taxonomy
-  - higher order thinking
+  - education
+  - critical thinking
   - study strategies
-  - memory retention
-  - critical evaluation
-  - academic performance
 tagKeys:
-  - bloom-s-taxonomy
-  - higher-order-thinking
+  - education
+  - critical-thinking
   - study-strategies
-  - memory-retention
-  - critical-evaluation
-  - academic-performance
 ---
 
 # The Six Levels of Thinking Every Learner Needs to Master

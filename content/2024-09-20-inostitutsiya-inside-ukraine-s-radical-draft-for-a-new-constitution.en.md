@@ -1,12 +1,30 @@
 ---
-title: "Inostitutsiya: Inside Ukraine's Radical Draft for a New Constitution"
-date: "2024-09-20"
-videoUrl: "https://www.youtube.com/watch?v=UbnAiESUMp0"
-channelName: "Yuriy Romanenko"
-channelUrl: "https://www.youtube.com/channel/UCY2z9noVRgOx0AZwqMCLuBA"
-shortDescription: "In this livestream, the hosts of \"Boevye Medoedy\" present and defend \"Institutsiya\" (Inostitutsiya), a fully drafted alternative constitution for Ukraine built on co-ownership of common wealth, competence-based qualification (tsenz) for governance roles, and a new value hierarchy placing dignity above life itself. The discussion traces the document's origins since 2015, critiques the 1996 Constitution's unenforceable \"post-colonial\" provisions, and explores bold reforms like abolishing purely resource-based nationhood in favor of shared assets, co-management, and a \"republic of trust.\" A heated debate unfolds over whether national identity, language, and primordial belonging can ever be reconciled through institutional mechanisms rather than nationalist struggle, leaving key tensions between tradition and refoundation unresolved. The session closes with reflections on implementation challenges, historical precedents like Atatürk's reforms, and an invitation for ongoing public dialogue rather than dogmatic imposition."
-tags: ["constitutional reform", "political philosophy", "national identity", "ukraine", "governance"]
-tagKeys: ["constitutional-reform", "political-philosophy", "national-identity", "ukraine", "governance"]
+title: 'Inostitutsiya: Inside Ukraine''s Radical Draft for a New Constitution'
+date: '2024-09-20'
+videoUrl: 'https://www.youtube.com/watch?v=UbnAiESUMp0'
+channelName: Yuriy Romanenko
+channelUrl: 'https://www.youtube.com/channel/UCY2z9noVRgOx0AZwqMCLuBA'
+shortDescription: >-
+  In this livestream, the hosts of "Boevye Medoedy" present and defend
+  "Institutsiya" (Inostitutsiya), a fully drafted alternative constitution for
+  Ukraine built on co-ownership of common wealth, competence-based qualification
+  (tsenz) for governance roles, and a new value hierarchy placing dignity above
+  life itself. The discussion traces the document's origins since 2015,
+  critiques the 1996 Constitution's unenforceable "post-colonial" provisions,
+  and explores bold reforms like abolishing purely resource-based nationhood in
+  favor of shared assets, co-management, and a "republic of trust." A heated
+  debate unfolds over whether national identity, language, and primordial
+  belonging can ever be reconciled through institutional mechanisms rather than
+  nationalist struggle, leaving key tensions between tradition and refoundation
+  unresolved. The session closes with reflections on implementation challenges,
+  historical precedents like Atatürk's reforms, and an invitation for ongoing
+  public dialogue rather than dogmatic imposition.
+tags:
+  - political philosophy
+  - ukraine
+tagKeys:
+  - political-philosophy
+  - ukraine
 ---
 
 # Boevye Medoedy Livestream: Discussion of the "Institutsiya" (New Constitution Draft)

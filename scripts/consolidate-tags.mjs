@@ -9,11 +9,22 @@
  * Only existing keys are ever chosen as representatives, so the localized labels
  * already present in the content are reused verbatim — nothing needs translating.
  *
- *   node scripts/consolidate-tags.mjs                  # dry run, shows the plan
- *   node scripts/consolidate-tags.mjs --apply          # rewrite the files
- *   node scripts/consolidate-tags.mjs --mapping m.json # use a mapping, no LLM
+ * The clustering is a judgement task, so it wants a model. Supplying the mapping
+ * is the preferred route — have Claude Code (or any assistant you already pay
+ * for) read the vocabulary and write the mapping file, rather than buying API
+ * credits on top of a subscription:
  *
- * Needs ANTHROPIC_API_KEY unless --mapping is given.
+ *   node scripts/consolidate-tags.mjs --mapping m.json          # dry run
+ *   node scripts/consolidate-tags.mjs --mapping m.json --apply  # rewrite files
+ *
+ * The mapping is a JSON object of {"old-key": "representative-key"}, where every
+ * representative is itself one of the existing keys, so the localized labels
+ * already in the content are reused and nothing needs translating.
+ *
+ * Failing that, ANTHROPIC_API_KEY makes it do the clustering itself:
+ *
+ *   node scripts/consolidate-tags.mjs           # dry run
+ *   node scripts/consolidate-tags.mjs --apply
  */
 import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';

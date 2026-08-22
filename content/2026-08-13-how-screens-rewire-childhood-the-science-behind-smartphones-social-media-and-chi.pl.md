@@ -1,12 +1,31 @@
 ---
-title: "Smartfony, TikTok i rozwój dziecka: co naprawdę mówi nauka o ekranach i mediach społecznościowych"
-date: "2026-08-13"
-videoUrl: "https://www.youtube.com/watch?v=ddIwJyl45l4"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "Biolożka i dziennikarka naukowa Irina Jakutenko analizuje badania nad wpływem smartfonów, tabletów i mediów społecznościowych na rozwój dzieci – od utraty słów i interakcji z rodzicami, przez osłabienie funkcji wykonawczych i uwagi, po zmiany w układzie dopaminowym i wypieranie zabawy swobodnej, czytania oraz ruchu. Wyjaśnia też metodologiczne pułapki takich badań (na przykładzie „spisku cukrowego”) i pokazuje, dlaczego nawet słabe, korelacyjne dowody wskazujące jednym kierunku nie powinny być lekceważone. Kluczowe wątki to hipoteza wypierania, rola nudy i sieci trybu domyślnego mózgu oraz zjawisko „technoferencji”, czyli zakłócania relacji rodzic–dziecko przez telefon. Autorka zapowiada kolejny odcinek poświęcony snu, wzrokowi i praktycznym rekomendacjom dla rodziców."
-tags: ["czas przed ekranem", "rozwój dziecka", "media społecznościowe", "dopamina", "hipoteza wypierania", "funkcje wykonawcze"]
-tagKeys: ["screen-time", "child-development", "social-media", "dopamine", "displacement-hypothesis", "executive-function"]
+title: >-
+  Smartfony, TikTok i rozwój dziecka: co naprawdę mówi nauka o ekranach i
+  mediach społecznościowych
+date: '2026-08-13'
+videoUrl: 'https://www.youtube.com/watch?v=ddIwJyl45l4'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  Biolożka i dziennikarka naukowa Irina Jakutenko analizuje badania nad wpływem
+  smartfonów, tabletów i mediów społecznościowych na rozwój dzieci – od utraty
+  słów i interakcji z rodzicami, przez osłabienie funkcji wykonawczych i uwagi,
+  po zmiany w układzie dopaminowym i wypieranie zabawy swobodnej, czytania oraz
+  ruchu. Wyjaśnia też metodologiczne pułapki takich badań (na przykładzie
+  „spisku cukrowego”) i pokazuje, dlaczego nawet słabe, korelacyjne dowody
+  wskazujące jednym kierunku nie powinny być lekceważone. Kluczowe wątki to
+  hipoteza wypierania, rola nudy i sieci trybu domyślnego mózgu oraz zjawisko
+  „technoferencji”, czyli zakłócania relacji rodzic–dziecko przez telefon.
+  Autorka zapowiada kolejny odcinek poświęcony snu, wzrokowi i praktycznym
+  rekomendacjom dla rodziców.
+tags:
+  - media społecznościowe
+  - rozwój dziecka
+  - neuronauka
+tagKeys:
+  - social-media
+  - child-development
+  - neuroscience
 ---
 
 # Wpływ smartfonów i mediów społecznościowych na rozwój dzieci

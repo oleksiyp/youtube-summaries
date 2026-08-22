@@ -16,19 +16,17 @@ shortDescription: >-
   — здатність передбачати поведінку більшості й діяти стратегічно там, де інші
   лишаються реактивними.
 tags:
-  - межі інтелекту
-  - пізнання людини
-  - соціальний конформізм
-  - філософія шопенгауера
-  - інтелектуальна ізоляція
-  - емоційне мислення
+  - психологія
+  - соціологія
+  - філософія
+  - стосунки
+  - когнітивні упередження
 tagKeys:
-  - intellectual-limits
-  - human-cognition
-  - social-conformity
-  - schopenhauer-philosophy
-  - intellectual-isolation
-  - emotional-reasoning
+  - psychology
+  - sociology
+  - philosophy
+  - relationships
+  - cognitive-biases
 ---
 
 # Шопенгауер про інтелект, глупоту та мистецтво жити в реальному світі

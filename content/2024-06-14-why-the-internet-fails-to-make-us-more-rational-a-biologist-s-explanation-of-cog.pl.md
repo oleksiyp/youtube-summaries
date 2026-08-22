@@ -19,18 +19,14 @@ shortDescription: >-
   zamiast polegać wyłącznie na sile argumentów.
 tags:
   - błędy poznawcze
-  - ewolucja mózgu
+  - evolutionary biology
   - manipulacja medialna
-  - kompetencje informacyjne
   - myślenie krytyczne
-  - techniki propagandy
 tagKeys:
   - cognitive-biases
-  - brain-evolution
+  - evolutionary-biology
   - media-manipulation
-  - information-literacy
   - critical-thinking
-  - propaganda-techniques
 ---
 
 # Dlaczego internet nie pomaga nam poznać prawdy – biologiczne mechanizmy budowania obrazu świata

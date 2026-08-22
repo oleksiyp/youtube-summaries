@@ -1,12 +1,29 @@
 ---
-title: "Cztery lata jako deweloper kwantytatywny – jak działa model wieloczynnikowy od środka"
-date: "2026-06-18"
-videoUrl: "https://www.youtube.com/watch?v=tzTftCzmr7k"
-channelName: "The Quant Insider"
-channelUrl: "https://www.youtube.com/channel/UC3qtlc2U7OevxHoDjVGj_cA"
-shortDescription: "Autor dzieli się szczegółowym spojrzeniem na pracę dewelopera kwantytatywnego w funduszu inwestycyjnym – od sześcioetapowego procesu rekrutacji po architekturę całego systemu tradingowego. Wyjaśnia, jak model wieloczynnikowy łączy sygnały alfowe, zarządzanie ryzykiem, optymalizację portfela i egzekucję zleceń w jeden spójny mechanizm. Omawia kluczową rolę danych i infrastruktury technicznej – Apache Spark, Delta Lake, Parquet i KDB – pokazując, dlaczego każdy element tej układanki ma swoje konkretne uzasadnienie. Całość stanowi rzadkie, praktyczne spojrzenie na to, jak naprawdę wygląda aktywne zarządzanie aktywami od strony inżynierskiej."
-tags: ["finanse ilościowe", "systemy tradingowe", "inżynieria danych", "modelowanie ryzyka", "obliczenia rozproszone", "generowanie alphy"]
-tagKeys: ["quantitative-finance", "trading-systems", "data-engineering", "risk-modeling", "distributed-computing", "alpha-generation"]
+title: >-
+  Cztery lata jako deweloper kwantytatywny – jak działa model wieloczynnikowy od
+  środka
+date: '2026-06-18'
+videoUrl: 'https://www.youtube.com/watch?v=tzTftCzmr7k'
+channelName: The Quant Insider
+channelUrl: 'https://www.youtube.com/channel/UC3qtlc2U7OevxHoDjVGj_cA'
+shortDescription: >-
+  Autor dzieli się szczegółowym spojrzeniem na pracę dewelopera kwantytatywnego
+  w funduszu inwestycyjnym – od sześcioetapowego procesu rekrutacji po
+  architekturę całego systemu tradingowego. Wyjaśnia, jak model wieloczynnikowy
+  łączy sygnały alfowe, zarządzanie ryzykiem, optymalizację portfela i egzekucję
+  zleceń w jeden spójny mechanizm. Omawia kluczową rolę danych i infrastruktury
+  technicznej – Apache Spark, Delta Lake, Parquet i KDB – pokazując, dlaczego
+  każdy element tej układanki ma swoje konkretne uzasadnienie. Całość stanowi
+  rzadkie, praktyczne spojrzenie na to, jak naprawdę wygląda aktywne zarządzanie
+  aktywami od strony inżynierskiej.
+tags:
+  - finanse ilościowe
+  - obliczenia rozproszone
+  - podejmowanie decyzji
+tagKeys:
+  - quantitative-finance
+  - distributed-computing
+  - decision-making
 ---
 
 # Cztery lata jako deweloper kwantytatywny – model wieloczynnikowy, dane i infrastruktura

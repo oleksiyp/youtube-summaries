@@ -1,12 +1,29 @@
 ---
-title: "Metabolizm, Ozempic i psychologia odchudzania — rozmowa z Iriną Jakutienko"
-date: "2024-06-23"
-videoUrl: "https://www.youtube.com/watch?v=9VwL3wU0kQQ"
-channelName: "А поговорить?"
-channelUrl: "https://www.youtube.com/channel/UCp2J7GRxQ36QLqW4ReLLt5g"
-shortDescription: "Biolożka molekularna Irina Jakutienko rozprawia się z mitami o „szerokiej kości\", cudownych dietach i toksynach, tłumacząc, dlaczego metabolizm łatwiej trwale spowolnić niż przyspieszyć. Rozmowa obejmuje działanie semaglutydu (Ozempicu) i jego wpływ na układ nagrody, rolę genetyki w otyłości oraz prostą arytmetykę deficytu kalorycznego. Znajdziesz tu też praktyczny, dwuetapowy plan wyznaczania własnej normy kalorycznej oraz wyjaśnienie, dlaczego po kilku tygodniach odchudzania waga staje w miejscu — i co z tym zrobić. Całość zamyka spojrzenie na motywację, dyskomfort i walkę kory przedczołowej z układem limbicznym."
-tags: ["odchudzanie", "metabolizm", "żywienie", "motywacja", "neuronauka"]
-tagKeys: ["weight-loss", "metabolism", "nutrition", "motivation", "neuroscience"]
+title: 'Metabolizm, Ozempic i psychologia odchudzania — rozmowa z Iriną Jakutienko'
+date: '2024-06-23'
+videoUrl: 'https://www.youtube.com/watch?v=9VwL3wU0kQQ'
+channelName: А поговорить?
+channelUrl: 'https://www.youtube.com/channel/UCp2J7GRxQ36QLqW4ReLLt5g'
+shortDescription: >-
+  Biolożka molekularna Irina Jakutienko rozprawia się z mitami o „szerokiej
+  kości", cudownych dietach i toksynach, tłumacząc, dlaczego metabolizm łatwiej
+  trwale spowolnić niż przyspieszyć. Rozmowa obejmuje działanie semaglutydu
+  (Ozempicu) i jego wpływ na układ nagrody, rolę genetyki w otyłości oraz prostą
+  arytmetykę deficytu kalorycznego. Znajdziesz tu też praktyczny, dwuetapowy
+  plan wyznaczania własnej normy kalorycznej oraz wyjaśnienie, dlaczego po kilku
+  tygodniach odchudzania waga staje w miejscu — i co z tym zrobić. Całość zamyka
+  spojrzenie na motywację, dyskomfort i walkę kory przedczołowej z układem
+  limbicznym.
+tags:
+  - zdrowie metaboliczne
+  - żywienie
+  - rozwój osobisty
+  - neuronauka
+tagKeys:
+  - metabolic-health
+  - nutrition
+  - personal-development
+  - neuroscience
 ---
 
 # Metabolizm, odchudzanie i psychologia motywacji — rozmowa z Iriną Jakutienko

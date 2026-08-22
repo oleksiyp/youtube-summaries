@@ -14,17 +14,13 @@ shortDescription: >-
   you are at the deepest level. Stop relying on temporary motivation and start
   making permanent transformation through strategic identity work.
 tags:
-  - self-sabotage
-  - subconscious mind
-  - identity change
-  - visualization practice
-  - overcoming resistance
+  - personal development
+  - psychology
+  - self-awareness
 tagKeys:
-  - self-sabotage
-  - subconscious-mind
-  - identity-change
-  - visualization-practice
-  - overcoming-resistance
+  - personal-development
+  - psychology
+  - self-awareness
 ---
 
 # Overcoming Self-Sabotage and Building Your Higher Self

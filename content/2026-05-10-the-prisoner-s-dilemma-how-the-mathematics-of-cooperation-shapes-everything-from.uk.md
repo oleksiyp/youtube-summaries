@@ -21,18 +21,10 @@ shortDescription: >-
   повторить долю ракової клітини, що знищує організм разом із собою.
 tags:
   - теорія ігор
-  - дилема в'язня
-  - ядерна гонка озброєнь
-  - еволюція кооперації
-  - парадокс Фермі
-  - виживання цивілізації
+  - evolutionary biology
 tagKeys:
   - game-theory
-  - prisoner-s-dilemma
-  - nuclear-arms-race
-  - evolution-of-cooperation
-  - fermi-paradox
-  - civilizational-survival
+  - evolutionary-biology
 ---
 
 # Дилема в'язня, еволюція кооперації та космічна доля людства

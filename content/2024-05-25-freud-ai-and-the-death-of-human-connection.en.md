@@ -1,12 +1,30 @@
 ---
-title: "Freud, AI, and the Death of Human Connection"
-date: "2024-05-25"
-videoUrl: "https://www.youtube.com/watch?v=dVxDskUiVzs"
-channelName: "Андрей Курпатов"
-channelUrl: "https://www.youtube.com/channel/UCX_isCsPV3HOg95qodqIdLQ"
-shortDescription: "This discussion revisits Freud's most unsettling ideas — the unconscious, the death drive, and the super-ego — to explain what is happening to us as conversational AI becomes the perfect companion. Just as Marx, Darwin, and Freud shattered humanity's contract with the divine and ushered in an \"age of suspicion\" that ended in world wars, artificial interlocutors now threaten to break our contract with each other. The core danger is that AI has no super-ego: it never judges, never resists, never inconveniences us — and it is precisely the friction of other people that makes us human. The talk closes with a simple call to action: leave the screen, go to whoever is nearby, touch them, and actually talk."
-tags: ["psychoanalysis", "artificial intelligence", "human connection", "philosophy", "loneliness"]
-tagKeys: ["psychoanalysis", "artificial-intelligence", "human-connection", "philosophy", "loneliness"]
+title: 'Freud, AI, and the Death of Human Connection'
+date: '2024-05-25'
+videoUrl: 'https://www.youtube.com/watch?v=dVxDskUiVzs'
+channelName: Андрей Курпатов
+channelUrl: 'https://www.youtube.com/channel/UCX_isCsPV3HOg95qodqIdLQ'
+shortDescription: >-
+  This discussion revisits Freud's most unsettling ideas — the unconscious, the
+  death drive, and the super-ego — to explain what is happening to us as
+  conversational AI becomes the perfect companion. Just as Marx, Darwin, and
+  Freud shattered humanity's contract with the divine and ushered in an "age of
+  suspicion" that ended in world wars, artificial interlocutors now threaten to
+  break our contract with each other. The core danger is that AI has no
+  super-ego: it never judges, never resists, never inconveniences us — and it is
+  precisely the friction of other people that makes us human. The talk closes
+  with a simple call to action: leave the screen, go to whoever is nearby, touch
+  them, and actually talk.
+tags:
+  - psychology
+  - artificial intelligence
+  - relationships
+  - philosophy
+tagKeys:
+  - psychology
+  - artificial-intelligence
+  - relationships
+  - philosophy
 ---
 
 # Freud, the Age of Suspicion, and the Coming Crisis of Human Connection

@@ -1,12 +1,34 @@
 ---
-title: "The Burden of the Past in Our Brain: How a Billion Years of Evolution Still Runs Your Mind"
-date: "2024-06-23"
-videoUrl: "https://www.youtube.com/watch?v=6oh2WATD0tA"
-channelName: "ноо — биология егэ и 10 класс"
-channelUrl: "https://www.youtube.com/channel/UC1y2zfQVrGPDk6iPgUTHlLw"
-shortDescription: "Anthropologist Stanislav Drobyshevsky unpacks the human brain as an evolutionary nesting doll, where the deepest structures are the oldest, simplest, and most vital — from the net-like reticular formation inherited from creatures resembling hydras, to the pineal gland that was once a fourth eye on top of a fish's head. He traces how the cerebellum, basal ganglia, and cortex each accumulated archaic, paleo-, and neo- layers, why humans have almost no true instincts beyond a reflexive eyebrow flash, and how the limbic system still judges people by smell at roughly the level of a lancelet. Along the way he explains why our inherited feeding rules — eat everything, prefer sweets, store fat — sabotage us in a world of full refrigerators and 24-hour shops, and how Delgado's electrode experiments showed that aggression in cats, bulls, macaques, and humans can be switched on and off through nearly identical brain structures. The talk closes on fear, dominance hierarchies shared across all mammals, humanity's unique talent for rotating leadership, and the strikingly stable group size of about thirty that has persisted since the australopithecines."
-tags: ["brain evolution", "neuroscience", "human evolution", "emotions", "evolutionary biology"]
-tagKeys: ["brain-evolution", "neuroscience", "human-evolution", "emotions", "evolutionary-biology"]
+title: >-
+  The Burden of the Past in Our Brain: How a Billion Years of Evolution Still
+  Runs Your Mind
+date: '2024-06-23'
+videoUrl: 'https://www.youtube.com/watch?v=6oh2WATD0tA'
+channelName: ноо — биология егэ и 10 класс
+channelUrl: 'https://www.youtube.com/channel/UC1y2zfQVrGPDk6iPgUTHlLw'
+shortDescription: >-
+  Anthropologist Stanislav Drobyshevsky unpacks the human brain as an
+  evolutionary nesting doll, where the deepest structures are the oldest,
+  simplest, and most vital — from the net-like reticular formation inherited
+  from creatures resembling hydras, to the pineal gland that was once a fourth
+  eye on top of a fish's head. He traces how the cerebellum, basal ganglia, and
+  cortex each accumulated archaic, paleo-, and neo- layers, why humans have
+  almost no true instincts beyond a reflexive eyebrow flash, and how the limbic
+  system still judges people by smell at roughly the level of a lancelet. Along
+  the way he explains why our inherited feeding rules — eat everything, prefer
+  sweets, store fat — sabotage us in a world of full refrigerators and 24-hour
+  shops, and how Delgado's electrode experiments showed that aggression in cats,
+  bulls, macaques, and humans can be switched on and off through nearly
+  identical brain structures. The talk closes on fear, dominance hierarchies
+  shared across all mammals, humanity's unique talent for rotating leadership,
+  and the strikingly stable group size of about thirty that has persisted since
+  the australopithecines.
+tags:
+  - evolutionary biology
+  - neuroscience
+tagKeys:
+  - evolutionary-biology
+  - neuroscience
 ---
 
 # The Burden of the Past in Our Brain: Evolutionary Layers of the Nervous System

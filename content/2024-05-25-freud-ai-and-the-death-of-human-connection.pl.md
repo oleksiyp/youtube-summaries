@@ -1,12 +1,31 @@
 ---
-title: "Freud, epoka podejrzeń i sztuczna inteligencja — dlaczego idealny rozmówca jest dla nas groźny"
-date: "2024-05-25"
-videoUrl: "https://www.youtube.com/watch?v=dVxDskUiVzs"
-channelName: "Андрей Курпатов"
-channelUrl: "https://www.youtube.com/channel/UCX_isCsPV3HOg95qodqIdLQ"
-shortDescription: "Punktem wyjścia jest premiera nowych modeli SI, które mówią głosem, rozpoznają emocje i pamiętają o nas wszystko — a więc stają się niemal doskonałymi partnerami dialogu. Autor zestawia ten moment z „epoką podejrzeń” Marksa, Darwina i Freuda, która odebrała ludziom wspólny obraz świata i doprowadziła do głębokiego kryzysu duchowego. Kluczowa teza brzmi: skoro wtedy zerwaliśmy kontrakt z tym, co duchowe, dziś grozi nam zerwanie kontraktu z drugim człowiekiem, bo idealny rozmówca nie ma superego i niczego od nas nie wymaga. Tekst kończy się konkretnym apelem — by zamiast uciekać w wygodne relacje z ekranem, wrócić do żywego, niewygodnego, ale naprawdę ludzkiego kontaktu."
-tags: ["psychoanaliza", "sztuczna inteligencja", "więź międzyludzka", "filozofia", "samotność"]
-tagKeys: ["psychoanalysis", "artificial-intelligence", "human-connection", "philosophy", "loneliness"]
+title: >-
+  Freud, epoka podejrzeń i sztuczna inteligencja — dlaczego idealny rozmówca
+  jest dla nas groźny
+date: '2024-05-25'
+videoUrl: 'https://www.youtube.com/watch?v=dVxDskUiVzs'
+channelName: Андрей Курпатов
+channelUrl: 'https://www.youtube.com/channel/UCX_isCsPV3HOg95qodqIdLQ'
+shortDescription: >-
+  Punktem wyjścia jest premiera nowych modeli SI, które mówią głosem, rozpoznają
+  emocje i pamiętają o nas wszystko — a więc stają się niemal doskonałymi
+  partnerami dialogu. Autor zestawia ten moment z „epoką podejrzeń” Marksa,
+  Darwina i Freuda, która odebrała ludziom wspólny obraz świata i doprowadziła
+  do głębokiego kryzysu duchowego. Kluczowa teza brzmi: skoro wtedy zerwaliśmy
+  kontrakt z tym, co duchowe, dziś grozi nam zerwanie kontraktu z drugim
+  człowiekiem, bo idealny rozmówca nie ma superego i niczego od nas nie wymaga.
+  Tekst kończy się konkretnym apelem — by zamiast uciekać w wygodne relacje z
+  ekranem, wrócić do żywego, niewygodnego, ale naprawdę ludzkiego kontaktu.
+tags:
+  - psychology
+  - sztuczna inteligencja
+  - relacje
+  - filozofia
+tagKeys:
+  - psychology
+  - artificial-intelligence
+  - relationships
+  - philosophy
 ---
 
 # Freud, „epoka podejrzeń” i nowy kryzys: sztuczna inteligencja jako idealny rozmówca

@@ -17,18 +17,10 @@ shortDescription: >-
   Fermiego.
 tags:
   - teoria gier
-  - dylemat więźnia
-  - wyścig zbrojeń nuklearnych
-  - ewolucja współpracy
-  - paradoks Fermiego
-  - przetrwanie cywilizacji
+  - evolutionary biology
 tagKeys:
   - game-theory
-  - prisoner-s-dilemma
-  - nuclear-arms-race
-  - evolution-of-cooperation
-  - fermi-paradox
-  - civilizational-survival
+  - evolutionary-biology
 ---
 
 # Dylemat Więźnia: Ewolucja Współpracy — od Bakterii do Cywilizacji

@@ -1,12 +1,31 @@
 ---
-title: "Jak przestać być „babą z jajami” — droga od męskiego charakteru do prawdziwej kobiecości"
-date: "2024-10-03"
-videoUrl: "https://www.youtube.com/watch?v=YuWc_3X2VXM"
-channelName: "Мадина Шиллерова"
-channelUrl: "https://www.youtube.com/channel/UCzymdbsjX2FIANDp26LPcXw"
-shortDescription: "Autorka opowiada o pracy nad przekonaniem „sama wszystko zrobię”, które pozwala odnosić sukcesy zawodowe, ale niszczy relacje, zdrowie i poczucie harmonii. Dzieli się własną historią przemiany — od dziewczyny o „męskim charakterze”, która dominowała każdego mężczyznę, do kobiety świadomie budującej swój styl i miękkość. Wyjaśnia, kiedy sięgać po energię męską (kariera, finanse), a kiedy po kobiecą (rodzina, wypoczynek, relacje) oraz dlaczego kontroli i stanowczości nie wolno przenosić do związku. Znajdziesz tu też praktyczne kroki wdrożeniowe, pracę z kołem harmonii życia i szczere wyznanie o agresji ukrytej pod pozorem stanowczości."
-tags: ["kobiecość", "relacje", "rozwój osobisty", "samoświadomość", "równowaga praca–życie"]
-tagKeys: ["femininity", "relationships", "personal-development", "self-awareness", "work-life-balance"]
+title: >-
+  Jak przestać być „babą z jajami” — droga od męskiego charakteru do prawdziwej
+  kobiecości
+date: '2024-10-03'
+videoUrl: 'https://www.youtube.com/watch?v=YuWc_3X2VXM'
+channelName: Мадина Шиллерова
+channelUrl: 'https://www.youtube.com/channel/UCzymdbsjX2FIANDp26LPcXw'
+shortDescription: >-
+  Autorka opowiada o pracy nad przekonaniem „sama wszystko zrobię”, które
+  pozwala odnosić sukcesy zawodowe, ale niszczy relacje, zdrowie i poczucie
+  harmonii. Dzieli się własną historią przemiany — od dziewczyny o „męskim
+  charakterze”, która dominowała każdego mężczyznę, do kobiety świadomie
+  budującej swój styl i miękkość. Wyjaśnia, kiedy sięgać po energię męską
+  (kariera, finanse), a kiedy po kobiecą (rodzina, wypoczynek, relacje) oraz
+  dlaczego kontroli i stanowczości nie wolno przenosić do związku. Znajdziesz tu
+  też praktyczne kroki wdrożeniowe, pracę z kołem harmonii życia i szczere
+  wyznanie o agresji ukrytej pod pozorem stanowczości.
+tags:
+  - relacje
+  - rozwój osobisty
+  - self-awareness
+  - rozwój kariery
+tagKeys:
+  - relationships
+  - personal-development
+  - self-awareness
+  - career-development
 ---
 
 # Jak przestać być „babą z jajami” — droga od męskiego charakteru do kobiecości

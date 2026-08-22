@@ -17,17 +17,13 @@ shortDescription: >-
   в день, подъём в 5 утра и регулярные тренировки — и это даже не кажется
   трудным.
 tags:
-  - самосаботаж
-  - подсознание
-  - изменение личности
-  - практика визуализации
-  - преодоление сопротивления
+  - личностное развитие
+  - психология
+  - самоосознание
 tagKeys:
-  - self-sabotage
-  - subconscious-mind
-  - identity-change
-  - visualization-practice
-  - overcoming-resistance
+  - personal-development
+  - psychology
+  - self-awareness
 ---
 
 # Как взять свою жизнь под контроль и достичь истинного потенциала

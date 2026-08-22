@@ -20,17 +20,11 @@ shortDescription: >-
 tags:
   - rhetoric
   - critical thinking
-  - persuasion techniques
-  - classical trivium
   - media manipulation
-  - rhetorical devices
 tagKeys:
   - rhetoric
   - critical-thinking
-  - persuasion-techniques
-  - classical-trivium
   - media-manipulation
-  - rhetorical-devices
 ---
 
 # A Practical Exploration of Rhetoric: The Art of Persuasion and Critical Thinking

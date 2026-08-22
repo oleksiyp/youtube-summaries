@@ -1,12 +1,34 @@
 ---
-title: "Why Your Metabolism Isn't the Problem: The Science and Psychology of Losing Weight"
-date: "2024-06-23"
-videoUrl: "https://www.youtube.com/watch?v=9VwL3wU0kQQ"
-channelName: "А поговорить?"
-channelUrl: "https://www.youtube.com/channel/UCp2J7GRxQ36QLqW4ReLLt5g"
-shortDescription: "This deep dive dismantles the myths of \"slow metabolism\" and magic slimming foods, explaining what actually governs weight gain — calorie arithmetic, muscle mass, genetics of appetite, and an evolutionary brain built for scarcity. It covers the science behind semaglutide (Ozempic), why crash diets can permanently lower your basal metabolic rate, and how the body fights back against a deficit by cutting your activity and cranking up your cravings. The second half turns to psychology: the constant battle between the rational prefrontal cortex and the pleasure-driven limbic system, and why willpower alone reliably loses. Practical takeaways include honest calorie tracking, removing temptation from physical reach, and engineering \"controlled external compulsion\" — trainers, groups, commitments — so circumstances, not willpower, make your decisions for you."
-tags: ["weight loss", "metabolism", "nutrition", "motivation", "neuroscience"]
-tagKeys: ["weight-loss", "metabolism", "nutrition", "motivation", "neuroscience"]
+title: >-
+  Why Your Metabolism Isn't the Problem: The Science and Psychology of Losing
+  Weight
+date: '2024-06-23'
+videoUrl: 'https://www.youtube.com/watch?v=9VwL3wU0kQQ'
+channelName: А поговорить?
+channelUrl: 'https://www.youtube.com/channel/UCp2J7GRxQ36QLqW4ReLLt5g'
+shortDescription: >-
+  This deep dive dismantles the myths of "slow metabolism" and magic slimming
+  foods, explaining what actually governs weight gain — calorie arithmetic,
+  muscle mass, genetics of appetite, and an evolutionary brain built for
+  scarcity. It covers the science behind semaglutide (Ozempic), why crash diets
+  can permanently lower your basal metabolic rate, and how the body fights back
+  against a deficit by cutting your activity and cranking up your cravings. The
+  second half turns to psychology: the constant battle between the rational
+  prefrontal cortex and the pleasure-driven limbic system, and why willpower
+  alone reliably loses. Practical takeaways include honest calorie tracking,
+  removing temptation from physical reach, and engineering "controlled external
+  compulsion" — trainers, groups, commitments — so circumstances, not willpower,
+  make your decisions for you.
+tags:
+  - metabolic health
+  - nutrition
+  - personal development
+  - neuroscience
+tagKeys:
+  - metabolic-health
+  - nutrition
+  - personal-development
+  - neuroscience
 ---
 
 # Metabolism, Weight Gain, Diets, and the Psychology of Losing Weight

@@ -19,17 +19,9 @@ shortDescription: >-
   you can implement them in yours.
 tags:
   - open source tools
-  - server management
-  - home automation
-  - remote access
-  - self-hosted apps
   - content creation
 tagKeys:
   - open-source-tools
-  - server-management
-  - home-automation
-  - remote-access
-  - self-hosted-apps
   - content-creation
 ---
 

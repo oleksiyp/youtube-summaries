@@ -20,18 +20,10 @@ shortDescription: >-
   core, a cooperation filter.
 tags:
   - game theory
-  - prisoner's dilemma
-  - nuclear arms race
-  - evolution of cooperation
-  - fermi paradox
-  - civilizational survival
+  - evolutionary biology
 tagKeys:
   - game-theory
-  - prisoner-s-dilemma
-  - nuclear-arms-race
-  - evolution-of-cooperation
-  - fermi-paradox
-  - civilizational-survival
+  - evolutionary-biology
 ---
 
 # The Prisoner's Dilemma: From Nuclear War to the Evolution of Cooperation and Cosmic Destiny

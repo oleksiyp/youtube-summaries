@@ -1,12 +1,26 @@
 ---
-title: "Howard Marks on Risk: Why Asymmetry, Not Volatility, Defines Great Investing"
-date: "2024-09-12"
-videoUrl: "https://www.youtube.com/watch?v=WXQBUSryfdM"
-channelName: "Oaktree"
-channelUrl: "https://www.youtube.com/channel/UCfzbRPUn_YvJCl6npbZKXJA"
-shortDescription: "Howard Marks argues that risk is the ultimate test of investing skill, and that it is the probability of permanent loss — not volatility — that investors should fear. He explains why risk cannot be quantified before or even after the fact, why it is perverse and hidden (rising as prices climb and falling as they drop), and why no asset is so good it can't be overpriced. Drawing on analogies from car insurance, life insurance, soccer and backgammon, Marks lays out how disciplined investors knowingly take, analyze, diversify and get paid for risk. The core lesson: don't avoid risk, manage it — and pursue the asymmetry of capturing gains in rising markets while losing less when they fall."
-tags: ["risk management", "investing", "investment philosophy", "howard marks", "uncertainty"]
-tagKeys: ["risk-management", "investing", "investment-philosophy", "howard-marks", "uncertainty"]
+title: 'Howard Marks on Risk: Why Asymmetry, Not Volatility, Defines Great Investing'
+date: '2024-09-12'
+videoUrl: 'https://www.youtube.com/watch?v=WXQBUSryfdM'
+channelName: Oaktree
+channelUrl: 'https://www.youtube.com/channel/UCfzbRPUn_YvJCl6npbZKXJA'
+shortDescription: >-
+  Howard Marks argues that risk is the ultimate test of investing skill, and
+  that it is the probability of permanent loss — not volatility — that investors
+  should fear. He explains why risk cannot be quantified before or even after
+  the fact, why it is perverse and hidden (rising as prices climb and falling as
+  they drop), and why no asset is so good it can't be overpriced. Drawing on
+  analogies from car insurance, life insurance, soccer and backgammon, Marks
+  lays out how disciplined investors knowingly take, analyze, diversify and get
+  paid for risk. The core lesson: don't avoid risk, manage it — and pursue the
+  asymmetry of capturing gains in rising markets while losing less when they
+  fall.
+tags:
+  - decision making
+  - investing
+tagKeys:
+  - decision-making
+  - investing
 ---
 
 # How to Think About Risk — Howard Marks

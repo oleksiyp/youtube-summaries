@@ -19,19 +19,17 @@ shortDescription: >-
   цинизму, а к точности восприятия: принятие неизменяемого освобождает от лишних
   страданий и позволяет действовать эффективно в мире таким, какой он есть.
 tags:
-  - пределы интеллекта
-  - познание человека
-  - социальный конформизм
-  - философия шопенгауэра
-  - интеллектуальная изоляция
-  - эмоциональное мышление
+  - психология
+  - социология
+  - философия
+  - relationships
+  - когнитивные искажения
 tagKeys:
-  - intellectual-limits
-  - human-cognition
-  - social-conformity
-  - schopenhauer-philosophy
-  - intellectual-isolation
-  - emotional-reasoning
+  - psychology
+  - sociology
+  - philosophy
+  - relationships
+  - cognitive-biases
 ---
 
 # Философия Шопенгауэра: как умный человек взаимодействует с интеллектуально ограниченными людьми

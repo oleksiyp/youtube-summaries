@@ -19,19 +19,17 @@ shortDescription: >-
   receiving it, and find freedom by abandoning the futile effort to reason with
   those who fundamentally cannot.
 tags:
-  - intellectual limits
-  - human cognition
-  - social conformity
-  - schopenhauer philosophy
-  - intellectual isolation
-  - emotional reasoning
+  - psychology
+  - sociology
+  - philosophy
+  - relationships
+  - cognitive biases
 tagKeys:
-  - intellectual-limits
-  - human-cognition
-  - social-conformity
-  - schopenhauer-philosophy
-  - intellectual-isolation
-  - emotional-reasoning
+  - psychology
+  - sociology
+  - philosophy
+  - relationships
+  - cognitive-biases
 ---
 # Schopenhauer on Human Intelligence: How to Act in a World Where Reason Is Rare
 

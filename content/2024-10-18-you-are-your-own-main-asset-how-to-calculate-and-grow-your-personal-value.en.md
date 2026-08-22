@@ -1,12 +1,31 @@
 ---
-title: "You Are Your Own Main Asset: How to Calculate and Grow Your Personal Value"
-date: "2024-10-18"
-videoUrl: "https://www.youtube.com/watch?v=F3zPPs04kSo"
-channelName: "HUGS.FUND"
-channelUrl: "https://www.youtube.com/channel/UCuzGF8G_5K5dsb5yC_0_mnA"
-shortDescription: "This post argues that the most valuable asset any person owns is themselves, and offers a simple formula — monthly income × 12 months × working years — to put a number on it. It breaks down the five key factors that drive personal value: age and remaining working life, the country you live and earn in, income stability, mental and physical health, and your realistic prospects for raising earnings. Along the way it makes the case for changing a job you hate rather than chasing speculation, seeking bonus-based pay that aligns your interests with clients and employers, and passing your value on through books, teaching, and knowledge transfer. The core takeaway: investing starts with investing in yourself, and your value keeps growing as long as you keep creating value for others."
-tags: ["personal finance", "human capital", "career development", "self-improvement", "investing"]
-tagKeys: ["personal-finance", "human-capital", "career-development", "self-improvement", "investing"]
+title: 'You Are Your Own Main Asset: How to Calculate and Grow Your Personal Value'
+date: '2024-10-18'
+videoUrl: 'https://www.youtube.com/watch?v=F3zPPs04kSo'
+channelName: HUGS.FUND
+channelUrl: 'https://www.youtube.com/channel/UCuzGF8G_5K5dsb5yC_0_mnA'
+shortDescription: >-
+  This post argues that the most valuable asset any person owns is themselves,
+  and offers a simple formula — monthly income × 12 months × working years — to
+  put a number on it. It breaks down the five key factors that drive personal
+  value: age and remaining working life, the country you live and earn in,
+  income stability, mental and physical health, and your realistic prospects for
+  raising earnings. Along the way it makes the case for changing a job you hate
+  rather than chasing speculation, seeking bonus-based pay that aligns your
+  interests with clients and employers, and passing your value on through books,
+  teaching, and knowledge transfer. The core takeaway: investing starts with
+  investing in yourself, and your value keeps growing as long as you keep
+  creating value for others.
+tags:
+  - personal finance
+  - career development
+  - personal development
+  - investing
+tagKeys:
+  - personal-finance
+  - career-development
+  - personal-development
+  - investing
 ---
 
 # You Are Your Own Main Asset: How to Calculate and Increase Your Personal Value

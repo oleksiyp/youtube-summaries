@@ -17,17 +17,13 @@ shortDescription: >-
   etatu, co pozwala budować pewność finansową potrzebną do podejmowania
   kolejnych, coraz odważniejszych kroków.
 tags:
-  - wiele źródeł dochodu
-  - dźwignia finansowa
-  - dochód pasywny
-  - porady przedsiębiorcze
   - budowanie bogactwa
+  - finanse osobiste
+  - rozwój kariery
 tagKeys:
-  - multiple-income-streams
-  - financial-leverage
-  - passive-income
-  - entrepreneurship-tips
   - wealth-building
+  - personal-finance
+  - career-development
 ---
 
 # 9 Strumieni Dochodów, Które Zbudowałem Przy Zachowaniu Etatu

@@ -1,12 +1,28 @@
 ---
-title: "Nobel z chemii 2024: jak sieci neuronowe rozwiązały zagadkę zwijania białek"
-date: "2024-10-09"
-videoUrl: "https://www.youtube.com/watch?v=6tDWm97KvJY"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "Opowieść o tegorocznej Nagrodzie Nobla z chemii dla Davida Bakera, Demisa Hassabisa i Johna Jumpera — za przewidywanie struktury białek na podstawie sekwencji aminokwasów i projektowanie białek o zadanej strukturze. Dowiesz się, na czym polegał paradoks Levinthala, dlaczego krystalografia rentgenowska przez dekady była wąskim gardłem biologii strukturalnej i jak AlphaFold przeszedł od 60% do 90% dokładności, udostępniając światu 200 milionów struktur za darmo. Nie brakuje też krytyki: model wciąż zawodzi przy heterooligomerach, mutacjach i dokingu z ligandem, bo nie szuka prawdy, lecz najbardziej prawdopodobnej odpowiedzi w świetle danych treningowych. Rozmowa kończy się refleksją o ewolucji, doborze naturalnym, fałdowaniu kotranslacyjnym i o tym, dlaczego „zbędna\" nadmiarowość jest warunkiem funkcjonalności zarówno w mózgu, jak i w genomie."
-tags: ["nagroda nobla", "zwijanie białek", "sztuczna inteligencja", "biologia molekularna", "projektowanie białek"]
-tagKeys: ["nobel-prize", "protein-folding", "artificial-intelligence", "molecular-biology", "protein-design"]
+title: 'Nobel z chemii 2024: jak sieci neuronowe rozwiązały zagadkę zwijania białek'
+date: '2024-10-09'
+videoUrl: 'https://www.youtube.com/watch?v=6tDWm97KvJY'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  Opowieść o tegorocznej Nagrodzie Nobla z chemii dla Davida Bakera, Demisa
+  Hassabisa i Johna Jumpera — za przewidywanie struktury białek na podstawie
+  sekwencji aminokwasów i projektowanie białek o zadanej strukturze. Dowiesz
+  się, na czym polegał paradoks Levinthala, dlaczego krystalografia rentgenowska
+  przez dekady była wąskim gardłem biologii strukturalnej i jak AlphaFold
+  przeszedł od 60% do 90% dokładności, udostępniając światu 200 milionów
+  struktur za darmo. Nie brakuje też krytyki: model wciąż zawodzi przy
+  heterooligomerach, mutacjach i dokingu z ligandem, bo nie szuka prawdy, lecz
+  najbardziej prawdopodobnej odpowiedzi w świetle danych treningowych. Rozmowa
+  kończy się refleksją o ewolucji, doborze naturalnym, fałdowaniu
+  kotranslacyjnym i o tym, dlaczego „zbędna" nadmiarowość jest warunkiem
+  funkcjonalności zarówno w mózgu, jak i w genomie.
+tags:
+  - biologia molekularna
+  - sztuczna inteligencja
+tagKeys:
+  - molecular-biology
+  - artificial-intelligence
 ---
 
 # Nagroda Nobla z chemii 2024 — przewidywanie i projektowanie struktury białek

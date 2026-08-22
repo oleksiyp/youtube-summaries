@@ -1,12 +1,34 @@
 ---
-title: "Why Your Food Should Energize You, Not Put You to Sleep: A Physician's Guide to Active Longevity"
-date: "2024-05-24"
-videoUrl: "https://www.youtube.com/watch?v=03BL7EjXx9Q"
-channelName: "Алексей Дементьев"
-channelUrl: "https://www.youtube.com/channel/UCUltRFvWszXPqlacqo8g-NA"
-shortDescription: "Physician and biophysicist Yakov Marshak explains how the Neolithic shift from oil-rich wild seeds to cooked grains rewired the human food instinct — replacing slow hunger with urgent appetite and turning meals from stimulating into sedating. He outlines a simple pulse test for detecting individual food intolerance, the three pillars of \"stimulant nutrition\" (digestible protein, fiber, and spices), and the leaky-gut cascade that links poor digestion to chronic inflammation. The conversation also covers the biochemistry of arterial plaque and a pomegranate-and-cocoa combination that reportedly reversed atherosclerosis, plus a candid look at A1 versus A2 milk, homogenization, and gout. The core message: healthy eating is deeply individual, and a proper meal should leave you energized rather than reaching for the sofa."
-tags: ["nutrition", "longevity", "food intolerance", "neuroscience", "metabolic health"]
-tagKeys: ["nutrition", "longevity", "food-intolerance", "neuroscience", "metabolic-health"]
+title: >-
+  Why Your Food Should Energize You, Not Put You to Sleep: A Physician's Guide
+  to Active Longevity
+date: '2024-05-24'
+videoUrl: 'https://www.youtube.com/watch?v=03BL7EjXx9Q'
+channelName: Алексей Дементьев
+channelUrl: 'https://www.youtube.com/channel/UCUltRFvWszXPqlacqo8g-NA'
+shortDescription: >-
+  Physician and biophysicist Yakov Marshak explains how the Neolithic shift from
+  oil-rich wild seeds to cooked grains rewired the human food instinct —
+  replacing slow hunger with urgent appetite and turning meals from stimulating
+  into sedating. He outlines a simple pulse test for detecting individual food
+  intolerance, the three pillars of "stimulant nutrition" (digestible protein,
+  fiber, and spices), and the leaky-gut cascade that links poor digestion to
+  chronic inflammation. The conversation also covers the biochemistry of
+  arterial plaque and a pomegranate-and-cocoa combination that reportedly
+  reversed atherosclerosis, plus a candid look at A1 versus A2 milk,
+  homogenization, and gout. The core message: healthy eating is deeply
+  individual, and a proper meal should leave you energized rather than reaching
+  for the sofa.
+tags:
+  - nutrition
+  - preventive medicine
+  - neuroscience
+  - metabolic health
+tagKeys:
+  - nutrition
+  - preventive-medicine
+  - neuroscience
+  - metabolic-health
 ---
 
 # Active Longevity, Food Intolerance, and the Neolithic Rewiring of Human Nutrition

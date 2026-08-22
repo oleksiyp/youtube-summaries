@@ -1,12 +1,31 @@
 ---
-title: "The 2024 Nobel Prize in Chemistry: How AlphaFold Cracked Protein Folding — and What It Still Can't Do"
-date: "2024-10-09"
-videoUrl: "https://www.youtube.com/watch?v=6tDWm97KvJY"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "This deep dive explains why the 2024 Chemistry Nobel went to David Baker, Demis Hassabis, and John Jumper for work on neural networks rather than chemistry proper — solving the protein problem in both directions: predicting 3D structure from sequence, and designing sequences that fold into desired shapes. It traces the story from Levinthal's paradox and the slow grind of X-ray crystallography, through the CASP competition, to AlphaFold 2's leap to 90% accuracy and DeepMind's release of 200 million predicted structures into open access. Just as important are the limits: hetero-oligomers, mutation effects, ligand docking, and co-translational folding remain stumbling blocks, and AlphaFold 3's closed commercial status raises real questions. The discussion widens into Rosetta and protein design, directed evolution, why nature's \"wasteful\" redundancy is actually the source of its power, and why engineered proteins still look like shovels next to nature's synchrotrons."
-tags: ["nobel prize", "protein folding", "artificial intelligence", "molecular biology", "protein design"]
-tagKeys: ["nobel-prize", "protein-folding", "artificial-intelligence", "molecular-biology", "protein-design"]
+title: >-
+  The 2024 Nobel Prize in Chemistry: How AlphaFold Cracked Protein Folding — and
+  What It Still Can't Do
+date: '2024-10-09'
+videoUrl: 'https://www.youtube.com/watch?v=6tDWm97KvJY'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  This deep dive explains why the 2024 Chemistry Nobel went to David Baker,
+  Demis Hassabis, and John Jumper for work on neural networks rather than
+  chemistry proper — solving the protein problem in both directions: predicting
+  3D structure from sequence, and designing sequences that fold into desired
+  shapes. It traces the story from Levinthal's paradox and the slow grind of
+  X-ray crystallography, through the CASP competition, to AlphaFold 2's leap to
+  90% accuracy and DeepMind's release of 200 million predicted structures into
+  open access. Just as important are the limits: hetero-oligomers, mutation
+  effects, ligand docking, and co-translational folding remain stumbling blocks,
+  and AlphaFold 3's closed commercial status raises real questions. The
+  discussion widens into Rosetta and protein design, directed evolution, why
+  nature's "wasteful" redundancy is actually the source of its power, and why
+  engineered proteins still look like shovels next to nature's synchrotrons.
+tags:
+  - molecular biology
+  - artificial intelligence
+tagKeys:
+  - molecular-biology
+  - artificial-intelligence
 ---
 
 # The 2024 Nobel Prize in Chemistry: Protein Structure Prediction, AlphaFold, and Protein Design

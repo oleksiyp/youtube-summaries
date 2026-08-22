@@ -20,17 +20,11 @@ shortDescription: >-
   individuals and societies a more honest framework for career decisions and
   educational policy.
 tags:
-  - elite socioeconomic advantage
   - matthew effect
-  - relative age effect
-  - institutional prestige
-  - missing talent
+  - education
 tagKeys:
-  - elite-socioeconomic-advantage
   - matthew-effect
-  - relative-age-effect
-  - institutional-prestige
-  - missing-talent
+  - education
 ---
 
 # Predictors of Elite Success: Politics, Sport, Science, and Creative Fields

@@ -1,12 +1,32 @@
 ---
-title: "Aktywna długowieczność: jak rozpoznać nietolerancje pokarmowe i cofnąć miażdżycę"
-date: "2024-05-24"
-videoUrl: "https://www.youtube.com/watch?v=03BL7EjXx9Q"
-channelName: "Алексей Дементьев"
-channelUrl: "https://www.youtube.com/channel/UCUltRFvWszXPqlacqo8g-NA"
-shortDescription: "Lekarz i biofizyk Jakow Marszak wyjaśnia, dlaczego te same produkty jednym służą, a u innych wywołują przewlekły stan zapalny, i pokazuje prosty domowy test tętna pozwalający sprawdzić tolerancję pokarmową. Rozmowa prowadzi od lektyn pszenicy i diety sprzed rewolucji neolitycznej, przez ewolucję instynktu żywieniowego i różnicę między sytością stymulującą a sedatywną, aż po biochemię dopaminy i mechanizmy nagrody. Sporo miejsca zajmuje mechanizm powstawania blaszek miażdżycowych oraz opisany przypadek ich całkowitego cofnięcia dzięki połączeniu flawonoidów granatu i kakao. Poruszono także kwestie mleka A1 i A2, homogenizacji i dny moczanowej oraz roli peptydu GLP-1 w regulacji metabolizmu."
-tags: ["żywienie", "długowieczność", "nietolerancja pokarmowa", "neuronauka", "zdrowie metaboliczne"]
-tagKeys: ["nutrition", "longevity", "food-intolerance", "neuroscience", "metabolic-health"]
+title: >-
+  Aktywna długowieczność: jak rozpoznać nietolerancje pokarmowe i cofnąć
+  miażdżycę
+date: '2024-05-24'
+videoUrl: 'https://www.youtube.com/watch?v=03BL7EjXx9Q'
+channelName: Алексей Дементьев
+channelUrl: 'https://www.youtube.com/channel/UCUltRFvWszXPqlacqo8g-NA'
+shortDescription: >-
+  Lekarz i biofizyk Jakow Marszak wyjaśnia, dlaczego te same produkty jednym
+  służą, a u innych wywołują przewlekły stan zapalny, i pokazuje prosty domowy
+  test tętna pozwalający sprawdzić tolerancję pokarmową. Rozmowa prowadzi od
+  lektyn pszenicy i diety sprzed rewolucji neolitycznej, przez ewolucję
+  instynktu żywieniowego i różnicę między sytością stymulującą a sedatywną, aż
+  po biochemię dopaminy i mechanizmy nagrody. Sporo miejsca zajmuje mechanizm
+  powstawania blaszek miażdżycowych oraz opisany przypadek ich całkowitego
+  cofnięcia dzięki połączeniu flawonoidów granatu i kakao. Poruszono także
+  kwestie mleka A1 i A2, homogenizacji i dny moczanowej oraz roli peptydu GLP-1
+  w regulacji metabolizmu.
+tags:
+  - żywienie
+  - medycyna prewencyjna
+  - neuronauka
+  - zdrowie metaboliczne
+tagKeys:
+  - nutrition
+  - preventive-medicine
+  - neuroscience
+  - metabolic-health
 ---
 
 # Aktywna długowieczność: nietolerancje pokarmowe, ewolucja instynktu żywieniowego i odwracanie miażdżycy

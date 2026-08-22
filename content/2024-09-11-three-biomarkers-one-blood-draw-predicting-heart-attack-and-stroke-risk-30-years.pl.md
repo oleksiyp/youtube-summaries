@@ -1,12 +1,27 @@
 ---
-title: "Trzy badania krwi, które przewidują zawał i udar na 30 lat naprzód"
-date: "2024-09-11"
-videoUrl: "https://www.youtube.com/watch?v=aR7SIm5Ufpg"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "Trzydziestoletnia obserwacja 28 tysięcy kobiet, opublikowana w „The New England Journal of Medicine\", pokazała, że jednorazowe oznaczenie trzech parametrów — hsCRP, cholesterolu LDL i lipoproteiny(a) — pozwala z dużą dokładnością przewidzieć ryzyko zawału i udaru na trzy dekady naprzód. U kobiet z podwyższonymi wszystkimi trzema markerami ryzyko poważnych zdarzeń sercowo-naczyniowych było 2,6 razy wyższe, a w przypadku udaru aż 3,7 razy. Tekst wyjaśnia mechanizm rozwoju miażdżycy, rolę przewlekłego tlącego się zapalenia oraz przedstawia dostępne i powstające terapie — od kolchicyny i statyn po oligonukleotydy antysensowne obniżające Lp(a). Główny wniosek: profilaktyki nie warto odkładać do momentu pojawienia się objawów, bo wtedy skuteczność leczenia gwałtownie spada."
-tags: ["choroby sercowo-naczyniowe", "biomarkery", "medycyna prewencyjna", "cholesterol", "stan zapalny"]
-tagKeys: ["cardiovascular-disease", "biomarkers", "preventive-medicine", "cholesterol", "inflammation"]
+title: 'Trzy badania krwi, które przewidują zawał i udar na 30 lat naprzód'
+date: '2024-09-11'
+videoUrl: 'https://www.youtube.com/watch?v=aR7SIm5Ufpg'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  Trzydziestoletnia obserwacja 28 tysięcy kobiet, opublikowana w „The New
+  England Journal of Medicine", pokazała, że jednorazowe oznaczenie trzech
+  parametrów — hsCRP, cholesterolu LDL i lipoproteiny(a) — pozwala z dużą
+  dokładnością przewidzieć ryzyko zawału i udaru na trzy dekady naprzód. U
+  kobiet z podwyższonymi wszystkimi trzema markerami ryzyko poważnych zdarzeń
+  sercowo-naczyniowych było 2,6 razy wyższe, a w przypadku udaru aż 3,7 razy.
+  Tekst wyjaśnia mechanizm rozwoju miażdżycy, rolę przewlekłego tlącego się
+  zapalenia oraz przedstawia dostępne i powstające terapie — od kolchicyny i
+  statyn po oligonukleotydy antysensowne obniżające Lp(a). Główny wniosek:
+  profilaktyki nie warto odkładać do momentu pojawienia się objawów, bo wtedy
+  skuteczność leczenia gwałtownie spada.
+tags:
+  - medycyna prewencyjna
+  - zdrowie metaboliczne
+tagKeys:
+  - preventive-medicine
+  - metabolic-health
 ---
 
 # Trzy badania krwi, które przewidują ryzyko zawału i udaru na 30 lat naprzód

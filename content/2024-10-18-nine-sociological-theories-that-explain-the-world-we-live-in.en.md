@@ -1,12 +1,27 @@
 ---
-title: "Nine Sociological Theories That Explain the World We Live In"
-date: "2024-10-18"
-videoUrl: "https://www.youtube.com/watch?v=GSNDLX1qP-s"
-channelName: "Философ распаковывает контексты!"
-channelUrl: "https://www.youtube.com/channel/UCxAnGU9csu7XXzJwrhFOJ2Q"
-shortDescription: "From consumer society and Debord's spectacle to burnout, acceleration, and our entanglement with technology, this post walks through nine theories from philosophy, anthropology, and sociology that illuminate how modern life actually works. Rather than offering a single \"theory of everything,\" each idea functions as a puzzle piece — applied directly to everyday experience, from targeted advertising and doomscrolling to loneliness, chronic time scarcity, and the pressure to become \"the best version of yourself.\" Together they reveal a single interwoven context of risk, consumption, individualism, fashion, and information overload. The ultimate argument is therapeutic: understanding these forces moves us from anxious disorientation toward a calmer, more investigative stance toward our own lives."
-tags: ["sociology", "social theory", "modernity", "consumer society", "digital culture"]
-tagKeys: ["sociology", "social-theory", "modernity", "consumer-society", "digital-culture"]
+title: Nine Sociological Theories That Explain the World We Live In
+date: '2024-10-18'
+videoUrl: 'https://www.youtube.com/watch?v=GSNDLX1qP-s'
+channelName: Философ распаковывает контексты!
+channelUrl: 'https://www.youtube.com/channel/UCxAnGU9csu7XXzJwrhFOJ2Q'
+shortDescription: >-
+  From consumer society and Debord's spectacle to burnout, acceleration, and our
+  entanglement with technology, this post walks through nine theories from
+  philosophy, anthropology, and sociology that illuminate how modern life
+  actually works. Rather than offering a single "theory of everything," each
+  idea functions as a puzzle piece — applied directly to everyday experience,
+  from targeted advertising and doomscrolling to loneliness, chronic time
+  scarcity, and the pressure to become "the best version of yourself." Together
+  they reveal a single interwoven context of risk, consumption, individualism,
+  fashion, and information overload. The ultimate argument is therapeutic:
+  understanding these forces moves us from anxious disorientation toward a
+  calmer, more investigative stance toward our own lives.
+tags:
+  - sociology
+  - social media
+tagKeys:
+  - sociology
+  - social-media
 ---
 
 # Nine Sociological Theories That Explain Modern Society

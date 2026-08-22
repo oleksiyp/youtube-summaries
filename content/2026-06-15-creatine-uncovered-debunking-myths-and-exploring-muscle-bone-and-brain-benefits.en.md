@@ -1,12 +1,31 @@
 ---
-title: "Creatine Uncovered: Debunking Myths and Exploring Muscle, Bone, and Brain Benefits with Dr. Darren Candow"
-date: "2026-06-15"
-videoUrl: "https://www.youtube.com/watch?v=Jk7RAkFN4vk"
-channelName: "The Diary Of A CEO"
-channelUrl: "https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw"
-shortDescription: "Creatine researcher Dr. Darren Candow separates fact from fiction, debunking persistent myths about kidney damage, water retention, hair loss, and cramping while explaining the science behind creatine's real benefits for muscle performance, bone density, and brain function under stress. He covers practical dosing strategies for different goals—from 3-5g for muscle to 8-12g for bone health to 20-30g for cognitive resilience during sleep deprivation—along with product quality tips, microdosing techniques, and emerging research on Alzheimer's, depression, and concussion recovery. The conversation also touches on aging, menopause, protein synergy, and Candow's personal supplement routine, framing creatine as one essential tool within a broader lifelong health toolbox."
-tags: ["creatine", "muscle growth", "bone health", "brain health", "weight training", "aging"]
-tagKeys: ["creatine", "muscle-growth", "bone-health", "brain-health", "weight-training", "aging"]
+title: >-
+  Creatine Uncovered: Debunking Myths and Exploring Muscle, Bone, and Brain
+  Benefits with Dr. Darren Candow
+date: '2026-06-15'
+videoUrl: 'https://www.youtube.com/watch?v=Jk7RAkFN4vk'
+channelName: The Diary Of A CEO
+channelUrl: 'https://www.youtube.com/channel/UCGq-a57w-aPwyi3pW7XLiHw'
+shortDescription: >-
+  Creatine researcher Dr. Darren Candow separates fact from fiction, debunking
+  persistent myths about kidney damage, water retention, hair loss, and cramping
+  while explaining the science behind creatine's real benefits for muscle
+  performance, bone density, and brain function under stress. He covers
+  practical dosing strategies for different goals—from 3-5g for muscle to 8-12g
+  for bone health to 20-30g for cognitive resilience during sleep
+  deprivation—along with product quality tips, microdosing techniques, and
+  emerging research on Alzheimer's, depression, and concussion recovery. The
+  conversation also touches on aging, menopause, protein synergy, and Candow's
+  personal supplement routine, framing creatine as one essential tool within a
+  broader lifelong health toolbox.
+tags:
+  - weight training
+  - neuroscience
+  - preventive medicine
+tagKeys:
+  - weight-training
+  - neuroscience
+  - preventive-medicine
 ---
 
 # Creatine: Myths, Muscle, Bone, and Brain Benefits

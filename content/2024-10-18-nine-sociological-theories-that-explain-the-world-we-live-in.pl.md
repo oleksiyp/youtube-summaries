@@ -1,12 +1,25 @@
 ---
-title: "Dziewięć teorii socjologicznych, które tłumaczą, dlaczego żyjemy właśnie tak"
-date: "2024-10-18"
-videoUrl: "https://www.youtube.com/watch?v=GSNDLX1qP-s"
-channelName: "Философ распаковывает контексты!"
-channelUrl: "https://www.youtube.com/channel/UCxAnGU9csu7XXzJwrhFOJ2Q"
-shortDescription: "Przewodnik po dziewięciu koncepcjach współczesnej humanistyki — od społeczeństwa konsumpcyjnego i spektaklu, przez ryzyko, singularność, wypalenie i modę, aż po przyspieszenie, informację i technikę. Autor pokazuje, jak myśl Baudrillarda, Deborda, Becka, Baumana, Byung-Chul Hana, Lipovetsky'ego czy Stieglera pomaga zrozumieć codzienne decyzje, samopoczucie i relacje. Zamiast jednej „teorii wszystkiego” otrzymujemy elementy układanki, które splatają się w obraz złożonego środowiska społecznego. Kluczowy wniosek: nazwanie tych mechanizmów pozwala wyjść ze stanu dezorientacji i lęku, a refleksja teoretyczna ma realny efekt terapeutyczny."
-tags: ["socjologia", "teoria społeczna", "nowoczesność", "społeczeństwo konsumpcyjne", "kultura cyfrowa"]
-tagKeys: ["sociology", "social-theory", "modernity", "consumer-society", "digital-culture"]
+title: 'Dziewięć teorii socjologicznych, które tłumaczą, dlaczego żyjemy właśnie tak'
+date: '2024-10-18'
+videoUrl: 'https://www.youtube.com/watch?v=GSNDLX1qP-s'
+channelName: Философ распаковывает контексты!
+channelUrl: 'https://www.youtube.com/channel/UCxAnGU9csu7XXzJwrhFOJ2Q'
+shortDescription: >-
+  Przewodnik po dziewięciu koncepcjach współczesnej humanistyki — od
+  społeczeństwa konsumpcyjnego i spektaklu, przez ryzyko, singularność,
+  wypalenie i modę, aż po przyspieszenie, informację i technikę. Autor pokazuje,
+  jak myśl Baudrillarda, Deborda, Becka, Baumana, Byung-Chul Hana,
+  Lipovetsky'ego czy Stieglera pomaga zrozumieć codzienne decyzje, samopoczucie
+  i relacje. Zamiast jednej „teorii wszystkiego” otrzymujemy elementy układanki,
+  które splatają się w obraz złożonego środowiska społecznego. Kluczowy wniosek:
+  nazwanie tych mechanizmów pozwala wyjść ze stanu dezorientacji i lęku, a
+  refleksja teoretyczna ma realny efekt terapeutyczny.
+tags:
+  - socjologia
+  - media społecznościowe
+tagKeys:
+  - sociology
+  - social-media
 ---
 
 # Dziewięć teorii socjologicznych opisujących współczesne społeczeństwo

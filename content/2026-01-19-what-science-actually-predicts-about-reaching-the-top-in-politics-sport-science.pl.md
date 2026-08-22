@@ -20,17 +20,11 @@ shortDescription: >-
   realnych ścieżek awansu dla utalentowanych osób z mniej uprzywilejowanych
   środowisk – zamiast pozornego wyrównywania szans przez obniżanie wymagań.
 tags:
-  - elitarne pochodzenie społeczne
   - efekt Mateusza
-  - efekt względnego wieku
-  - prestiż instytucjonalny
-  - zmarnowany talent
+  - edukacja
 tagKeys:
-  - elite-socioeconomic-advantage
   - matthew-effect
-  - relative-age-effect
-  - institutional-prestige
-  - missing-talent
+  - education
 ---
 
 # Predyktory sukcesu – nauka, sport, polityka i twórczość

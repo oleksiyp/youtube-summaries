@@ -1,12 +1,29 @@
 ---
-title: "Ewolucyjne warstwy mózgu — dlaczego nosimy w sobie ryby, gady i strach przed obcymi"
-date: "2024-06-23"
-videoUrl: "https://www.youtube.com/watch?v=6oh2WATD0tA"
-channelName: "ноо — биология егэ и 10 класс"
-channelUrl: "https://www.youtube.com/channel/UC1y2zfQVrGPDk6iPgUTHlLw"
-shortDescription: "Antropolog Stanisław Drobyszewski pokazuje ludzki mózg jako matrioszkę zbudowaną z warstw odziedziczonych po kolejnych etapach ewolucji — od sieciowego układu nerwowego hydry, przez móżdżek minoga i „rybie” emocje gałki bladej, aż po korę nową odpowiedzialną za myślenie i wolę. Wykład wyjaśnia różnice między odruchem, odruchem warunkowym, instynktem i uczeniem się, dowodząc, że człowiek praktycznie nie ma instynktów (jedynym potwierdzonym jest unoszenie brwi na widok znajomej osoby). Osobne części poświęcone są międzymózgowiu i szyszynce jako dawnemu trzeciemu oku, regulacji apetytu przez jądra guza popielatego oraz temu, dlaczego odziedziczone zasady żywieniowe prowadzą dziś do otyłości i cukrzycy. Całość zamykają układ limbiczny, pamięć zapisywana emocjami oraz wspólne korzenie strachu, zdziwienia i śmiechu."
-tags: ["brain evolution", "neuroscience", "human evolution", "emotions", "evolutionary biology"]
-tagKeys: ["brain-evolution", "neuroscience", "human-evolution", "emotions", "evolutionary-biology"]
+title: >-
+  Ewolucyjne warstwy mózgu — dlaczego nosimy w sobie ryby, gady i strach przed
+  obcymi
+date: '2024-06-23'
+videoUrl: 'https://www.youtube.com/watch?v=6oh2WATD0tA'
+channelName: ноо — биология егэ и 10 класс
+channelUrl: 'https://www.youtube.com/channel/UC1y2zfQVrGPDk6iPgUTHlLw'
+shortDescription: >-
+  Antropolog Stanisław Drobyszewski pokazuje ludzki mózg jako matrioszkę
+  zbudowaną z warstw odziedziczonych po kolejnych etapach ewolucji — od
+  sieciowego układu nerwowego hydry, przez móżdżek minoga i „rybie” emocje gałki
+  bladej, aż po korę nową odpowiedzialną za myślenie i wolę. Wykład wyjaśnia
+  różnice między odruchem, odruchem warunkowym, instynktem i uczeniem się,
+  dowodząc, że człowiek praktycznie nie ma instynktów (jedynym potwierdzonym
+  jest unoszenie brwi na widok znajomej osoby). Osobne części poświęcone są
+  międzymózgowiu i szyszynce jako dawnemu trzeciemu oku, regulacji apetytu przez
+  jądra guza popielatego oraz temu, dlaczego odziedziczone zasady żywieniowe
+  prowadzą dziś do otyłości i cukrzycy. Całość zamykają układ limbiczny, pamięć
+  zapisywana emocjami oraz wspólne korzenie strachu, zdziwienia i śmiechu.
+tags:
+  - evolutionary biology
+  - neuronauka
+tagKeys:
+  - evolutionary-biology
+  - neuroscience
 ---
 
 # Ciężar przeszłości w naszym mózgu — ewolucyjne warstwy układu nerwowego

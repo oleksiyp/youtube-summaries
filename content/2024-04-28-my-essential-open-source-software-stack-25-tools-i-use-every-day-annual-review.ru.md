@@ -20,17 +20,9 @@ shortDescription: >-
   зависимости от проприетарных решений.
 tags:
   - инструменты с открытым кодом
-  - управление сервером
-  - домашняя автоматизация
-  - удалённый доступ
-  - самостоятельный хостинг
   - создание контента
 tagKeys:
   - open-source-tools
-  - server-management
-  - home-automation
-  - remote-access
-  - self-hosted-apps
   - content-creation
 ---
 

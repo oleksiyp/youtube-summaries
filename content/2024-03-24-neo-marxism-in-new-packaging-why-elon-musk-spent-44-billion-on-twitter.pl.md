@@ -1,12 +1,27 @@
 ---
-title: "Dlaczego Elon Musk kupił Twittera — woke, neomarksizm i walka o władzę"
-date: "2024-03-24"
-videoUrl: "https://www.youtube.com/watch?v=jBe6yGfNU1Q"
-channelName: "Денис Борисов"
-channelUrl: "https://www.youtube.com/channel/UCVZYwJU89nYX6JLeBSAwOTA"
-shortDescription: "Punktem wyjścia jest pozornie nieracjonalny zakup Twittera za 44 mld dolarów, który autor tłumaczy nie rachunkiem ekonomicznym, lecz walką o kontrolę nad propagandą i osobistymi motywami Muska. Na przykładach Bud Light, Victoria's Secret, sportu kobiecego i polityki migracyjnej pokazuje, jak firmy i instytucje działają wbrew własnym interesom pod presją ratingów ESG, BlackRock i agendy DEI. Autor wyprowadza rodowód tej ideologii od marksizmu przez postmodernizm po neomarksizm, opisując konflikt „ciemiężycieli i uciśnionych\" oraz cztery „grzechy główne\" przypisywane białym heteroseksualnym mężczyznom. Całość kończy się refleksją o narastającej kontrofensywie, sile rynku jako mechanizmu korekty i o tym, że piękne obietnice równości historycznie służyły wyłącznie zdobyciu władzy."
-tags: ["ideologia woke", "wojny kulturowe", "polityka tożsamości", "elon musk", "esg"]
-tagKeys: ["woke-ideology", "culture-wars", "identity-politics", "elon-musk", "esg"]
+title: 'Dlaczego Elon Musk kupił Twittera — woke, neomarksizm i walka o władzę'
+date: '2024-03-24'
+videoUrl: 'https://www.youtube.com/watch?v=jBe6yGfNU1Q'
+channelName: Денис Борисов
+channelUrl: 'https://www.youtube.com/channel/UCVZYwJU89nYX6JLeBSAwOTA'
+shortDescription: >-
+  Punktem wyjścia jest pozornie nieracjonalny zakup Twittera za 44 mld dolarów,
+  który autor tłumaczy nie rachunkiem ekonomicznym, lecz walką o kontrolę nad
+  propagandą i osobistymi motywami Muska. Na przykładach Bud Light, Victoria's
+  Secret, sportu kobiecego i polityki migracyjnej pokazuje, jak firmy i
+  instytucje działają wbrew własnym interesom pod presją ratingów ESG, BlackRock
+  i agendy DEI. Autor wyprowadza rodowód tej ideologii od marksizmu przez
+  postmodernizm po neomarksizm, opisując konflikt „ciemiężycieli i uciśnionych"
+  oraz cztery „grzechy główne" przypisywane białym heteroseksualnym mężczyznom.
+  Całość kończy się refleksją o narastającej kontrofensywie, sile rynku jako
+  mechanizmu korekty i o tym, że piękne obietnice równości historycznie służyły
+  wyłącznie zdobyciu władzy.
+tags:
+  - wojny kulturowe
+  - media społecznościowe
+tagKeys:
+  - culture-wars
+  - social-media
 ---
 
 # Dlaczego Elon Musk kupił Twittera — opowieść o „woke", neomarksizmie i walce o władzę

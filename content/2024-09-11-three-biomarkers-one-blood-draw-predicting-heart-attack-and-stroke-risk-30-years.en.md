@@ -1,12 +1,28 @@
 ---
-title: "Three Biomarkers, One Blood Draw: Predicting Heart Attack and Stroke Risk 30 Years Early"
-date: "2024-09-11"
-videoUrl: "https://www.youtube.com/watch?v=aR7SIm5Ufpg"
-channelName: "Ирина Якутенко"
-channelUrl: "https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w"
-shortDescription: "A 30-year study of nearly 28,000 women published in The New England Journal of Medicine found that a single blood test measuring hsCRP, LDL cholesterol, and lipoprotein(a) can predict major cardiovascular events decades in advance. Women elevated in all three markers faced 2.6 times the risk of heart attack, stroke, or cardiovascular death — and 3.7 times the risk of stroke specifically. The post explains how atherosclerosis develops, why chronic low-grade inflammation matters, and what each marker reveals about vascular health. It also reviews emerging treatments, from FDA-approved low-dose colchicine to experimental RNA therapies targeting the genetically fixed lipoprotein(a)."
-tags: ["cardiovascular disease", "biomarkers", "preventive medicine", "cholesterol", "inflammation"]
-tagKeys: ["cardiovascular-disease", "biomarkers", "preventive-medicine", "cholesterol", "inflammation"]
+title: >-
+  Three Biomarkers, One Blood Draw: Predicting Heart Attack and Stroke Risk 30
+  Years Early
+date: '2024-09-11'
+videoUrl: 'https://www.youtube.com/watch?v=aR7SIm5Ufpg'
+channelName: Ирина Якутенко
+channelUrl: 'https://www.youtube.com/channel/UCnbGR1mOt2ER3glUovq1C6w'
+shortDescription: >-
+  A 30-year study of nearly 28,000 women published in The New England Journal of
+  Medicine found that a single blood test measuring hsCRP, LDL cholesterol, and
+  lipoprotein(a) can predict major cardiovascular events decades in advance.
+  Women elevated in all three markers faced 2.6 times the risk of heart attack,
+  stroke, or cardiovascular death — and 3.7 times the risk of stroke
+  specifically. The post explains how atherosclerosis develops, why chronic
+  low-grade inflammation matters, and what each marker reveals about vascular
+  health. It also reviews emerging treatments, from FDA-approved low-dose
+  colchicine to experimental RNA therapies targeting the genetically fixed
+  lipoprotein(a).
+tags:
+  - preventive medicine
+  - metabolic health
+tagKeys:
+  - preventive-medicine
+  - metabolic-health
 ---
 
 # One Blood Test That Predicts Cardiovascular Risk 30 Years in Advance

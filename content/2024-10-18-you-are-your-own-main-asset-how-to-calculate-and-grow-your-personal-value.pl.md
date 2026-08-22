@@ -1,12 +1,33 @@
 ---
-title: "Twoim najważniejszym aktywem jesteś Ty sam — jak wycenić i pomnożyć własną wartość"
-date: "2024-10-18"
-videoUrl: "https://www.youtube.com/watch?v=F3zPPs04kSo"
-channelName: "HUGS.FUND"
-channelUrl: "https://www.youtube.com/channel/UCuzGF8G_5K5dsb5yC_0_mnA"
-shortDescription: "Większość ludzi za swój największy majątek uznaje mieszkanie lub firmę, tymczasem prawdziwym aktywem jest własna zdolność do zarabiania i tworzenia wartości dla innych. Tekst pokazuje prostą formułę wyceny człowieka (zarobek miesięczny × 12 × 20 lat) oraz pięć czynników, które tę wartość podnoszą lub obniżają: wiek, kraj zamieszkania, stabilność pracy, zdrowie fizyczne i psychiczne oraz perspektywy wzrostu wynagrodzenia. Znajdziesz tu także praktyczne wskazówki — dlaczego warto szukać pracy z systemem premii w modelu win-win-win, dlaczego ucieczka w spekulacje przed znienawidzoną posadą kończy się stratą pieniędzy i zdrowia oraz jak dzielenie się wiedzą utrzymuje naszą wartość aż do późnej starości. Wniosek jest jeden: inwestowanie zacznij od siebie, bo tego aktywa nikt Ci nie odbierze."
-tags: ["finanse osobiste", "kapitał ludzki", "rozwój kariery", "samorozwój", "inwestowanie"]
-tagKeys: ["personal-finance", "human-capital", "career-development", "self-improvement", "investing"]
+title: >-
+  Twoim najważniejszym aktywem jesteś Ty sam — jak wycenić i pomnożyć własną
+  wartość
+date: '2024-10-18'
+videoUrl: 'https://www.youtube.com/watch?v=F3zPPs04kSo'
+channelName: HUGS.FUND
+channelUrl: 'https://www.youtube.com/channel/UCuzGF8G_5K5dsb5yC_0_mnA'
+shortDescription: >-
+  Większość ludzi za swój największy majątek uznaje mieszkanie lub firmę,
+  tymczasem prawdziwym aktywem jest własna zdolność do zarabiania i tworzenia
+  wartości dla innych. Tekst pokazuje prostą formułę wyceny człowieka (zarobek
+  miesięczny × 12 × 20 lat) oraz pięć czynników, które tę wartość podnoszą lub
+  obniżają: wiek, kraj zamieszkania, stabilność pracy, zdrowie fizyczne i
+  psychiczne oraz perspektywy wzrostu wynagrodzenia. Znajdziesz tu także
+  praktyczne wskazówki — dlaczego warto szukać pracy z systemem premii w modelu
+  win-win-win, dlaczego ucieczka w spekulacje przed znienawidzoną posadą kończy
+  się stratą pieniędzy i zdrowia oraz jak dzielenie się wiedzą utrzymuje naszą
+  wartość aż do późnej starości. Wniosek jest jeden: inwestowanie zacznij od
+  siebie, bo tego aktywa nikt Ci nie odbierze.
+tags:
+  - finanse osobiste
+  - rozwój kariery
+  - rozwój osobisty
+  - investing
+tagKeys:
+  - personal-finance
+  - career-development
+  - personal-development
+  - investing
 ---
 
 # Twoim głównym aktywem jesteś Ty sam — jak wycenić i zwiększyć własną wartość

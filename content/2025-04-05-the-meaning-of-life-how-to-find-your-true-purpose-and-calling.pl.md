@@ -14,17 +14,13 @@ shortDescription: >-
   czemu naprawdę jesteś oddany. Niezależnie od tego, jaką ścieżką podążasz -
   twoja droga ma głębokie znaczenie i wartość.
 tags:
-  - sens życia
-  - odkrywanie siebie
-  - cel życiowy
-  - rozwój duszy
-  - poszukiwanie egzystencjalne
+  - filozofia
+  - self-awareness
+  - rozwój osobisty
 tagKeys:
-  - life-meaning
-  - self-discovery
-  - personal-purpose
-  - soul-growth
-  - existential-search
+  - philosophy
+  - self-awareness
+  - personal-development
 ---
 
 # Jaki jest sens życia? - Kompleksowe podsumowanie

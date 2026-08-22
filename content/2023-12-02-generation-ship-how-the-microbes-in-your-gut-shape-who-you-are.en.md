@@ -1,12 +1,32 @@
 ---
-title: "Generation Ship: How the Microbes in Your Gut Shape Who You Are"
-date: "2023-12-02"
-videoUrl: "https://www.youtube.com/watch?v=e10yOoP-x3g"
-channelName: "Anton Petrov"
-channelUrl: "https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ"
-shortDescription: "The human gut hosts the densest microbial community on Earth — hundreds of bacterial, archaeal, and fungal species carrying roughly 100 times more genes than our own genome — and they do far more than digest food. This post explores how the microbiome defends us from pathogens, trains the immune system, and communicates with the brain through the gut–brain axis, influencing sleep, mood, and even personality traits. Analysis of 2,000-year-old preserved stool reveals that industrialized diets have wiped out entire bacterial species, leaving modern guts less diverse, less adaptable, and more prone to conditions like Crohn's disease, diabetes, and obesity. With fecal transplants already reversing cognitive decline in aging mice, manipulating our microbial partners may soon become a genuine medical tool — though far more questions remain open than answered."
-tags: ["gut microbiome", "microbiology", "gut-brain axis", "diet and nutrition", "human health"]
-tagKeys: ["gut-microbiome", "microbiology", "gut-brain-axis", "diet-and-nutrition", "human-health"]
+title: 'Generation Ship: How the Microbes in Your Gut Shape Who You Are'
+date: '2023-12-02'
+videoUrl: 'https://www.youtube.com/watch?v=e10yOoP-x3g'
+channelName: Anton Petrov
+channelUrl: 'https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ'
+shortDescription: >-
+  The human gut hosts the densest microbial community on Earth — hundreds of
+  bacterial, archaeal, and fungal species carrying roughly 100 times more genes
+  than our own genome — and they do far more than digest food. This post
+  explores how the microbiome defends us from pathogens, trains the immune
+  system, and communicates with the brain through the gut–brain axis,
+  influencing sleep, mood, and even personality traits. Analysis of
+  2,000-year-old preserved stool reveals that industrialized diets have wiped
+  out entire bacterial species, leaving modern guts less diverse, less
+  adaptable, and more prone to conditions like Crohn's disease, diabetes, and
+  obesity. With fecal transplants already reversing cognitive decline in aging
+  mice, manipulating our microbial partners may soon become a genuine medical
+  tool — though far more questions remain open than answered.
+tags:
+  - molecular biology
+  - neuroscience
+  - nutrition
+  - preventive medicine
+tagKeys:
+  - molecular-biology
+  - neuroscience
+  - nutrition
+  - preventive-medicine
 ---
 
 # The Gut Microbiome: How the Microbes Inside Us Shape Who We Are

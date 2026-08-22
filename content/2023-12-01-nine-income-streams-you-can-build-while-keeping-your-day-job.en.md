@@ -15,17 +15,13 @@ shortDescription: >-
   leap. Whether you earn $37,000 or seven figures, the key insight is using your
   current income as the engine that funds and builds everything else.
 tags:
-  - multiple income streams
-  - financial leverage
-  - passive income
-  - entrepreneurship tips
   - wealth building
+  - personal finance
+  - career development
 tagKeys:
-  - multiple-income-streams
-  - financial-leverage
-  - passive-income
-  - entrepreneurship-tips
   - wealth-building
+  - personal-finance
+  - career-development
 ---
 
 # Nine Income Streams Built While Working a Full-Time Job

@@ -17,18 +17,10 @@ shortDescription: >-
   иностранного языка.
 tags:
   - языковое погружение
-  - беглость как у носителя
-  - словарный запас в контексте
-  - освоение грамматики
-  - методы самообучения
-  - техника запоминания
+  - стратегии обучения
 tagKeys:
   - language-immersion
-  - native-fluency
-  - vocabulary-in-context
-  - grammar-discovery
-  - self-study-methods
-  - memorization-technique
+  - study-strategies
 ---
 
 # Как выучить иностранный язык: Разбор опыта изучения норвежского

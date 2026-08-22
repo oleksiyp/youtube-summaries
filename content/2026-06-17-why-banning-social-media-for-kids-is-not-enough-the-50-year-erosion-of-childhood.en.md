@@ -18,17 +18,11 @@ shortDescription: >-
   real-world risk, and unstructured time, removing social media will simply
   leave children reaching for the next available source of instant stimulation.
 tags:
-  - children's autonomy
-  - free play decline
-  - parental overprotection
-  - social media harm
-  - childhood risk
+  - child development
+  - social media
 tagKeys:
-  - children-s-autonomy
-  - free-play-decline
-  - parental-overprotection
-  - social-media-harm
-  - childhood-risk
+  - child-development
+  - social-media
 ---
 # Children's Independence and Social Media: Why a Ban Alone Is Not Enough
 

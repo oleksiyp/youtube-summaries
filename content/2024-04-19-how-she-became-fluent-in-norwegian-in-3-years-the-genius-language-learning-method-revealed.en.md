@@ -19,18 +19,10 @@ shortDescription: >-
   prioritize authentic engagement over traditional rule-based study.
 tags:
   - language immersion
-  - native fluency
-  - vocabulary in context
-  - grammar discovery
-  - self-study methods
-  - memorization technique
+  - study strategies
 tagKeys:
   - language-immersion
-  - native-fluency
-  - vocabulary-in-context
-  - grammar-discovery
-  - self-study-methods
-  - memorization-technique
+  - study-strategies
 ---
 
 # How to Learn Any Language Like a Native Speaker

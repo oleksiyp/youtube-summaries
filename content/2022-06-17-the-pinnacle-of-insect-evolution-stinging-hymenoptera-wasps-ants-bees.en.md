@@ -16,19 +16,11 @@ shortDescription: >-
   from wasps that hunt spiders thousands of times their size to bees that
   invented honey, wax construction, and complex communication systems.
 tags:
-  - hymenoptera evolution
+  - evolutionary biology
   - social insects
-  - stinging wasps
-  - parasitic behavior
-  - bee origins
-  - ant diversity
 tagKeys:
-  - hymenoptera-evolution
+  - evolutionary-biology
   - social-insects
-  - stinging-wasps
-  - parasitic-behavior
-  - bee-origins
-  - ant-diversity
 ---
 
 # Evolution of Hymenoptera: Advanced Groups and Social Insects

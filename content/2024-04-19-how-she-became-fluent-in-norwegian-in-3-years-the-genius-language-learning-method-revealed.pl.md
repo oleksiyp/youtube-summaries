@@ -17,18 +17,10 @@ shortDescription: >-
   dorosłych) i dlaczego tradycyjne podejście do gramatyki może być przeszkodą.
 tags:
   - immersja językowa
-  - płynność rodzima
-  - słownictwo w kontekście
-  - odkrywanie gramatyki
-  - metody samodzielnej nauki
-  - technika zapamiętywania
+  - strategie uczenia się
 tagKeys:
   - language-immersion
-  - native-fluency
-  - vocabulary-in-context
-  - grammar-discovery
-  - self-study-methods
-  - memorization-technique
+  - study-strategies
 ---
 
 # Jak skutecznie nauczyć się języka obcego - metoda norweskiej uczenniczki

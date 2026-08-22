@@ -21,18 +21,14 @@ shortDescription: >-
   пересказы, а не напрямую.
 tags:
   - когнитивные искажения
-  - эволюция мозга
-  - медийные манипуляции
-  - информационная грамотность
+  - эволюционная биология
+  - медийная манипуляция
   - критическое мышление
-  - техники пропаганды
 tagKeys:
   - cognitive-biases
-  - brain-evolution
+  - evolutionary-biology
   - media-manipulation
-  - information-literacy
   - critical-thinking
-  - propaganda-techniques
 ---
 
 # Почему обилие информации не делает людей объективнее: биологический взгляд

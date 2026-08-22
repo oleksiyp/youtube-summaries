@@ -1,12 +1,25 @@
 ---
-title: "The Three-Body Problem: How a Simple Question Broke Newtonian Physics"
-date: "2024-07-15"
-videoUrl: "https://www.youtube.com/watch?v=l2wnqlcOL9A"
-channelName: "Up and Atom"
-channelUrl: "https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw"
-shortDescription: "Three masses, known positions, known momenta — predict the future. It sounds trivial, but this question defeated Isaac Newton, dominated a royal mathematics competition in 1889, and ultimately exposed a hard limit on what science can ever know. This post traces how Henri Poincaré won King Oscar II's prize not by solving the three-body problem but by proving it analytically unsolvable, discovering saddle points and extreme sensitivity to initial conditions along the way. The result was a new kind of physics — chaos theory — and the unsettling insight that a fully deterministic universe can still be fundamentally unpredictable."
-tags: ["chaos theory", "three-body problem", "history of physics", "classical mechanics", "determinism"]
-tagKeys: ["chaos-theory", "three-body-problem", "history-of-physics", "classical-mechanics", "determinism"]
+title: 'The Three-Body Problem: How a Simple Question Broke Newtonian Physics'
+date: '2024-07-15'
+videoUrl: 'https://www.youtube.com/watch?v=l2wnqlcOL9A'
+channelName: Up and Atom
+channelUrl: 'https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw'
+shortDescription: >-
+  Three masses, known positions, known momenta — predict the future. It sounds
+  trivial, but this question defeated Isaac Newton, dominated a royal
+  mathematics competition in 1889, and ultimately exposed a hard limit on what
+  science can ever know. This post traces how Henri Poincaré won King Oscar II's
+  prize not by solving the three-body problem but by proving it analytically
+  unsolvable, discovering saddle points and extreme sensitivity to initial
+  conditions along the way. The result was a new kind of physics — chaos theory
+  — and the unsettling insight that a fully deterministic universe can still be
+  fundamentally unpredictable.
+tags:
+  - classical mechanics
+  - philosophy
+tagKeys:
+  - classical-mechanics
+  - philosophy
 ---
 
 # The Three-Body Problem: How a Simple Question Broke Newtonian Physics

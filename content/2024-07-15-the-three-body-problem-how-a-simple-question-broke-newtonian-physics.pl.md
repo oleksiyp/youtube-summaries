@@ -1,12 +1,27 @@
 ---
-title: "Problem trzech ciał: jak Poincaré udowodnił, że wszechświata nie da się przewidzieć"
-date: "2024-07-15"
-videoUrl: "https://www.youtube.com/watch?v=l2wnqlcOL9A"
-channelName: "Up and Atom"
-channelUrl: "https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw"
-shortDescription: "Pozornie proste pytanie o ruch trzech mas oddziałujących grawitacyjnie przez ponad 200 lat opierało się największym umysłom — od Newtona po uczestników konkursu króla Oskara II. Henri Poincaré nie rozwiązał problemu, lecz udowodnił jego analityczną nierozwiązywalność i odkrył punkty siodłowe, czyli ekstremalną wrażliwość na warunki początkowe. Tekst wyjaśnia, dlaczego układy w pełni deterministyczne mogą być zarazem całkowicie nieprzewidywalne oraz co dziś oznaczają „rozwiązania szczególne\" i całkowanie numeryczne. To także opowieść o narodzinach teorii chaosu i o tym, że przełom przyniosła zmiana perspektywy, a nie większa moc obliczeniowa."
-tags: ["teoria chaosu", "problem trzech ciał", "historia fizyki", "mechanika klasyczna", "determinizm"]
-tagKeys: ["chaos-theory", "three-body-problem", "history-of-physics", "classical-mechanics", "determinism"]
+title: >-
+  Problem trzech ciał: jak Poincaré udowodnił, że wszechświata nie da się
+  przewidzieć
+date: '2024-07-15'
+videoUrl: 'https://www.youtube.com/watch?v=l2wnqlcOL9A'
+channelName: Up and Atom
+channelUrl: 'https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw'
+shortDescription: >-
+  Pozornie proste pytanie o ruch trzech mas oddziałujących grawitacyjnie przez
+  ponad 200 lat opierało się największym umysłom — od Newtona po uczestników
+  konkursu króla Oskara II. Henri Poincaré nie rozwiązał problemu, lecz
+  udowodnił jego analityczną nierozwiązywalność i odkrył punkty siodłowe, czyli
+  ekstremalną wrażliwość na warunki początkowe. Tekst wyjaśnia, dlaczego układy
+  w pełni deterministyczne mogą być zarazem całkowicie nieprzewidywalne oraz co
+  dziś oznaczają „rozwiązania szczególne" i całkowanie numeryczne. To także
+  opowieść o narodzinach teorii chaosu i o tym, że przełom przyniosła zmiana
+  perspektywy, a nie większa moc obliczeniowa.
+tags:
+  - mechanika klasyczna
+  - filozofia
+tagKeys:
+  - classical-mechanics
+  - philosophy
 ---
 
 # Problem trzech ciał — jak proste pytanie o planety obaliło deterministyczny obraz wszechświata

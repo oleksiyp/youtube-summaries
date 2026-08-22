@@ -1,12 +1,33 @@
 ---
-title: "Pop Psychology's Label Trap: Why \"Abuse,\" \"Boundaries,\" and \"Self-Realization\" Often Mean Nothing"
-date: "2024-06-09"
-videoUrl: "https://www.youtube.com/watch?v=K3uCnNJpjU0"
-channelName: "Закрой гештальт"
-channelUrl: "https://www.youtube.com/channel/UCcOnW65LFjtdadcWGkLR4QA"
-shortDescription: "Clinical vocabulary has flooded everyday conversation, but the fashionable terms people reach for frequently obscure more than they reveal — an ordinary quarrel becomes \"abuse,\" aimless apathy poses as a search for \"self-realization,\" and defensive boundary-setting crowds out any talk of dignity. This post unpacks what these words genuinely mean, why real abuse is rare and tied to psychopathy while ordinary relational conflict can actually be repaired, and how cultivating an inner sense of dignity makes saying \"no\" effortless without building a fortified wall. It also warns against the habit of self-diagnosing from popular books, where vague symptom descriptions let readers find every disorder in themselves, and against treating a therapist as a reflex response to every difficulty. The core message: not every hardship requires correction, and living through your own challenges is how you actually grow."
-tags: ["pop psychology", "personal boundaries", "mental health", "psychotherapy", "self-development"]
-tagKeys: ["pop-psychology", "personal-boundaries", "mental-health", "psychotherapy", "self-development"]
+title: >-
+  Pop Psychology's Label Trap: Why "Abuse," "Boundaries," and "Self-Realization"
+  Often Mean Nothing
+date: '2024-06-09'
+videoUrl: 'https://www.youtube.com/watch?v=K3uCnNJpjU0'
+channelName: Закрой гештальт
+channelUrl: 'https://www.youtube.com/channel/UCcOnW65LFjtdadcWGkLR4QA'
+shortDescription: >-
+  Clinical vocabulary has flooded everyday conversation, but the fashionable
+  terms people reach for frequently obscure more than they reveal — an ordinary
+  quarrel becomes "abuse," aimless apathy poses as a search for
+  "self-realization," and defensive boundary-setting crowds out any talk of
+  dignity. This post unpacks what these words genuinely mean, why real abuse is
+  rare and tied to psychopathy while ordinary relational conflict can actually
+  be repaired, and how cultivating an inner sense of dignity makes saying "no"
+  effortless without building a fortified wall. It also warns against the habit
+  of self-diagnosing from popular books, where vague symptom descriptions let
+  readers find every disorder in themselves, and against treating a therapist as
+  a reflex response to every difficulty. The core message: not every hardship
+  requires correction, and living through your own challenges is how you
+  actually grow.
+tags:
+  - psychology
+  - relationships
+  - personal development
+tagKeys:
+  - psychology
+  - relationships
+  - personal-development
 ---
 
 # Pop Psychology: When Psychological Labels Replace Real Understanding

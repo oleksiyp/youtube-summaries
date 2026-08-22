@@ -1,12 +1,29 @@
 ---
-title: "Psychologia popularna: gdy modne etykiety zastępują prawdziwe rozumienie siebie"
-date: "2024-06-09"
-videoUrl: "https://www.youtube.com/watch?v=K3uCnNJpjU0"
-channelName: "Закрой гештальт"
-channelUrl: "https://www.youtube.com/channel/UCcOnW65LFjtdadcWGkLR4QA"
-shortDescription: "Coraz częściej zamiast mówić o swoich przeżyciach, sięgamy po gotowe terminy — „abuz”, „dewaluacja”, „granice”, „samorealizacja” — nie rozumiejąc, co naprawdę oznaczają. Autorka wyjaśnia, czym różni się rzeczywista przemoc psychiczna od zwykłego konfliktu, dlaczego poczucie godności jest skuteczniejsze niż nieustanna obrona granic i na czym polega efekt „studenta trzeciego roku medycyny” przy czytaniu poradników. Ostrzega też przed nadmierną psychologizacją życia, która odbiera nam smak własnych, niepowtarzalnych doświadczeń i wyzwań. To zaproszenie do refleksji: nie każda trudność wymaga diagnozy, a niektóre próby lepiej przejść samodzielnie."
-tags: ["psychologia popularna", "granice osobiste", "zdrowie psychiczne", "psychoterapia", "rozwój osobisty"]
-tagKeys: ["pop-psychology", "personal-boundaries", "mental-health", "psychotherapy", "self-development"]
+title: >-
+  Psychologia popularna: gdy modne etykiety zastępują prawdziwe rozumienie
+  siebie
+date: '2024-06-09'
+videoUrl: 'https://www.youtube.com/watch?v=K3uCnNJpjU0'
+channelName: Закрой гештальт
+channelUrl: 'https://www.youtube.com/channel/UCcOnW65LFjtdadcWGkLR4QA'
+shortDescription: >-
+  Coraz częściej zamiast mówić o swoich przeżyciach, sięgamy po gotowe terminy —
+  „abuz”, „dewaluacja”, „granice”, „samorealizacja” — nie rozumiejąc, co
+  naprawdę oznaczają. Autorka wyjaśnia, czym różni się rzeczywista przemoc
+  psychiczna od zwykłego konfliktu, dlaczego poczucie godności jest
+  skuteczniejsze niż nieustanna obrona granic i na czym polega efekt „studenta
+  trzeciego roku medycyny” przy czytaniu poradników. Ostrzega też przed
+  nadmierną psychologizacją życia, która odbiera nam smak własnych,
+  niepowtarzalnych doświadczeń i wyzwań. To zaproszenie do refleksji: nie każda
+  trudność wymaga diagnozy, a niektóre próby lepiej przejść samodzielnie.
+tags:
+  - psychology
+  - relacje
+  - rozwój osobisty
+tagKeys:
+  - psychology
+  - relationships
+  - personal-development
 ---
 
 # Psychologia popularna — kiedy modne terminy zastępują zdrowy rozsądek

@@ -18,18 +18,14 @@ shortDescription: >-
   власних когнітивних обмежень.
 tags:
   - когнітивні упередження
-  - еволюція мозку
-  - медійні маніпуляції
-  - інформаційна грамотність
+  - evolutionary biology
+  - медійна маніпуляція
   - критичне мислення
-  - техніки пропаганди
 tagKeys:
   - cognitive-biases
-  - brain-evolution
+  - evolutionary-biology
   - media-manipulation
-  - information-literacy
   - critical-thinking
-  - propaganda-techniques
 ---
 
 # Чому інтернет не робить нас розумнішими: біологічний погляд на сприйняття інформації

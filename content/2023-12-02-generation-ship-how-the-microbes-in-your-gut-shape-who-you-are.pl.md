@@ -1,12 +1,32 @@
 ---
-title: "Mikrobiom jelitowy: czy jesteśmy statkami pokoleniowymi sterowanymi przez bakterie?"
-date: "2023-12-02"
-videoUrl: "https://www.youtube.com/watch?v=e10yOoP-x3g"
-channelName: "Anton Petrov"
-channelUrl: "https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ"
-shortDescription: "Nasze jelita to najgęściej zaludnione środowisko mikrobiologiczne na Ziemi — żyje w nich od 300 do 1000 gatunków bakterii, archeonów i grzybów, których geny stukrotnie przewyższają liczbę genów ludzkiego genomu. Tekst wyjaśnia, jak mikrobiota chroni nas przed patogenami, wspiera metabolizm i odporność oraz oddziałuje na mózg poprzez oś jelita–mózg. Poznasz wyniki badań nad skamieniałymi odchodami sprzed 2000 lat, które pokazują dramatyczny spadek różnorodności mikrobiomu po industrializacji, a także eksperymenty z przeszczepem kału odwracające u myszy część procesów starzenia. Na koniec pojawia się najbardziej zaskakująca teza: dieta i bakterie mogą z czasem kształtować naszą osobowość i zdolności poznawcze."
-tags: ["mikrobiom jelitowy", "mikrobiologia", "oś jelitowo-mózgowa", "dieta i odżywianie", "zdrowie człowieka"]
-tagKeys: ["gut-microbiome", "microbiology", "gut-brain-axis", "diet-and-nutrition", "human-health"]
+title: >-
+  Mikrobiom jelitowy: czy jesteśmy statkami pokoleniowymi sterowanymi przez
+  bakterie?
+date: '2023-12-02'
+videoUrl: 'https://www.youtube.com/watch?v=e10yOoP-x3g'
+channelName: Anton Petrov
+channelUrl: 'https://www.youtube.com/channel/UCciQ8wFcVoIIMi-lfu8-cjQ'
+shortDescription: >-
+  Nasze jelita to najgęściej zaludnione środowisko mikrobiologiczne na Ziemi —
+  żyje w nich od 300 do 1000 gatunków bakterii, archeonów i grzybów, których
+  geny stukrotnie przewyższają liczbę genów ludzkiego genomu. Tekst wyjaśnia,
+  jak mikrobiota chroni nas przed patogenami, wspiera metabolizm i odporność
+  oraz oddziałuje na mózg poprzez oś jelita–mózg. Poznasz wyniki badań nad
+  skamieniałymi odchodami sprzed 2000 lat, które pokazują dramatyczny spadek
+  różnorodności mikrobiomu po industrializacji, a także eksperymenty z
+  przeszczepem kału odwracające u myszy część procesów starzenia. Na koniec
+  pojawia się najbardziej zaskakująca teza: dieta i bakterie mogą z czasem
+  kształtować naszą osobowość i zdolności poznawcze.
+tags:
+  - biologia molekularna
+  - neuronauka
+  - żywienie
+  - medycyna prewencyjna
+tagKeys:
+  - molecular-biology
+  - neuroscience
+  - nutrition
+  - preventive-medicine
 ---
 
 # Mikrobiom jelitowy — kim właściwie jesteśmy?

@@ -1,12 +1,32 @@
 ---
-title: "Zniekształcenia poznawcze: przewodnik po najczęstszych pułapkach myślenia"
-date: "2024-08-03"
-videoUrl: "https://www.youtube.com/watch?v=NXKYvP_aTmI"
-channelName: "Лобстер Sapiens"
-channelUrl: "https://www.youtube.com/channel/UCDu1AEu8xn-iQ4m8r-thaKA"
-shortDescription: "Uporządkowany przegląd błędów poznawczych, które codziennie wpływają na to, jak oceniamy siebie, innych i otaczającą nas rzeczywistość — od podstawowego błędu atrybucji i efektu potwierdzenia, po efekt Dunninga–Krugera, złudzenie kontroli i eskalację zaangażowania. Każde zjawisko zostało wyjaśnione prostym językiem i zilustrowane przykładami z pracy, nauki, relacji, zakupów i inwestowania. Materiał pokazuje, jak te automatyczne skróty myślowe systematycznie zniekształcają nasze postrzeganie ryzyka, sukcesu i przeszłości. Kluczowy wniosek: świadomość istnienia tych pułapek oraz nawyk poszukiwania alternatywnych wyjaśnień i dowodów przeciwnych realnie ogranicza ich wpływ na nasze decyzje."
-tags: ["cognitive biases", "psychology", "decision making", "critical thinking", "self-awareness"]
-tagKeys: ["cognitive-biases", "psychology", "decision-making", "critical-thinking", "self-awareness"]
+title: 'Zniekształcenia poznawcze: przewodnik po najczęstszych pułapkach myślenia'
+date: '2024-08-03'
+videoUrl: 'https://www.youtube.com/watch?v=NXKYvP_aTmI'
+channelName: Лобстер Sapiens
+channelUrl: 'https://www.youtube.com/channel/UCDu1AEu8xn-iQ4m8r-thaKA'
+shortDescription: >-
+  Uporządkowany przegląd błędów poznawczych, które codziennie wpływają na to,
+  jak oceniamy siebie, innych i otaczającą nas rzeczywistość — od podstawowego
+  błędu atrybucji i efektu potwierdzenia, po efekt Dunninga–Krugera, złudzenie
+  kontroli i eskalację zaangażowania. Każde zjawisko zostało wyjaśnione prostym
+  językiem i zilustrowane przykładami z pracy, nauki, relacji, zakupów i
+  inwestowania. Materiał pokazuje, jak te automatyczne skróty myślowe
+  systematycznie zniekształcają nasze postrzeganie ryzyka, sukcesu i
+  przeszłości. Kluczowy wniosek: świadomość istnienia tych pułapek oraz nawyk
+  poszukiwania alternatywnych wyjaśnień i dowodów przeciwnych realnie ogranicza
+  ich wpływ na nasze decyzje.
+tags:
+  - błędy poznawcze
+  - psychology
+  - podejmowanie decyzji
+  - myślenie krytyczne
+  - self-awareness
+tagKeys:
+  - cognitive-biases
+  - psychology
+  - decision-making
+  - critical-thinking
+  - self-awareness
 ---
 
 # Zniekształcenia poznawcze — przegląd najczęstszych błędów myślenia
